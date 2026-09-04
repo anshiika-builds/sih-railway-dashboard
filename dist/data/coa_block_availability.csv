@@ -1,0 +1,1501 @@
+block_window_id,corridor_id,block_date,window_start,window_end,available_duration_min,availability_status,source
+COA-00001,COR-091,2026-09-24,15:00,17:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00002,COR-001,2026-09-10,01:00,05:00,240,Reserved,COA System Feed
+COA-00003,COR-072,2026-09-22,13:00,17:00,240,Reserved,COA System Feed
+COA-00004,COR-011,2026-09-29,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-00005,COR-084,2026-09-26,11:00,13:00,120,Reserved,AI Predicted Margin
+COA-00006,COR-030,2026-09-13,13:00,15:00,120,Available,COA System Feed
+COA-00007,COR-086,2026-09-18,10:00,14:00,240,Reserved,Division Manual Entry
+COA-00008,COR-061,2026-09-24,16:00,19:00,180,Occupied by Freight,Division Manual Entry
+COA-00009,COR-061,2026-09-18,10:00,12:00,120,Available,AI Predicted Margin
+COA-00010,COR-084,2026-09-11,10:00,14:00,240,Occupied by Freight,Division Manual Entry
+COA-00011,COR-018,2026-09-18,11:00,14:00,180,Occupied by Freight,AI Predicted Margin
+COA-00012,COR-060,2026-09-11,18:00,22:00,240,Available,AI Predicted Margin
+COA-00013,COR-011,2026-09-17,00:00,02:00,120,Reserved,AI Predicted Margin
+COA-00014,COR-050,2026-09-11,01:00,05:00,240,Occupied by Freight,AI Predicted Margin
+COA-00015,COR-078,2026-09-27,13:00,16:00,180,Occupied by Freight,AI Predicted Margin
+COA-00016,COR-008,2026-09-14,02:00,05:00,180,Reserved,COA System Feed
+COA-00017,COR-046,2026-09-22,13:00,15:00,120,Available,Division Manual Entry
+COA-00018,COR-096,2026-09-16,03:00,06:00,180,Available,COA System Feed
+COA-00019,COR-034,2026-09-10,11:00,15:00,240,Reserved,Division Manual Entry
+COA-00020,COR-074,2026-09-21,05:00,09:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00021,COR-083,2026-09-21,10:00,14:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00022,COR-079,2026-09-12,15:00,17:00,120,Reserved,COA System Feed
+COA-00023,COR-065,2026-09-24,16:00,18:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00024,COR-094,2026-09-16,05:00,08:00,180,Reserved,Division Manual Entry
+COA-00025,COR-032,2026-09-19,18:00,20:00,120,Available,COA System Feed
+COA-00026,COR-096,2026-09-27,03:00,05:00,120,Available,COA System Feed
+COA-00027,COR-088,2026-09-24,02:00,05:00,180,Occupied by Freight,AI Predicted Margin
+COA-00028,COR-070,2026-09-26,12:00,15:00,180,Occupied by Freight,AI Predicted Margin
+COA-00029,COR-033,2026-09-12,14:00,17:00,180,Reserved,Division Manual Entry
+COA-00030,COR-061,2026-09-22,19:00,22:00,180,Reserved,Division Manual Entry
+COA-00031,COR-098,2026-09-23,07:00,11:00,240,Blocked for Track Machine,COA System Feed
+COA-00032,COR-100,2026-09-14,18:00,21:00,180,Occupied by Freight,COA System Feed
+COA-00033,COR-014,2026-09-19,05:00,07:00,120,Reserved,AI Predicted Margin
+COA-00034,COR-001,2026-09-23,20:00,22:00,120,Occupied by Freight,Division Manual Entry
+COA-00035,COR-098,2026-09-20,20:00,22:00,120,Reserved,COA System Feed
+COA-00036,COR-024,2026-09-25,19:00,21:00,120,Occupied by Freight,COA System Feed
+COA-00037,COR-100,2026-09-25,19:00,23:00,240,Available,COA System Feed
+COA-00038,COR-013,2026-09-11,09:00,13:00,240,Available,Division Manual Entry
+COA-00039,COR-030,2026-09-24,17:00,19:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00040,COR-035,2026-09-14,09:00,13:00,240,Reserved,COA System Feed
+COA-00041,COR-038,2026-09-11,12:00,16:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00042,COR-067,2026-09-25,15:00,18:00,180,Occupied by Freight,Division Manual Entry
+COA-00043,COR-035,2026-09-23,15:00,18:00,180,Available,COA System Feed
+COA-00044,COR-080,2026-09-12,00:00,03:00,180,Occupied by Freight,AI Predicted Margin
+COA-00045,COR-080,2026-09-28,09:00,13:00,240,Available,AI Predicted Margin
+COA-00046,COR-035,2026-09-10,09:00,13:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00047,COR-022,2026-09-25,02:00,05:00,180,Reserved,COA System Feed
+COA-00048,COR-087,2026-09-16,16:00,20:00,240,Blocked for Track Machine,COA System Feed
+COA-00049,COR-080,2026-09-29,18:00,22:00,240,Reserved,COA System Feed
+COA-00050,COR-077,2026-09-21,12:00,15:00,180,Available,Division Manual Entry
+COA-00051,COR-098,2026-09-26,02:00,06:00,240,Blocked for Track Machine,COA System Feed
+COA-00052,COR-037,2026-09-10,06:00,10:00,240,Occupied by Freight,COA System Feed
+COA-00053,COR-039,2026-09-27,11:00,15:00,240,Reserved,AI Predicted Margin
+COA-00054,COR-024,2026-09-10,12:00,15:00,180,Occupied by Freight,AI Predicted Margin
+COA-00055,COR-040,2026-09-14,04:00,07:00,180,Available,COA System Feed
+COA-00056,COR-051,2026-09-11,01:00,03:00,120,Available,AI Predicted Margin
+COA-00057,COR-083,2026-09-19,12:00,15:00,180,Reserved,COA System Feed
+COA-00058,COR-033,2026-09-11,14:00,16:00,120,Reserved,COA System Feed
+COA-00059,COR-064,2026-09-11,05:00,07:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00060,COR-069,2026-09-29,15:00,18:00,180,Blocked for Track Machine,COA System Feed
+COA-00061,COR-037,2026-09-25,13:00,16:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00062,COR-079,2026-09-19,11:00,14:00,180,Reserved,AI Predicted Margin
+COA-00063,COR-085,2026-09-26,08:00,11:00,180,Reserved,COA System Feed
+COA-00064,COR-061,2026-09-24,15:00,19:00,240,Blocked for Track Machine,COA System Feed
+COA-00065,COR-036,2026-09-11,06:00,10:00,240,Available,AI Predicted Margin
+COA-00066,COR-096,2026-09-15,13:00,16:00,180,Reserved,COA System Feed
+COA-00067,COR-017,2026-09-24,20:00,23:00,180,Available,COA System Feed
+COA-00068,COR-001,2026-09-09,07:00,09:00,120,Occupied by Freight,AI Predicted Margin
+COA-00069,COR-057,2026-09-23,18:00,21:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00070,COR-083,2026-09-18,03:00,05:00,120,Available,COA System Feed
+COA-00071,COR-017,2026-09-17,01:00,05:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00072,COR-022,2026-09-09,14:00,16:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00073,COR-094,2026-09-17,02:00,04:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00074,COR-089,2026-09-25,05:00,07:00,120,Available,COA System Feed
+COA-00075,COR-053,2026-09-24,13:00,16:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00076,COR-085,2026-09-24,17:00,21:00,240,Reserved,COA System Feed
+COA-00077,COR-022,2026-09-20,19:00,23:00,240,Reserved,COA System Feed
+COA-00078,COR-051,2026-09-22,05:00,08:00,180,Reserved,Division Manual Entry
+COA-00079,COR-079,2026-09-09,06:00,09:00,180,Occupied by Freight,AI Predicted Margin
+COA-00080,COR-068,2026-09-24,08:00,12:00,240,Occupied by Freight,Division Manual Entry
+COA-00081,COR-039,2026-09-22,04:00,08:00,240,Reserved,Division Manual Entry
+COA-00082,COR-056,2026-09-13,16:00,19:00,180,Reserved,Division Manual Entry
+COA-00083,COR-074,2026-09-16,10:00,14:00,240,Available,COA System Feed
+COA-00084,COR-095,2026-09-14,20:00,23:00,180,Available,COA System Feed
+COA-00085,COR-077,2026-09-28,05:00,07:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00086,COR-083,2026-09-24,20:00,22:00,120,Blocked for Track Machine,COA System Feed
+COA-00087,COR-021,2026-09-28,15:00,19:00,240,Blocked for Track Machine,COA System Feed
+COA-00088,COR-058,2026-09-13,16:00,20:00,240,Available,Division Manual Entry
+COA-00089,COR-084,2026-09-19,14:00,18:00,240,Occupied by Freight,AI Predicted Margin
+COA-00090,COR-035,2026-09-13,01:00,04:00,180,Blocked for Track Machine,COA System Feed
+COA-00091,COR-027,2026-09-13,08:00,11:00,180,Occupied by Freight,AI Predicted Margin
+COA-00092,COR-042,2026-09-20,12:00,14:00,120,Occupied by Freight,AI Predicted Margin
+COA-00093,COR-008,2026-09-11,07:00,10:00,180,Reserved,Division Manual Entry
+COA-00094,COR-030,2026-09-16,00:00,04:00,240,Available,AI Predicted Margin
+COA-00095,COR-026,2026-09-21,10:00,14:00,240,Occupied by Freight,AI Predicted Margin
+COA-00096,COR-062,2026-09-10,06:00,09:00,180,Reserved,AI Predicted Margin
+COA-00097,COR-024,2026-09-14,19:00,21:00,120,Occupied by Freight,COA System Feed
+COA-00098,COR-035,2026-09-21,02:00,06:00,240,Reserved,COA System Feed
+COA-00099,COR-008,2026-09-14,17:00,21:00,240,Available,AI Predicted Margin
+COA-00100,COR-077,2026-09-18,07:00,11:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00101,COR-044,2026-09-21,01:00,04:00,180,Occupied by Freight,Division Manual Entry
+COA-00102,COR-022,2026-09-20,07:00,10:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00103,COR-092,2026-09-12,12:00,16:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00104,COR-100,2026-09-20,08:00,11:00,180,Blocked for Track Machine,COA System Feed
+COA-00105,COR-004,2026-09-15,07:00,10:00,180,Available,COA System Feed
+COA-00106,COR-077,2026-09-20,03:00,07:00,240,Available,COA System Feed
+COA-00107,COR-055,2026-09-23,00:00,02:00,120,Reserved,COA System Feed
+COA-00108,COR-030,2026-09-16,10:00,14:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00109,COR-006,2026-09-19,12:00,16:00,240,Reserved,AI Predicted Margin
+COA-00110,COR-090,2026-09-10,20:00,23:00,180,Occupied by Freight,Division Manual Entry
+COA-00111,COR-018,2026-09-16,18:00,20:00,120,Available,COA System Feed
+COA-00112,COR-073,2026-09-14,03:00,06:00,180,Reserved,Division Manual Entry
+COA-00113,COR-014,2026-09-13,19:00,21:00,120,Available,COA System Feed
+COA-00114,COR-037,2026-09-21,14:00,16:00,120,Reserved,AI Predicted Margin
+COA-00115,COR-059,2026-09-24,00:00,03:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00116,COR-004,2026-09-13,16:00,18:00,120,Available,Division Manual Entry
+COA-00117,COR-068,2026-09-12,20:00,23:00,180,Occupied by Freight,Division Manual Entry
+COA-00118,COR-059,2026-09-11,06:00,10:00,240,Available,Division Manual Entry
+COA-00119,COR-100,2026-09-16,14:00,17:00,180,Reserved,Division Manual Entry
+COA-00120,COR-100,2026-09-12,15:00,17:00,120,Reserved,Division Manual Entry
+COA-00121,COR-030,2026-09-19,14:00,18:00,240,Available,AI Predicted Margin
+COA-00122,COR-082,2026-09-21,09:00,13:00,240,Reserved,COA System Feed
+COA-00123,COR-008,2026-09-26,02:00,04:00,120,Occupied by Freight,Division Manual Entry
+COA-00124,COR-082,2026-09-27,09:00,12:00,180,Available,AI Predicted Margin
+COA-00125,COR-080,2026-09-09,10:00,12:00,120,Reserved,Division Manual Entry
+COA-00126,COR-022,2026-09-16,09:00,13:00,240,Available,Division Manual Entry
+COA-00127,COR-047,2026-09-25,13:00,17:00,240,Reserved,Division Manual Entry
+COA-00128,COR-079,2026-09-13,05:00,08:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00129,COR-064,2026-09-12,01:00,03:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00130,COR-067,2026-09-28,16:00,20:00,240,Blocked for Track Machine,COA System Feed
+COA-00131,COR-023,2026-09-26,20:00,23:00,180,Blocked for Track Machine,COA System Feed
+COA-00132,COR-060,2026-09-16,11:00,15:00,240,Reserved,Division Manual Entry
+COA-00133,COR-049,2026-09-21,07:00,09:00,120,Occupied by Freight,COA System Feed
+COA-00134,COR-084,2026-09-16,07:00,09:00,120,Reserved,Division Manual Entry
+COA-00135,COR-075,2026-09-20,20:00,22:00,120,Available,Division Manual Entry
+COA-00136,COR-044,2026-09-29,01:00,03:00,120,Available,AI Predicted Margin
+COA-00137,COR-088,2026-09-21,16:00,19:00,180,Occupied by Freight,Division Manual Entry
+COA-00138,COR-014,2026-09-15,18:00,22:00,240,Reserved,COA System Feed
+COA-00139,COR-047,2026-09-11,19:00,23:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00140,COR-017,2026-09-22,19:00,22:00,180,Available,COA System Feed
+COA-00141,COR-035,2026-09-19,07:00,11:00,240,Reserved,Division Manual Entry
+COA-00142,COR-092,2026-09-25,05:00,09:00,240,Blocked for Track Machine,COA System Feed
+COA-00143,COR-041,2026-09-18,16:00,20:00,240,Occupied by Freight,COA System Feed
+COA-00144,COR-053,2026-09-27,13:00,17:00,240,Occupied by Freight,Division Manual Entry
+COA-00145,COR-083,2026-09-15,02:00,05:00,180,Reserved,AI Predicted Margin
+COA-00146,COR-052,2026-09-28,04:00,08:00,240,Available,COA System Feed
+COA-00147,COR-098,2026-09-25,06:00,08:00,120,Reserved,AI Predicted Margin
+COA-00148,COR-007,2026-09-11,12:00,14:00,120,Occupied by Freight,AI Predicted Margin
+COA-00149,COR-099,2026-09-15,00:00,02:00,120,Occupied by Freight,AI Predicted Margin
+COA-00150,COR-019,2026-09-14,01:00,03:00,120,Reserved,Division Manual Entry
+COA-00151,COR-075,2026-09-17,01:00,04:00,180,Occupied by Freight,AI Predicted Margin
+COA-00152,COR-088,2026-09-21,17:00,21:00,240,Reserved,COA System Feed
+COA-00153,COR-066,2026-09-21,19:00,21:00,120,Reserved,COA System Feed
+COA-00154,COR-053,2026-09-10,09:00,12:00,180,Reserved,Division Manual Entry
+COA-00155,COR-084,2026-09-25,20:00,23:00,180,Occupied by Freight,Division Manual Entry
+COA-00156,COR-074,2026-09-19,07:00,10:00,180,Available,Division Manual Entry
+COA-00157,COR-021,2026-09-23,02:00,05:00,180,Reserved,Division Manual Entry
+COA-00158,COR-025,2026-09-16,15:00,18:00,180,Occupied by Freight,COA System Feed
+COA-00159,COR-017,2026-09-17,19:00,23:00,240,Reserved,Division Manual Entry
+COA-00160,COR-073,2026-09-23,14:00,16:00,120,Available,AI Predicted Margin
+COA-00161,COR-006,2026-09-21,05:00,09:00,240,Blocked for Track Machine,COA System Feed
+COA-00162,COR-023,2026-09-22,02:00,06:00,240,Blocked for Track Machine,COA System Feed
+COA-00163,COR-010,2026-09-19,07:00,10:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00164,COR-058,2026-09-15,04:00,06:00,120,Available,Division Manual Entry
+COA-00165,COR-007,2026-09-22,09:00,11:00,120,Blocked for Track Machine,COA System Feed
+COA-00166,COR-096,2026-09-18,13:00,17:00,240,Reserved,Division Manual Entry
+COA-00167,COR-056,2026-09-23,01:00,05:00,240,Occupied by Freight,COA System Feed
+COA-00168,COR-022,2026-09-28,03:00,07:00,240,Available,COA System Feed
+COA-00169,COR-040,2026-09-25,03:00,05:00,120,Available,AI Predicted Margin
+COA-00170,COR-071,2026-09-27,06:00,09:00,180,Available,COA System Feed
+COA-00171,COR-053,2026-09-09,15:00,19:00,240,Reserved,COA System Feed
+COA-00172,COR-005,2026-09-19,15:00,19:00,240,Reserved,COA System Feed
+COA-00173,COR-002,2026-09-17,08:00,11:00,180,Available,Division Manual Entry
+COA-00174,COR-042,2026-09-19,06:00,09:00,180,Blocked for Track Machine,COA System Feed
+COA-00175,COR-065,2026-09-29,11:00,14:00,180,Available,Division Manual Entry
+COA-00176,COR-064,2026-09-21,19:00,21:00,120,Available,Division Manual Entry
+COA-00177,COR-057,2026-09-09,18:00,20:00,120,Available,Division Manual Entry
+COA-00178,COR-100,2026-09-14,02:00,06:00,240,Reserved,COA System Feed
+COA-00179,COR-079,2026-09-23,07:00,11:00,240,Reserved,Division Manual Entry
+COA-00180,COR-074,2026-09-23,12:00,15:00,180,Reserved,AI Predicted Margin
+COA-00181,COR-023,2026-09-11,01:00,04:00,180,Available,AI Predicted Margin
+COA-00182,COR-060,2026-09-29,14:00,16:00,120,Available,Division Manual Entry
+COA-00183,COR-003,2026-09-26,09:00,13:00,240,Occupied by Freight,AI Predicted Margin
+COA-00184,COR-067,2026-09-26,12:00,16:00,240,Occupied by Freight,COA System Feed
+COA-00185,COR-083,2026-09-11,02:00,06:00,240,Available,Division Manual Entry
+COA-00186,COR-074,2026-09-22,04:00,07:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00187,COR-054,2026-09-16,02:00,04:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00188,COR-015,2026-09-17,07:00,09:00,120,Occupied by Freight,AI Predicted Margin
+COA-00189,COR-098,2026-09-23,15:00,18:00,180,Reserved,AI Predicted Margin
+COA-00190,COR-074,2026-09-23,10:00,12:00,120,Available,AI Predicted Margin
+COA-00191,COR-081,2026-09-21,19:00,23:00,240,Available,AI Predicted Margin
+COA-00192,COR-099,2026-09-26,04:00,07:00,180,Available,Division Manual Entry
+COA-00193,COR-054,2026-09-12,07:00,09:00,120,Available,AI Predicted Margin
+COA-00194,COR-091,2026-09-22,04:00,07:00,180,Occupied by Freight,AI Predicted Margin
+COA-00195,COR-005,2026-09-19,01:00,04:00,180,Occupied by Freight,AI Predicted Margin
+COA-00196,COR-062,2026-09-22,14:00,16:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00197,COR-080,2026-09-11,08:00,11:00,180,Occupied by Freight,Division Manual Entry
+COA-00198,COR-082,2026-09-20,12:00,14:00,120,Reserved,AI Predicted Margin
+COA-00199,COR-021,2026-09-23,12:00,14:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00200,COR-044,2026-09-09,17:00,20:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00201,COR-006,2026-09-21,09:00,11:00,120,Reserved,COA System Feed
+COA-00202,COR-003,2026-09-11,00:00,03:00,180,Occupied by Freight,Division Manual Entry
+COA-00203,COR-039,2026-09-18,10:00,12:00,120,Reserved,Division Manual Entry
+COA-00204,COR-093,2026-09-12,13:00,16:00,180,Occupied by Freight,Division Manual Entry
+COA-00205,COR-030,2026-09-13,16:00,18:00,120,Available,AI Predicted Margin
+COA-00206,COR-037,2026-09-26,15:00,18:00,180,Reserved,Division Manual Entry
+COA-00207,COR-008,2026-09-18,10:00,14:00,240,Reserved,COA System Feed
+COA-00208,COR-046,2026-09-27,01:00,05:00,240,Available,COA System Feed
+COA-00209,COR-086,2026-09-09,19:00,23:00,240,Available,AI Predicted Margin
+COA-00210,COR-059,2026-09-20,17:00,20:00,180,Available,AI Predicted Margin
+COA-00211,COR-051,2026-09-24,01:00,03:00,120,Available,COA System Feed
+COA-00212,COR-047,2026-09-11,17:00,21:00,240,Blocked for Track Machine,COA System Feed
+COA-00213,COR-034,2026-09-12,00:00,04:00,240,Reserved,COA System Feed
+COA-00214,COR-072,2026-09-28,14:00,16:00,120,Reserved,Division Manual Entry
+COA-00215,COR-068,2026-09-21,00:00,03:00,180,Available,Division Manual Entry
+COA-00216,COR-060,2026-09-24,20:00,22:00,120,Reserved,Division Manual Entry
+COA-00217,COR-009,2026-09-23,19:00,21:00,120,Available,Division Manual Entry
+COA-00218,COR-087,2026-09-27,17:00,21:00,240,Occupied by Freight,AI Predicted Margin
+COA-00219,COR-007,2026-09-29,15:00,17:00,120,Occupied by Freight,Division Manual Entry
+COA-00220,COR-036,2026-09-12,18:00,21:00,180,Occupied by Freight,Division Manual Entry
+COA-00221,COR-011,2026-09-16,01:00,03:00,120,Reserved,AI Predicted Margin
+COA-00222,COR-012,2026-09-09,02:00,06:00,240,Occupied by Freight,AI Predicted Margin
+COA-00223,COR-035,2026-09-16,19:00,23:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00224,COR-088,2026-09-19,13:00,15:00,120,Reserved,Division Manual Entry
+COA-00225,COR-058,2026-09-12,09:00,12:00,180,Reserved,AI Predicted Margin
+COA-00226,COR-028,2026-09-15,16:00,19:00,180,Blocked for Track Machine,COA System Feed
+COA-00227,COR-093,2026-09-24,09:00,11:00,120,Available,COA System Feed
+COA-00228,COR-029,2026-09-14,12:00,15:00,180,Available,Division Manual Entry
+COA-00229,COR-090,2026-09-23,02:00,05:00,180,Available,AI Predicted Margin
+COA-00230,COR-012,2026-09-22,19:00,23:00,240,Reserved,AI Predicted Margin
+COA-00231,COR-032,2026-09-09,08:00,11:00,180,Available,Division Manual Entry
+COA-00232,COR-021,2026-09-10,04:00,08:00,240,Occupied by Freight,AI Predicted Margin
+COA-00233,COR-053,2026-09-21,09:00,13:00,240,Available,AI Predicted Margin
+COA-00234,COR-051,2026-09-25,05:00,08:00,180,Available,COA System Feed
+COA-00235,COR-018,2026-09-09,13:00,17:00,240,Occupied by Freight,AI Predicted Margin
+COA-00236,COR-090,2026-09-09,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00237,COR-006,2026-09-21,02:00,06:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00238,COR-050,2026-09-13,04:00,07:00,180,Blocked for Track Machine,COA System Feed
+COA-00239,COR-011,2026-09-17,15:00,17:00,120,Occupied by Freight,COA System Feed
+COA-00240,COR-092,2026-09-10,01:00,05:00,240,Available,AI Predicted Margin
+COA-00241,COR-034,2026-09-17,07:00,11:00,240,Blocked for Track Machine,COA System Feed
+COA-00242,COR-098,2026-09-21,12:00,16:00,240,Occupied by Freight,AI Predicted Margin
+COA-00243,COR-087,2026-09-20,14:00,18:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00244,COR-046,2026-09-11,20:00,23:00,180,Available,AI Predicted Margin
+COA-00245,COR-046,2026-09-21,20:00,23:00,180,Occupied by Freight,COA System Feed
+COA-00246,COR-098,2026-09-17,16:00,20:00,240,Available,Division Manual Entry
+COA-00247,COR-051,2026-09-21,12:00,14:00,120,Reserved,Division Manual Entry
+COA-00248,COR-046,2026-09-22,08:00,10:00,120,Reserved,AI Predicted Margin
+COA-00249,COR-055,2026-09-25,19:00,23:00,240,Occupied by Freight,COA System Feed
+COA-00250,COR-098,2026-09-29,01:00,03:00,120,Available,AI Predicted Margin
+COA-00251,COR-049,2026-09-29,05:00,08:00,180,Occupied by Freight,Division Manual Entry
+COA-00252,COR-005,2026-09-27,03:00,07:00,240,Reserved,AI Predicted Margin
+COA-00253,COR-008,2026-09-24,01:00,04:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00254,COR-058,2026-09-19,05:00,09:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00255,COR-090,2026-09-15,12:00,14:00,120,Occupied by Freight,Division Manual Entry
+COA-00256,COR-084,2026-09-19,14:00,16:00,120,Available,COA System Feed
+COA-00257,COR-057,2026-09-24,03:00,05:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00258,COR-059,2026-09-18,20:00,22:00,120,Occupied by Freight,COA System Feed
+COA-00259,COR-031,2026-09-13,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00260,COR-028,2026-09-22,16:00,19:00,180,Occupied by Freight,COA System Feed
+COA-00261,COR-092,2026-09-18,11:00,15:00,240,Reserved,Division Manual Entry
+COA-00262,COR-006,2026-09-17,09:00,11:00,120,Available,Division Manual Entry
+COA-00263,COR-053,2026-09-17,02:00,05:00,180,Occupied by Freight,COA System Feed
+COA-00264,COR-045,2026-09-12,07:00,11:00,240,Blocked for Track Machine,COA System Feed
+COA-00265,COR-018,2026-09-25,08:00,12:00,240,Occupied by Freight,COA System Feed
+COA-00266,COR-011,2026-09-27,10:00,14:00,240,Occupied by Freight,Division Manual Entry
+COA-00267,COR-097,2026-09-10,05:00,08:00,180,Available,COA System Feed
+COA-00268,COR-055,2026-09-24,11:00,13:00,120,Occupied by Freight,Division Manual Entry
+COA-00269,COR-008,2026-09-10,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00270,COR-044,2026-09-25,03:00,07:00,240,Available,AI Predicted Margin
+COA-00271,COR-017,2026-09-12,01:00,04:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00272,COR-013,2026-09-27,10:00,12:00,120,Available,COA System Feed
+COA-00273,COR-054,2026-09-20,17:00,20:00,180,Available,COA System Feed
+COA-00274,COR-028,2026-09-27,14:00,18:00,240,Occupied by Freight,AI Predicted Margin
+COA-00275,COR-028,2026-09-25,08:00,12:00,240,Available,Division Manual Entry
+COA-00276,COR-059,2026-09-29,04:00,06:00,120,Occupied by Freight,COA System Feed
+COA-00277,COR-085,2026-09-23,09:00,13:00,240,Occupied by Freight,COA System Feed
+COA-00278,COR-003,2026-09-24,10:00,12:00,120,Occupied by Freight,COA System Feed
+COA-00279,COR-060,2026-09-19,02:00,05:00,180,Occupied by Freight,COA System Feed
+COA-00280,COR-098,2026-09-12,00:00,03:00,180,Reserved,COA System Feed
+COA-00281,COR-002,2026-09-28,02:00,04:00,120,Reserved,COA System Feed
+COA-00282,COR-030,2026-09-26,09:00,12:00,180,Occupied by Freight,Division Manual Entry
+COA-00283,COR-041,2026-09-13,14:00,17:00,180,Available,AI Predicted Margin
+COA-00284,COR-032,2026-09-22,03:00,05:00,120,Occupied by Freight,AI Predicted Margin
+COA-00285,COR-069,2026-09-22,04:00,08:00,240,Blocked for Track Machine,COA System Feed
+COA-00286,COR-018,2026-09-25,17:00,21:00,240,Reserved,COA System Feed
+COA-00287,COR-048,2026-09-24,09:00,11:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00288,COR-034,2026-09-21,07:00,10:00,180,Occupied by Freight,COA System Feed
+COA-00289,COR-048,2026-09-16,01:00,03:00,120,Reserved,COA System Feed
+COA-00290,COR-047,2026-09-25,01:00,05:00,240,Available,COA System Feed
+COA-00291,COR-076,2026-09-17,07:00,11:00,240,Available,Division Manual Entry
+COA-00292,COR-093,2026-09-28,17:00,20:00,180,Reserved,Division Manual Entry
+COA-00293,COR-061,2026-09-27,16:00,19:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00294,COR-008,2026-09-16,13:00,15:00,120,Available,COA System Feed
+COA-00295,COR-020,2026-09-27,05:00,09:00,240,Occupied by Freight,AI Predicted Margin
+COA-00296,COR-055,2026-09-26,19:00,23:00,240,Blocked for Track Machine,COA System Feed
+COA-00297,COR-080,2026-09-26,02:00,05:00,180,Available,COA System Feed
+COA-00298,COR-097,2026-09-16,04:00,08:00,240,Available,Division Manual Entry
+COA-00299,COR-002,2026-09-17,08:00,12:00,240,Available,AI Predicted Margin
+COA-00300,COR-071,2026-09-25,20:00,23:00,180,Occupied by Freight,Division Manual Entry
+COA-00301,COR-064,2026-09-21,09:00,12:00,180,Available,Division Manual Entry
+COA-00302,COR-053,2026-09-29,11:00,13:00,120,Available,COA System Feed
+COA-00303,COR-013,2026-09-10,10:00,12:00,120,Reserved,AI Predicted Margin
+COA-00304,COR-053,2026-09-18,14:00,17:00,180,Available,Division Manual Entry
+COA-00305,COR-060,2026-09-18,15:00,19:00,240,Reserved,Division Manual Entry
+COA-00306,COR-028,2026-09-19,11:00,15:00,240,Occupied by Freight,COA System Feed
+COA-00307,COR-035,2026-09-17,00:00,04:00,240,Occupied by Freight,AI Predicted Margin
+COA-00308,COR-047,2026-09-15,12:00,14:00,120,Reserved,COA System Feed
+COA-00309,COR-068,2026-09-15,04:00,06:00,120,Blocked for Track Machine,COA System Feed
+COA-00310,COR-026,2026-09-29,03:00,07:00,240,Occupied by Freight,Division Manual Entry
+COA-00311,COR-006,2026-09-12,16:00,20:00,240,Available,COA System Feed
+COA-00312,COR-030,2026-09-27,16:00,19:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00313,COR-052,2026-09-20,00:00,04:00,240,Blocked for Track Machine,COA System Feed
+COA-00314,COR-014,2026-09-13,18:00,21:00,180,Reserved,COA System Feed
+COA-00315,COR-083,2026-09-10,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00316,COR-011,2026-09-23,13:00,15:00,120,Available,Division Manual Entry
+COA-00317,COR-072,2026-09-25,05:00,09:00,240,Blocked for Track Machine,COA System Feed
+COA-00318,COR-024,2026-09-12,16:00,19:00,180,Reserved,COA System Feed
+COA-00319,COR-004,2026-09-20,19:00,22:00,180,Available,Division Manual Entry
+COA-00320,COR-008,2026-09-11,02:00,04:00,120,Available,AI Predicted Margin
+COA-00321,COR-027,2026-09-23,20:00,22:00,120,Available,COA System Feed
+COA-00322,COR-030,2026-09-17,03:00,06:00,180,Occupied by Freight,COA System Feed
+COA-00323,COR-089,2026-09-11,08:00,10:00,120,Occupied by Freight,Division Manual Entry
+COA-00324,COR-072,2026-09-21,12:00,14:00,120,Blocked for Track Machine,COA System Feed
+COA-00325,COR-087,2026-09-18,11:00,14:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00326,COR-022,2026-09-26,13:00,17:00,240,Available,Division Manual Entry
+COA-00327,COR-057,2026-09-17,06:00,08:00,120,Occupied by Freight,Division Manual Entry
+COA-00328,COR-074,2026-09-09,17:00,19:00,120,Occupied by Freight,COA System Feed
+COA-00329,COR-030,2026-09-18,01:00,03:00,120,Occupied by Freight,AI Predicted Margin
+COA-00330,COR-004,2026-09-18,06:00,09:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00331,COR-040,2026-09-18,14:00,16:00,120,Available,AI Predicted Margin
+COA-00332,COR-002,2026-09-29,14:00,16:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00333,COR-035,2026-09-28,19:00,22:00,180,Reserved,Division Manual Entry
+COA-00334,COR-083,2026-09-16,07:00,11:00,240,Reserved,COA System Feed
+COA-00335,COR-077,2026-09-27,09:00,12:00,180,Reserved,COA System Feed
+COA-00336,COR-019,2026-09-17,15:00,17:00,120,Available,AI Predicted Margin
+COA-00337,COR-078,2026-09-25,16:00,19:00,180,Occupied by Freight,AI Predicted Margin
+COA-00338,COR-078,2026-09-17,18:00,21:00,180,Occupied by Freight,AI Predicted Margin
+COA-00339,COR-009,2026-09-23,09:00,11:00,120,Occupied by Freight,AI Predicted Margin
+COA-00340,COR-079,2026-09-11,03:00,05:00,120,Reserved,COA System Feed
+COA-00341,COR-019,2026-09-09,00:00,02:00,120,Blocked for Track Machine,COA System Feed
+COA-00342,COR-059,2026-09-09,15:00,18:00,180,Available,Division Manual Entry
+COA-00343,COR-090,2026-09-29,04:00,08:00,240,Occupied by Freight,AI Predicted Margin
+COA-00344,COR-065,2026-09-26,04:00,06:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00345,COR-092,2026-09-16,00:00,04:00,240,Occupied by Freight,COA System Feed
+COA-00346,COR-040,2026-09-17,07:00,10:00,180,Blocked for Track Machine,COA System Feed
+COA-00347,COR-031,2026-09-28,03:00,05:00,120,Available,COA System Feed
+COA-00348,COR-074,2026-09-23,15:00,18:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00349,COR-099,2026-09-19,17:00,21:00,240,Available,COA System Feed
+COA-00350,COR-092,2026-09-15,15:00,17:00,120,Reserved,AI Predicted Margin
+COA-00351,COR-089,2026-09-15,05:00,07:00,120,Occupied by Freight,AI Predicted Margin
+COA-00352,COR-055,2026-09-12,11:00,14:00,180,Available,Division Manual Entry
+COA-00353,COR-037,2026-09-14,14:00,17:00,180,Occupied by Freight,Division Manual Entry
+COA-00354,COR-023,2026-09-14,15:00,18:00,180,Available,AI Predicted Margin
+COA-00355,COR-010,2026-09-22,02:00,05:00,180,Available,AI Predicted Margin
+COA-00356,COR-041,2026-09-27,17:00,20:00,180,Occupied by Freight,AI Predicted Margin
+COA-00357,COR-033,2026-09-14,02:00,06:00,240,Occupied by Freight,Division Manual Entry
+COA-00358,COR-062,2026-09-13,17:00,21:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00359,COR-030,2026-09-29,16:00,18:00,120,Reserved,AI Predicted Margin
+COA-00360,COR-078,2026-09-14,01:00,05:00,240,Occupied by Freight,AI Predicted Margin
+COA-00361,COR-084,2026-09-23,04:00,07:00,180,Available,Division Manual Entry
+COA-00362,COR-065,2026-09-16,11:00,15:00,240,Reserved,AI Predicted Margin
+COA-00363,COR-076,2026-09-16,05:00,09:00,240,Reserved,AI Predicted Margin
+COA-00364,COR-014,2026-09-11,04:00,07:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00365,COR-033,2026-09-21,12:00,15:00,180,Occupied by Freight,Division Manual Entry
+COA-00366,COR-017,2026-09-11,15:00,17:00,120,Reserved,Division Manual Entry
+COA-00367,COR-067,2026-09-27,03:00,05:00,120,Occupied by Freight,COA System Feed
+COA-00368,COR-051,2026-09-27,12:00,16:00,240,Available,AI Predicted Margin
+COA-00369,COR-033,2026-09-26,17:00,19:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00370,COR-018,2026-09-21,20:00,23:00,180,Available,Division Manual Entry
+COA-00371,COR-008,2026-09-23,07:00,09:00,120,Occupied by Freight,COA System Feed
+COA-00372,COR-027,2026-09-24,10:00,14:00,240,Available,Division Manual Entry
+COA-00373,COR-041,2026-09-26,08:00,10:00,120,Reserved,COA System Feed
+COA-00374,COR-096,2026-09-13,05:00,07:00,120,Reserved,AI Predicted Margin
+COA-00375,COR-029,2026-09-10,08:00,12:00,240,Reserved,AI Predicted Margin
+COA-00376,COR-084,2026-09-29,05:00,09:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00377,COR-007,2026-09-17,01:00,04:00,180,Occupied by Freight,Division Manual Entry
+COA-00378,COR-018,2026-09-27,16:00,18:00,120,Blocked for Track Machine,COA System Feed
+COA-00379,COR-039,2026-09-26,00:00,03:00,180,Occupied by Freight,COA System Feed
+COA-00380,COR-076,2026-09-15,00:00,03:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00381,COR-043,2026-09-25,04:00,08:00,240,Reserved,Division Manual Entry
+COA-00382,COR-019,2026-09-20,01:00,03:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00383,COR-008,2026-09-11,20:00,22:00,120,Reserved,COA System Feed
+COA-00384,COR-037,2026-09-22,20:00,22:00,120,Reserved,Division Manual Entry
+COA-00385,COR-092,2026-09-26,17:00,21:00,240,Available,AI Predicted Margin
+COA-00386,COR-065,2026-09-19,12:00,15:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00387,COR-005,2026-09-14,02:00,04:00,120,Reserved,Division Manual Entry
+COA-00388,COR-005,2026-09-12,18:00,20:00,120,Reserved,COA System Feed
+COA-00389,COR-068,2026-09-10,03:00,06:00,180,Reserved,COA System Feed
+COA-00390,COR-009,2026-09-24,14:00,18:00,240,Available,AI Predicted Margin
+COA-00391,COR-035,2026-09-17,11:00,13:00,120,Occupied by Freight,AI Predicted Margin
+COA-00392,COR-068,2026-09-10,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-00393,COR-008,2026-09-10,02:00,04:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00394,COR-039,2026-09-11,04:00,07:00,180,Occupied by Freight,Division Manual Entry
+COA-00395,COR-006,2026-09-10,19:00,22:00,180,Reserved,COA System Feed
+COA-00396,COR-029,2026-09-09,16:00,19:00,180,Occupied by Freight,Division Manual Entry
+COA-00397,COR-079,2026-09-10,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00398,COR-089,2026-09-13,17:00,19:00,120,Occupied by Freight,AI Predicted Margin
+COA-00399,COR-038,2026-09-10,07:00,11:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00400,COR-070,2026-09-26,18:00,22:00,240,Reserved,Division Manual Entry
+COA-00401,COR-045,2026-09-18,08:00,10:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00402,COR-053,2026-09-11,18:00,22:00,240,Available,Division Manual Entry
+COA-00403,COR-071,2026-09-18,17:00,21:00,240,Available,Division Manual Entry
+COA-00404,COR-020,2026-09-23,09:00,11:00,120,Available,COA System Feed
+COA-00405,COR-037,2026-09-14,12:00,14:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00406,COR-072,2026-09-25,02:00,05:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00407,COR-007,2026-09-14,18:00,20:00,120,Available,Division Manual Entry
+COA-00408,COR-013,2026-09-29,11:00,14:00,180,Reserved,COA System Feed
+COA-00409,COR-036,2026-09-11,15:00,19:00,240,Occupied by Freight,AI Predicted Margin
+COA-00410,COR-029,2026-09-24,16:00,20:00,240,Available,COA System Feed
+COA-00411,COR-056,2026-09-23,18:00,21:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00412,COR-017,2026-09-26,06:00,08:00,120,Reserved,AI Predicted Margin
+COA-00413,COR-052,2026-09-29,07:00,10:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00414,COR-024,2026-09-13,04:00,07:00,180,Reserved,COA System Feed
+COA-00415,COR-032,2026-09-22,13:00,15:00,120,Reserved,Division Manual Entry
+COA-00416,COR-041,2026-09-19,13:00,16:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00417,COR-088,2026-09-14,07:00,10:00,180,Reserved,AI Predicted Margin
+COA-00418,COR-071,2026-09-12,18:00,21:00,180,Available,Division Manual Entry
+COA-00419,COR-009,2026-09-25,04:00,06:00,120,Available,Division Manual Entry
+COA-00420,COR-093,2026-09-11,10:00,12:00,120,Available,Division Manual Entry
+COA-00421,COR-083,2026-09-16,12:00,14:00,120,Available,AI Predicted Margin
+COA-00422,COR-055,2026-09-20,03:00,06:00,180,Occupied by Freight,Division Manual Entry
+COA-00423,COR-088,2026-09-15,01:00,03:00,120,Occupied by Freight,COA System Feed
+COA-00424,COR-060,2026-09-18,17:00,21:00,240,Reserved,Division Manual Entry
+COA-00425,COR-092,2026-09-22,20:00,22:00,120,Reserved,AI Predicted Margin
+COA-00426,COR-026,2026-09-24,12:00,16:00,240,Available,COA System Feed
+COA-00427,COR-029,2026-09-19,04:00,06:00,120,Blocked for Track Machine,COA System Feed
+COA-00428,COR-030,2026-09-17,19:00,21:00,120,Available,AI Predicted Margin
+COA-00429,COR-022,2026-09-12,00:00,02:00,120,Occupied by Freight,AI Predicted Margin
+COA-00430,COR-035,2026-09-20,13:00,16:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00431,COR-045,2026-09-13,08:00,11:00,180,Reserved,Division Manual Entry
+COA-00432,COR-081,2026-09-10,00:00,04:00,240,Available,Division Manual Entry
+COA-00433,COR-071,2026-09-26,01:00,03:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00434,COR-098,2026-09-29,02:00,06:00,240,Available,AI Predicted Margin
+COA-00435,COR-096,2026-09-11,18:00,20:00,120,Occupied by Freight,Division Manual Entry
+COA-00436,COR-061,2026-09-20,16:00,19:00,180,Reserved,AI Predicted Margin
+COA-00437,COR-024,2026-09-17,18:00,22:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00438,COR-045,2026-09-29,16:00,20:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00439,COR-031,2026-09-13,17:00,20:00,180,Occupied by Freight,Division Manual Entry
+COA-00440,COR-026,2026-09-25,17:00,19:00,120,Available,Division Manual Entry
+COA-00441,COR-023,2026-09-12,18:00,22:00,240,Reserved,AI Predicted Margin
+COA-00442,COR-046,2026-09-28,20:00,23:00,180,Available,AI Predicted Margin
+COA-00443,COR-027,2026-09-17,13:00,16:00,180,Available,Division Manual Entry
+COA-00444,COR-007,2026-09-22,07:00,09:00,120,Reserved,COA System Feed
+COA-00445,COR-004,2026-09-28,13:00,15:00,120,Available,AI Predicted Margin
+COA-00446,COR-014,2026-09-14,03:00,06:00,180,Occupied by Freight,AI Predicted Margin
+COA-00447,COR-061,2026-09-27,06:00,09:00,180,Available,AI Predicted Margin
+COA-00448,COR-054,2026-09-21,02:00,06:00,240,Reserved,AI Predicted Margin
+COA-00449,COR-053,2026-09-23,14:00,18:00,240,Reserved,COA System Feed
+COA-00450,COR-096,2026-09-11,16:00,18:00,120,Occupied by Freight,AI Predicted Margin
+COA-00451,COR-091,2026-09-12,07:00,09:00,120,Occupied by Freight,COA System Feed
+COA-00452,COR-067,2026-09-29,18:00,22:00,240,Available,AI Predicted Margin
+COA-00453,COR-054,2026-09-28,01:00,04:00,180,Occupied by Freight,AI Predicted Margin
+COA-00454,COR-085,2026-09-25,03:00,05:00,120,Available,COA System Feed
+COA-00455,COR-025,2026-09-22,16:00,18:00,120,Reserved,COA System Feed
+COA-00456,COR-050,2026-09-27,12:00,16:00,240,Blocked for Track Machine,COA System Feed
+COA-00457,COR-083,2026-09-23,07:00,11:00,240,Reserved,Division Manual Entry
+COA-00458,COR-085,2026-09-20,15:00,18:00,180,Available,AI Predicted Margin
+COA-00459,COR-017,2026-09-19,15:00,17:00,120,Blocked for Track Machine,COA System Feed
+COA-00460,COR-053,2026-09-19,14:00,18:00,240,Occupied by Freight,AI Predicted Margin
+COA-00461,COR-087,2026-09-25,06:00,08:00,120,Occupied by Freight,Division Manual Entry
+COA-00462,COR-066,2026-09-28,05:00,08:00,180,Occupied by Freight,Division Manual Entry
+COA-00463,COR-041,2026-09-18,11:00,13:00,120,Occupied by Freight,Division Manual Entry
+COA-00464,COR-037,2026-09-10,02:00,05:00,180,Available,COA System Feed
+COA-00465,COR-005,2026-09-26,09:00,13:00,240,Blocked for Track Machine,COA System Feed
+COA-00466,COR-036,2026-09-25,16:00,19:00,180,Blocked for Track Machine,COA System Feed
+COA-00467,COR-017,2026-09-28,07:00,11:00,240,Blocked for Track Machine,COA System Feed
+COA-00468,COR-004,2026-09-18,15:00,17:00,120,Occupied by Freight,AI Predicted Margin
+COA-00469,COR-083,2026-09-21,12:00,16:00,240,Occupied by Freight,AI Predicted Margin
+COA-00470,COR-002,2026-09-10,12:00,15:00,180,Available,AI Predicted Margin
+COA-00471,COR-014,2026-09-24,04:00,06:00,120,Occupied by Freight,Division Manual Entry
+COA-00472,COR-079,2026-09-23,18:00,20:00,120,Occupied by Freight,Division Manual Entry
+COA-00473,COR-011,2026-09-13,02:00,06:00,240,Available,COA System Feed
+COA-00474,COR-022,2026-09-12,10:00,12:00,120,Available,Division Manual Entry
+COA-00475,COR-044,2026-09-26,11:00,15:00,240,Occupied by Freight,AI Predicted Margin
+COA-00476,COR-019,2026-09-09,11:00,14:00,180,Reserved,AI Predicted Margin
+COA-00477,COR-056,2026-09-12,06:00,08:00,120,Available,AI Predicted Margin
+COA-00478,COR-031,2026-09-23,12:00,14:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00479,COR-090,2026-09-11,17:00,20:00,180,Available,Division Manual Entry
+COA-00480,COR-018,2026-09-12,14:00,18:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00481,COR-009,2026-09-22,01:00,04:00,180,Available,Division Manual Entry
+COA-00482,COR-039,2026-09-18,12:00,15:00,180,Available,Division Manual Entry
+COA-00483,COR-071,2026-09-24,17:00,20:00,180,Available,COA System Feed
+COA-00484,COR-009,2026-09-17,08:00,12:00,240,Occupied by Freight,COA System Feed
+COA-00485,COR-031,2026-09-25,09:00,13:00,240,Occupied by Freight,COA System Feed
+COA-00486,COR-094,2026-09-21,09:00,11:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00487,COR-046,2026-09-09,15:00,17:00,120,Occupied by Freight,Division Manual Entry
+COA-00488,COR-095,2026-09-17,08:00,10:00,120,Occupied by Freight,Division Manual Entry
+COA-00489,COR-056,2026-09-24,06:00,10:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00490,COR-029,2026-09-13,14:00,17:00,180,Reserved,COA System Feed
+COA-00491,COR-024,2026-09-16,16:00,19:00,180,Blocked for Track Machine,COA System Feed
+COA-00492,COR-078,2026-09-12,13:00,16:00,180,Available,COA System Feed
+COA-00493,COR-096,2026-09-15,06:00,08:00,120,Occupied by Freight,COA System Feed
+COA-00494,COR-011,2026-09-23,06:00,08:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00495,COR-033,2026-09-23,08:00,11:00,180,Reserved,Division Manual Entry
+COA-00496,COR-067,2026-09-24,03:00,07:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00497,COR-012,2026-09-12,01:00,03:00,120,Occupied by Freight,AI Predicted Margin
+COA-00498,COR-010,2026-09-23,16:00,20:00,240,Available,Division Manual Entry
+COA-00499,COR-064,2026-09-24,16:00,20:00,240,Reserved,AI Predicted Margin
+COA-00500,COR-029,2026-09-15,16:00,19:00,180,Available,Division Manual Entry
+COA-00501,COR-100,2026-09-25,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00502,COR-075,2026-09-16,06:00,10:00,240,Reserved,COA System Feed
+COA-00503,COR-069,2026-09-09,00:00,04:00,240,Reserved,Division Manual Entry
+COA-00504,COR-083,2026-09-11,17:00,21:00,240,Blocked for Track Machine,COA System Feed
+COA-00505,COR-033,2026-09-09,03:00,05:00,120,Reserved,AI Predicted Margin
+COA-00506,COR-019,2026-09-13,00:00,02:00,120,Occupied by Freight,Division Manual Entry
+COA-00507,COR-087,2026-09-27,10:00,13:00,180,Occupied by Freight,Division Manual Entry
+COA-00508,COR-025,2026-09-13,20:00,22:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00509,COR-069,2026-09-16,16:00,19:00,180,Blocked for Track Machine,COA System Feed
+COA-00510,COR-071,2026-09-12,18:00,20:00,120,Occupied by Freight,AI Predicted Margin
+COA-00511,COR-056,2026-09-29,00:00,03:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00512,COR-069,2026-09-14,09:00,13:00,240,Blocked for Track Machine,COA System Feed
+COA-00513,COR-007,2026-09-28,19:00,22:00,180,Available,Division Manual Entry
+COA-00514,COR-028,2026-09-28,10:00,13:00,180,Reserved,COA System Feed
+COA-00515,COR-077,2026-09-27,20:00,23:00,180,Occupied by Freight,COA System Feed
+COA-00516,COR-064,2026-09-19,18:00,22:00,240,Occupied by Freight,COA System Feed
+COA-00517,COR-040,2026-09-21,00:00,04:00,240,Available,COA System Feed
+COA-00518,COR-086,2026-09-27,02:00,04:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00519,COR-070,2026-09-13,16:00,20:00,240,Reserved,COA System Feed
+COA-00520,COR-091,2026-09-29,04:00,07:00,180,Reserved,Division Manual Entry
+COA-00521,COR-034,2026-09-11,18:00,21:00,180,Blocked for Track Machine,COA System Feed
+COA-00522,COR-089,2026-09-14,02:00,04:00,120,Available,Division Manual Entry
+COA-00523,COR-060,2026-09-10,08:00,10:00,120,Occupied by Freight,Division Manual Entry
+COA-00524,COR-054,2026-09-17,17:00,21:00,240,Blocked for Track Machine,COA System Feed
+COA-00525,COR-062,2026-09-20,06:00,08:00,120,Reserved,AI Predicted Margin
+COA-00526,COR-092,2026-09-23,17:00,20:00,180,Available,Division Manual Entry
+COA-00527,COR-060,2026-09-09,09:00,11:00,120,Blocked for Track Machine,COA System Feed
+COA-00528,COR-039,2026-09-28,04:00,08:00,240,Occupied by Freight,Division Manual Entry
+COA-00529,COR-054,2026-09-17,13:00,17:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00530,COR-076,2026-09-12,16:00,18:00,120,Blocked for Track Machine,COA System Feed
+COA-00531,COR-081,2026-09-27,12:00,16:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00532,COR-092,2026-09-29,01:00,05:00,240,Available,Division Manual Entry
+COA-00533,COR-025,2026-09-27,10:00,13:00,180,Reserved,AI Predicted Margin
+COA-00534,COR-016,2026-09-24,07:00,10:00,180,Available,AI Predicted Margin
+COA-00535,COR-084,2026-09-10,20:00,22:00,120,Occupied by Freight,COA System Feed
+COA-00536,COR-011,2026-09-15,00:00,03:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00537,COR-076,2026-09-19,18:00,21:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00538,COR-075,2026-09-12,02:00,05:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00539,COR-078,2026-09-27,01:00,04:00,180,Occupied by Freight,Division Manual Entry
+COA-00540,COR-087,2026-09-17,11:00,13:00,120,Available,AI Predicted Margin
+COA-00541,COR-080,2026-09-10,04:00,06:00,120,Available,COA System Feed
+COA-00542,COR-052,2026-09-11,13:00,16:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00543,COR-099,2026-09-18,08:00,10:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00544,COR-044,2026-09-28,00:00,03:00,180,Occupied by Freight,COA System Feed
+COA-00545,COR-016,2026-09-27,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00546,COR-054,2026-09-27,20:00,23:00,180,Available,AI Predicted Margin
+COA-00547,COR-029,2026-09-15,03:00,06:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00548,COR-055,2026-09-29,12:00,16:00,240,Occupied by Freight,Division Manual Entry
+COA-00549,COR-003,2026-09-10,10:00,12:00,120,Occupied by Freight,Division Manual Entry
+COA-00550,COR-094,2026-09-20,08:00,10:00,120,Reserved,Division Manual Entry
+COA-00551,COR-069,2026-09-16,07:00,11:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00552,COR-069,2026-09-24,14:00,18:00,240,Available,COA System Feed
+COA-00553,COR-092,2026-09-24,19:00,21:00,120,Blocked for Track Machine,COA System Feed
+COA-00554,COR-023,2026-09-20,05:00,08:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00555,COR-090,2026-09-19,20:00,23:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00556,COR-051,2026-09-27,10:00,13:00,180,Available,Division Manual Entry
+COA-00557,COR-020,2026-09-11,16:00,19:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00558,COR-086,2026-09-21,19:00,23:00,240,Reserved,COA System Feed
+COA-00559,COR-061,2026-09-10,07:00,09:00,120,Blocked for Track Machine,COA System Feed
+COA-00560,COR-047,2026-09-26,04:00,07:00,180,Occupied by Freight,COA System Feed
+COA-00561,COR-040,2026-09-17,20:00,22:00,120,Available,AI Predicted Margin
+COA-00562,COR-034,2026-09-12,11:00,14:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00563,COR-017,2026-09-18,01:00,04:00,180,Available,Division Manual Entry
+COA-00564,COR-030,2026-09-10,19:00,21:00,120,Reserved,COA System Feed
+COA-00565,COR-008,2026-09-13,08:00,10:00,120,Available,Division Manual Entry
+COA-00566,COR-088,2026-09-27,00:00,03:00,180,Occupied by Freight,Division Manual Entry
+COA-00567,COR-008,2026-09-16,12:00,15:00,180,Reserved,COA System Feed
+COA-00568,COR-018,2026-09-24,11:00,14:00,180,Blocked for Track Machine,COA System Feed
+COA-00569,COR-032,2026-09-13,12:00,16:00,240,Occupied by Freight,Division Manual Entry
+COA-00570,COR-035,2026-09-28,04:00,06:00,120,Reserved,Division Manual Entry
+COA-00571,COR-099,2026-09-23,02:00,04:00,120,Reserved,COA System Feed
+COA-00572,COR-013,2026-09-10,04:00,07:00,180,Available,Division Manual Entry
+COA-00573,COR-001,2026-09-09,17:00,21:00,240,Occupied by Freight,Division Manual Entry
+COA-00574,COR-099,2026-09-13,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00575,COR-004,2026-09-21,04:00,06:00,120,Blocked for Track Machine,COA System Feed
+COA-00576,COR-044,2026-09-26,09:00,13:00,240,Occupied by Freight,COA System Feed
+COA-00577,COR-059,2026-09-20,14:00,17:00,180,Available,AI Predicted Margin
+COA-00578,COR-020,2026-09-26,09:00,13:00,240,Available,AI Predicted Margin
+COA-00579,COR-071,2026-09-12,04:00,08:00,240,Occupied by Freight,AI Predicted Margin
+COA-00580,COR-044,2026-09-19,11:00,13:00,120,Blocked for Track Machine,COA System Feed
+COA-00581,COR-013,2026-09-11,02:00,06:00,240,Occupied by Freight,Division Manual Entry
+COA-00582,COR-025,2026-09-09,14:00,18:00,240,Available,COA System Feed
+COA-00583,COR-013,2026-09-18,00:00,02:00,120,Reserved,Division Manual Entry
+COA-00584,COR-027,2026-09-20,16:00,18:00,120,Reserved,COA System Feed
+COA-00585,COR-059,2026-09-15,10:00,13:00,180,Reserved,COA System Feed
+COA-00586,COR-012,2026-09-26,05:00,07:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00587,COR-020,2026-09-26,14:00,17:00,180,Occupied by Freight,AI Predicted Margin
+COA-00588,COR-070,2026-09-09,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-00589,COR-099,2026-09-17,12:00,16:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00590,COR-014,2026-09-25,04:00,08:00,240,Reserved,COA System Feed
+COA-00591,COR-042,2026-09-18,16:00,18:00,120,Available,COA System Feed
+COA-00592,COR-003,2026-09-15,18:00,22:00,240,Occupied by Freight,COA System Feed
+COA-00593,COR-006,2026-09-21,02:00,06:00,240,Reserved,AI Predicted Margin
+COA-00594,COR-079,2026-09-10,02:00,04:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00595,COR-049,2026-09-10,07:00,09:00,120,Occupied by Freight,Division Manual Entry
+COA-00596,COR-074,2026-09-18,13:00,16:00,180,Occupied by Freight,Division Manual Entry
+COA-00597,COR-029,2026-09-24,02:00,06:00,240,Available,Division Manual Entry
+COA-00598,COR-046,2026-09-25,15:00,17:00,120,Reserved,AI Predicted Margin
+COA-00599,COR-051,2026-09-16,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00600,COR-025,2026-09-15,02:00,04:00,120,Occupied by Freight,COA System Feed
+COA-00601,COR-063,2026-09-22,14:00,18:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00602,COR-057,2026-09-17,04:00,06:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00603,COR-026,2026-09-16,01:00,05:00,240,Available,AI Predicted Margin
+COA-00604,COR-024,2026-09-29,17:00,21:00,240,Available,AI Predicted Margin
+COA-00605,COR-031,2026-09-26,09:00,13:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00606,COR-074,2026-09-23,13:00,15:00,120,Blocked for Track Machine,COA System Feed
+COA-00607,COR-058,2026-09-09,14:00,18:00,240,Occupied by Freight,Division Manual Entry
+COA-00608,COR-052,2026-09-27,07:00,09:00,120,Reserved,AI Predicted Margin
+COA-00609,COR-065,2026-09-18,14:00,17:00,180,Occupied by Freight,AI Predicted Margin
+COA-00610,COR-024,2026-09-12,14:00,17:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00611,COR-012,2026-09-27,09:00,13:00,240,Reserved,Division Manual Entry
+COA-00612,COR-068,2026-09-17,10:00,14:00,240,Available,Division Manual Entry
+COA-00613,COR-097,2026-09-13,00:00,04:00,240,Reserved,AI Predicted Margin
+COA-00614,COR-065,2026-09-29,18:00,21:00,180,Blocked for Track Machine,COA System Feed
+COA-00615,COR-041,2026-09-26,00:00,04:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00616,COR-001,2026-09-09,04:00,06:00,120,Reserved,AI Predicted Margin
+COA-00617,COR-007,2026-09-21,18:00,21:00,180,Available,AI Predicted Margin
+COA-00618,COR-043,2026-09-24,14:00,18:00,240,Reserved,AI Predicted Margin
+COA-00619,COR-011,2026-09-23,02:00,05:00,180,Occupied by Freight,AI Predicted Margin
+COA-00620,COR-092,2026-09-15,16:00,20:00,240,Available,AI Predicted Margin
+COA-00621,COR-063,2026-09-16,01:00,04:00,180,Reserved,COA System Feed
+COA-00622,COR-077,2026-09-12,04:00,07:00,180,Available,COA System Feed
+COA-00623,COR-055,2026-09-22,20:00,23:00,180,Available,AI Predicted Margin
+COA-00624,COR-042,2026-09-13,04:00,08:00,240,Available,AI Predicted Margin
+COA-00625,COR-027,2026-09-17,19:00,21:00,120,Occupied by Freight,Division Manual Entry
+COA-00626,COR-030,2026-09-12,16:00,18:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00627,COR-004,2026-09-27,03:00,07:00,240,Occupied by Freight,Division Manual Entry
+COA-00628,COR-079,2026-09-11,06:00,10:00,240,Reserved,AI Predicted Margin
+COA-00629,COR-085,2026-09-25,18:00,20:00,120,Occupied by Freight,Division Manual Entry
+COA-00630,COR-056,2026-09-22,04:00,08:00,240,Occupied by Freight,COA System Feed
+COA-00631,COR-063,2026-09-26,18:00,20:00,120,Available,COA System Feed
+COA-00632,COR-018,2026-09-29,19:00,21:00,120,Reserved,COA System Feed
+COA-00633,COR-048,2026-09-18,15:00,19:00,240,Occupied by Freight,COA System Feed
+COA-00634,COR-007,2026-09-12,08:00,12:00,240,Available,COA System Feed
+COA-00635,COR-060,2026-09-13,09:00,11:00,120,Available,COA System Feed
+COA-00636,COR-046,2026-09-28,20:00,23:00,180,Available,Division Manual Entry
+COA-00637,COR-078,2026-09-26,18:00,22:00,240,Reserved,COA System Feed
+COA-00638,COR-008,2026-09-16,18:00,20:00,120,Blocked for Track Machine,COA System Feed
+COA-00639,COR-037,2026-09-24,18:00,20:00,120,Reserved,AI Predicted Margin
+COA-00640,COR-024,2026-09-25,03:00,05:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00641,COR-095,2026-09-28,16:00,18:00,120,Blocked for Track Machine,COA System Feed
+COA-00642,COR-080,2026-09-24,13:00,15:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00643,COR-052,2026-09-27,11:00,13:00,120,Blocked for Track Machine,COA System Feed
+COA-00644,COR-062,2026-09-27,04:00,06:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00645,COR-060,2026-09-14,16:00,18:00,120,Reserved,AI Predicted Margin
+COA-00646,COR-059,2026-09-28,15:00,17:00,120,Occupied by Freight,AI Predicted Margin
+COA-00647,COR-090,2026-09-13,02:00,06:00,240,Available,COA System Feed
+COA-00648,COR-096,2026-09-12,17:00,21:00,240,Available,COA System Feed
+COA-00649,COR-026,2026-09-14,19:00,22:00,180,Occupied by Freight,AI Predicted Margin
+COA-00650,COR-028,2026-09-15,19:00,22:00,180,Reserved,COA System Feed
+COA-00651,COR-098,2026-09-13,01:00,05:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00652,COR-013,2026-09-29,18:00,20:00,120,Occupied by Freight,AI Predicted Margin
+COA-00653,COR-046,2026-09-22,04:00,08:00,240,Occupied by Freight,Division Manual Entry
+COA-00654,COR-054,2026-09-14,04:00,08:00,240,Blocked for Track Machine,COA System Feed
+COA-00655,COR-070,2026-09-29,14:00,16:00,120,Available,Division Manual Entry
+COA-00656,COR-092,2026-09-29,04:00,06:00,120,Occupied by Freight,COA System Feed
+COA-00657,COR-052,2026-09-15,10:00,13:00,180,Occupied by Freight,COA System Feed
+COA-00658,COR-011,2026-09-27,05:00,09:00,240,Reserved,Division Manual Entry
+COA-00659,COR-025,2026-09-26,05:00,08:00,180,Occupied by Freight,AI Predicted Margin
+COA-00660,COR-100,2026-09-13,18:00,22:00,240,Blocked for Track Machine,COA System Feed
+COA-00661,COR-035,2026-09-10,01:00,05:00,240,Occupied by Freight,Division Manual Entry
+COA-00662,COR-064,2026-09-12,09:00,12:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00663,COR-076,2026-09-18,10:00,14:00,240,Available,AI Predicted Margin
+COA-00664,COR-032,2026-09-17,02:00,05:00,180,Occupied by Freight,AI Predicted Margin
+COA-00665,COR-058,2026-09-28,01:00,04:00,180,Reserved,AI Predicted Margin
+COA-00666,COR-042,2026-09-10,06:00,09:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00667,COR-024,2026-09-14,09:00,12:00,180,Reserved,Division Manual Entry
+COA-00668,COR-030,2026-09-11,10:00,12:00,120,Available,COA System Feed
+COA-00669,COR-080,2026-09-12,14:00,16:00,120,Occupied by Freight,AI Predicted Margin
+COA-00670,COR-036,2026-09-13,08:00,11:00,180,Occupied by Freight,AI Predicted Margin
+COA-00671,COR-062,2026-09-13,06:00,08:00,120,Blocked for Track Machine,COA System Feed
+COA-00672,COR-018,2026-09-23,03:00,05:00,120,Available,COA System Feed
+COA-00673,COR-003,2026-09-25,20:00,22:00,120,Occupied by Freight,COA System Feed
+COA-00674,COR-049,2026-09-25,06:00,08:00,120,Reserved,COA System Feed
+COA-00675,COR-070,2026-09-25,10:00,12:00,120,Reserved,Division Manual Entry
+COA-00676,COR-055,2026-09-25,03:00,05:00,120,Available,AI Predicted Margin
+COA-00677,COR-060,2026-09-24,07:00,09:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00678,COR-065,2026-09-28,05:00,08:00,180,Available,AI Predicted Margin
+COA-00679,COR-100,2026-09-16,13:00,17:00,240,Reserved,AI Predicted Margin
+COA-00680,COR-077,2026-09-23,19:00,23:00,240,Occupied by Freight,Division Manual Entry
+COA-00681,COR-007,2026-09-24,08:00,12:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00682,COR-018,2026-09-21,15:00,17:00,120,Reserved,Division Manual Entry
+COA-00683,COR-096,2026-09-17,18:00,21:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00684,COR-020,2026-09-20,11:00,13:00,120,Available,AI Predicted Margin
+COA-00685,COR-042,2026-09-22,18:00,21:00,180,Reserved,AI Predicted Margin
+COA-00686,COR-071,2026-09-13,00:00,04:00,240,Reserved,COA System Feed
+COA-00687,COR-100,2026-09-14,14:00,17:00,180,Available,COA System Feed
+COA-00688,COR-091,2026-09-14,19:00,22:00,180,Occupied by Freight,COA System Feed
+COA-00689,COR-017,2026-09-09,00:00,03:00,180,Reserved,Division Manual Entry
+COA-00690,COR-010,2026-09-17,00:00,02:00,120,Occupied by Freight,COA System Feed
+COA-00691,COR-069,2026-09-11,06:00,08:00,120,Blocked for Track Machine,COA System Feed
+COA-00692,COR-013,2026-09-11,03:00,05:00,120,Occupied by Freight,Division Manual Entry
+COA-00693,COR-099,2026-09-10,08:00,10:00,120,Blocked for Track Machine,COA System Feed
+COA-00694,COR-084,2026-09-14,11:00,15:00,240,Reserved,Division Manual Entry
+COA-00695,COR-010,2026-09-18,03:00,05:00,120,Reserved,AI Predicted Margin
+COA-00696,COR-017,2026-09-25,11:00,13:00,120,Occupied by Freight,Division Manual Entry
+COA-00697,COR-004,2026-09-15,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00698,COR-023,2026-09-29,08:00,10:00,120,Available,Division Manual Entry
+COA-00699,COR-079,2026-09-21,09:00,11:00,120,Reserved,AI Predicted Margin
+COA-00700,COR-069,2026-09-20,08:00,10:00,120,Occupied by Freight,COA System Feed
+COA-00701,COR-081,2026-09-21,05:00,09:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00702,COR-084,2026-09-10,08:00,10:00,120,Available,AI Predicted Margin
+COA-00703,COR-098,2026-09-15,19:00,22:00,180,Available,COA System Feed
+COA-00704,COR-038,2026-09-18,19:00,23:00,240,Occupied by Freight,Division Manual Entry
+COA-00705,COR-013,2026-09-15,18:00,22:00,240,Blocked for Track Machine,COA System Feed
+COA-00706,COR-080,2026-09-14,00:00,03:00,180,Occupied by Freight,COA System Feed
+COA-00707,COR-019,2026-09-22,12:00,16:00,240,Occupied by Freight,COA System Feed
+COA-00708,COR-037,2026-09-15,12:00,15:00,180,Reserved,Division Manual Entry
+COA-00709,COR-060,2026-09-27,02:00,06:00,240,Reserved,Division Manual Entry
+COA-00710,COR-087,2026-09-29,10:00,14:00,240,Occupied by Freight,Division Manual Entry
+COA-00711,COR-041,2026-09-27,18:00,21:00,180,Reserved,AI Predicted Margin
+COA-00712,COR-070,2026-09-10,17:00,19:00,120,Reserved,COA System Feed
+COA-00713,COR-054,2026-09-16,05:00,07:00,120,Occupied by Freight,AI Predicted Margin
+COA-00714,COR-071,2026-09-18,11:00,14:00,180,Reserved,AI Predicted Margin
+COA-00715,COR-082,2026-09-23,10:00,14:00,240,Reserved,Division Manual Entry
+COA-00716,COR-042,2026-09-24,05:00,08:00,180,Occupied by Freight,AI Predicted Margin
+COA-00717,COR-066,2026-09-25,03:00,05:00,120,Reserved,Division Manual Entry
+COA-00718,COR-034,2026-09-11,07:00,11:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00719,COR-044,2026-09-16,07:00,09:00,120,Occupied by Freight,COA System Feed
+COA-00720,COR-013,2026-09-15,13:00,16:00,180,Available,Division Manual Entry
+COA-00721,COR-087,2026-09-17,00:00,02:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00722,COR-058,2026-09-29,15:00,19:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00723,COR-067,2026-09-28,13:00,17:00,240,Available,COA System Feed
+COA-00724,COR-016,2026-09-14,06:00,10:00,240,Occupied by Freight,COA System Feed
+COA-00725,COR-035,2026-09-12,01:00,05:00,240,Available,Division Manual Entry
+COA-00726,COR-093,2026-09-26,05:00,07:00,120,Available,AI Predicted Margin
+COA-00727,COR-091,2026-09-20,04:00,08:00,240,Blocked for Track Machine,COA System Feed
+COA-00728,COR-010,2026-09-18,04:00,07:00,180,Occupied by Freight,COA System Feed
+COA-00729,COR-013,2026-09-10,15:00,18:00,180,Available,AI Predicted Margin
+COA-00730,COR-006,2026-09-24,15:00,18:00,180,Reserved,AI Predicted Margin
+COA-00731,COR-031,2026-09-23,04:00,06:00,120,Available,AI Predicted Margin
+COA-00732,COR-097,2026-09-28,13:00,17:00,240,Available,Division Manual Entry
+COA-00733,COR-013,2026-09-27,11:00,13:00,120,Reserved,AI Predicted Margin
+COA-00734,COR-027,2026-09-18,12:00,14:00,120,Available,Division Manual Entry
+COA-00735,COR-005,2026-09-11,02:00,04:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00736,COR-092,2026-09-26,16:00,20:00,240,Reserved,AI Predicted Margin
+COA-00737,COR-066,2026-09-28,19:00,21:00,120,Occupied by Freight,AI Predicted Margin
+COA-00738,COR-004,2026-09-23,09:00,13:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00739,COR-072,2026-09-21,18:00,21:00,180,Reserved,AI Predicted Margin
+COA-00740,COR-060,2026-09-10,10:00,12:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00741,COR-098,2026-09-15,10:00,14:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00742,COR-048,2026-09-19,04:00,06:00,120,Blocked for Track Machine,COA System Feed
+COA-00743,COR-048,2026-09-19,12:00,14:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00744,COR-002,2026-09-10,18:00,20:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00745,COR-034,2026-09-25,07:00,10:00,180,Reserved,COA System Feed
+COA-00746,COR-017,2026-09-23,11:00,14:00,180,Available,Division Manual Entry
+COA-00747,COR-061,2026-09-14,08:00,10:00,120,Blocked for Track Machine,COA System Feed
+COA-00748,COR-043,2026-09-27,20:00,23:00,180,Available,AI Predicted Margin
+COA-00749,COR-034,2026-09-16,19:00,22:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00750,COR-020,2026-09-22,08:00,10:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00751,COR-075,2026-09-25,04:00,08:00,240,Blocked for Track Machine,COA System Feed
+COA-00752,COR-087,2026-09-29,01:00,04:00,180,Reserved,AI Predicted Margin
+COA-00753,COR-027,2026-09-14,01:00,03:00,120,Reserved,AI Predicted Margin
+COA-00754,COR-056,2026-09-19,17:00,19:00,120,Available,AI Predicted Margin
+COA-00755,COR-055,2026-09-10,05:00,09:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00756,COR-040,2026-09-13,12:00,14:00,120,Reserved,COA System Feed
+COA-00757,COR-016,2026-09-15,09:00,11:00,120,Reserved,Division Manual Entry
+COA-00758,COR-076,2026-09-10,00:00,03:00,180,Available,Division Manual Entry
+COA-00759,COR-086,2026-09-28,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00760,COR-090,2026-09-19,15:00,17:00,120,Available,AI Predicted Margin
+COA-00761,COR-064,2026-09-29,19:00,23:00,240,Reserved,Division Manual Entry
+COA-00762,COR-082,2026-09-09,07:00,10:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00763,COR-027,2026-09-23,00:00,04:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00764,COR-064,2026-09-09,03:00,07:00,240,Blocked for Track Machine,COA System Feed
+COA-00765,COR-077,2026-09-29,12:00,14:00,120,Reserved,COA System Feed
+COA-00766,COR-017,2026-09-27,13:00,17:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00767,COR-073,2026-09-26,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00768,COR-088,2026-09-25,04:00,06:00,120,Occupied by Freight,Division Manual Entry
+COA-00769,COR-004,2026-09-29,04:00,07:00,180,Occupied by Freight,AI Predicted Margin
+COA-00770,COR-051,2026-09-13,01:00,05:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00771,COR-004,2026-09-19,19:00,23:00,240,Occupied by Freight,Division Manual Entry
+COA-00772,COR-061,2026-09-18,01:00,05:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00773,COR-018,2026-09-16,08:00,12:00,240,Available,Division Manual Entry
+COA-00774,COR-028,2026-09-21,14:00,16:00,120,Occupied by Freight,COA System Feed
+COA-00775,COR-097,2026-09-19,18:00,20:00,120,Reserved,Division Manual Entry
+COA-00776,COR-027,2026-09-18,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-00777,COR-044,2026-09-27,12:00,15:00,180,Available,AI Predicted Margin
+COA-00778,COR-065,2026-09-15,15:00,19:00,240,Occupied by Freight,Division Manual Entry
+COA-00779,COR-093,2026-09-12,16:00,20:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00780,COR-035,2026-09-28,10:00,13:00,180,Available,AI Predicted Margin
+COA-00781,COR-003,2026-09-22,20:00,23:00,180,Available,COA System Feed
+COA-00782,COR-077,2026-09-17,01:00,05:00,240,Reserved,Division Manual Entry
+COA-00783,COR-048,2026-09-28,07:00,11:00,240,Available,COA System Feed
+COA-00784,COR-058,2026-09-15,19:00,22:00,180,Occupied by Freight,AI Predicted Margin
+COA-00785,COR-045,2026-09-24,00:00,02:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00786,COR-080,2026-09-29,15:00,19:00,240,Occupied by Freight,Division Manual Entry
+COA-00787,COR-081,2026-09-19,09:00,11:00,120,Available,AI Predicted Margin
+COA-00788,COR-089,2026-09-21,08:00,12:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00789,COR-062,2026-09-19,04:00,08:00,240,Available,AI Predicted Margin
+COA-00790,COR-007,2026-09-11,01:00,05:00,240,Occupied by Freight,AI Predicted Margin
+COA-00791,COR-026,2026-09-12,09:00,13:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00792,COR-093,2026-09-14,14:00,16:00,120,Occupied by Freight,Division Manual Entry
+COA-00793,COR-065,2026-09-19,13:00,16:00,180,Occupied by Freight,Division Manual Entry
+COA-00794,COR-081,2026-09-14,13:00,17:00,240,Available,COA System Feed
+COA-00795,COR-073,2026-09-15,03:00,07:00,240,Reserved,Division Manual Entry
+COA-00796,COR-067,2026-09-22,01:00,05:00,240,Occupied by Freight,COA System Feed
+COA-00797,COR-054,2026-09-22,11:00,15:00,240,Available,AI Predicted Margin
+COA-00798,COR-015,2026-09-23,19:00,22:00,180,Reserved,AI Predicted Margin
+COA-00799,COR-076,2026-09-27,03:00,06:00,180,Blocked for Track Machine,COA System Feed
+COA-00800,COR-041,2026-09-14,01:00,03:00,120,Reserved,AI Predicted Margin
+COA-00801,COR-062,2026-09-24,04:00,07:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00802,COR-029,2026-09-17,09:00,12:00,180,Reserved,COA System Feed
+COA-00803,COR-016,2026-09-19,03:00,07:00,240,Occupied by Freight,COA System Feed
+COA-00804,COR-041,2026-09-15,03:00,05:00,120,Reserved,Division Manual Entry
+COA-00805,COR-007,2026-09-21,13:00,17:00,240,Reserved,AI Predicted Margin
+COA-00806,COR-031,2026-09-27,04:00,08:00,240,Reserved,COA System Feed
+COA-00807,COR-098,2026-09-12,17:00,20:00,180,Occupied by Freight,AI Predicted Margin
+COA-00808,COR-094,2026-09-29,13:00,17:00,240,Available,COA System Feed
+COA-00809,COR-093,2026-09-24,07:00,10:00,180,Available,Division Manual Entry
+COA-00810,COR-098,2026-09-16,05:00,08:00,180,Occupied by Freight,AI Predicted Margin
+COA-00811,COR-089,2026-09-13,13:00,17:00,240,Reserved,AI Predicted Margin
+COA-00812,COR-015,2026-09-22,01:00,04:00,180,Occupied by Freight,Division Manual Entry
+COA-00813,COR-048,2026-09-17,10:00,12:00,120,Reserved,AI Predicted Margin
+COA-00814,COR-032,2026-09-21,20:00,23:00,180,Available,COA System Feed
+COA-00815,COR-066,2026-09-27,04:00,06:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00816,COR-077,2026-09-11,08:00,10:00,120,Occupied by Freight,COA System Feed
+COA-00817,COR-018,2026-09-20,16:00,20:00,240,Occupied by Freight,AI Predicted Margin
+COA-00818,COR-016,2026-09-29,10:00,14:00,240,Available,AI Predicted Margin
+COA-00819,COR-002,2026-09-09,20:00,23:00,180,Occupied by Freight,Division Manual Entry
+COA-00820,COR-067,2026-09-21,05:00,09:00,240,Occupied by Freight,COA System Feed
+COA-00821,COR-091,2026-09-23,08:00,12:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00822,COR-012,2026-09-28,12:00,16:00,240,Available,AI Predicted Margin
+COA-00823,COR-028,2026-09-21,05:00,09:00,240,Reserved,Division Manual Entry
+COA-00824,COR-053,2026-09-16,14:00,17:00,180,Reserved,AI Predicted Margin
+COA-00825,COR-015,2026-09-10,03:00,07:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00826,COR-046,2026-09-27,17:00,21:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00827,COR-016,2026-09-28,08:00,10:00,120,Blocked for Track Machine,COA System Feed
+COA-00828,COR-059,2026-09-29,09:00,12:00,180,Occupied by Freight,COA System Feed
+COA-00829,COR-099,2026-09-15,02:00,05:00,180,Occupied by Freight,Division Manual Entry
+COA-00830,COR-015,2026-09-21,18:00,22:00,240,Reserved,COA System Feed
+COA-00831,COR-062,2026-09-12,10:00,13:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00832,COR-017,2026-09-20,19:00,23:00,240,Available,COA System Feed
+COA-00833,COR-081,2026-09-27,10:00,14:00,240,Blocked for Track Machine,COA System Feed
+COA-00834,COR-043,2026-09-29,09:00,12:00,180,Available,COA System Feed
+COA-00835,COR-084,2026-09-29,06:00,10:00,240,Occupied by Freight,COA System Feed
+COA-00836,COR-078,2026-09-09,20:00,23:00,180,Reserved,COA System Feed
+COA-00837,COR-009,2026-09-11,03:00,05:00,120,Reserved,AI Predicted Margin
+COA-00838,COR-009,2026-09-29,16:00,19:00,180,Available,AI Predicted Margin
+COA-00839,COR-074,2026-09-15,07:00,09:00,120,Reserved,COA System Feed
+COA-00840,COR-045,2026-09-17,11:00,15:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00841,COR-073,2026-09-16,07:00,09:00,120,Available,COA System Feed
+COA-00842,COR-089,2026-09-13,03:00,05:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00843,COR-067,2026-09-17,04:00,08:00,240,Reserved,Division Manual Entry
+COA-00844,COR-071,2026-09-10,00:00,03:00,180,Reserved,AI Predicted Margin
+COA-00845,COR-020,2026-09-09,03:00,05:00,120,Reserved,COA System Feed
+COA-00846,COR-005,2026-09-20,11:00,13:00,120,Available,Division Manual Entry
+COA-00847,COR-003,2026-09-14,06:00,10:00,240,Available,AI Predicted Margin
+COA-00848,COR-013,2026-09-15,02:00,05:00,180,Available,Division Manual Entry
+COA-00849,COR-030,2026-09-09,16:00,18:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00850,COR-039,2026-09-20,15:00,18:00,180,Reserved,Division Manual Entry
+COA-00851,COR-061,2026-09-25,06:00,09:00,180,Reserved,COA System Feed
+COA-00852,COR-089,2026-09-18,06:00,09:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00853,COR-029,2026-09-13,05:00,08:00,180,Available,Division Manual Entry
+COA-00854,COR-082,2026-09-26,15:00,18:00,180,Reserved,Division Manual Entry
+COA-00855,COR-066,2026-09-26,13:00,16:00,180,Occupied by Freight,Division Manual Entry
+COA-00856,COR-086,2026-09-15,05:00,08:00,180,Blocked for Track Machine,COA System Feed
+COA-00857,COR-039,2026-09-09,15:00,19:00,240,Reserved,Division Manual Entry
+COA-00858,COR-039,2026-09-14,18:00,20:00,120,Blocked for Track Machine,COA System Feed
+COA-00859,COR-093,2026-09-26,10:00,12:00,120,Available,AI Predicted Margin
+COA-00860,COR-014,2026-09-18,13:00,15:00,120,Available,COA System Feed
+COA-00861,COR-092,2026-09-17,00:00,04:00,240,Occupied by Freight,AI Predicted Margin
+COA-00862,COR-023,2026-09-09,05:00,07:00,120,Occupied by Freight,AI Predicted Margin
+COA-00863,COR-076,2026-09-13,01:00,03:00,120,Available,AI Predicted Margin
+COA-00864,COR-082,2026-09-10,06:00,08:00,120,Available,AI Predicted Margin
+COA-00865,COR-041,2026-09-26,11:00,13:00,120,Available,COA System Feed
+COA-00866,COR-005,2026-09-20,07:00,09:00,120,Available,COA System Feed
+COA-00867,COR-019,2026-09-22,17:00,21:00,240,Reserved,AI Predicted Margin
+COA-00868,COR-043,2026-09-15,18:00,20:00,120,Available,AI Predicted Margin
+COA-00869,COR-049,2026-09-14,11:00,13:00,120,Reserved,Division Manual Entry
+COA-00870,COR-045,2026-09-09,17:00,21:00,240,Available,AI Predicted Margin
+COA-00871,COR-089,2026-09-16,06:00,08:00,120,Reserved,COA System Feed
+COA-00872,COR-071,2026-09-12,15:00,17:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00873,COR-044,2026-09-18,06:00,09:00,180,Blocked for Track Machine,COA System Feed
+COA-00874,COR-003,2026-09-20,05:00,07:00,120,Available,COA System Feed
+COA-00875,COR-001,2026-09-15,02:00,05:00,180,Reserved,COA System Feed
+COA-00876,COR-043,2026-09-28,14:00,18:00,240,Occupied by Freight,Division Manual Entry
+COA-00877,COR-052,2026-09-23,03:00,07:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00878,COR-049,2026-09-13,17:00,20:00,180,Blocked for Track Machine,COA System Feed
+COA-00879,COR-056,2026-09-25,13:00,15:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00880,COR-076,2026-09-29,03:00,06:00,180,Occupied by Freight,COA System Feed
+COA-00881,COR-099,2026-09-12,07:00,10:00,180,Reserved,COA System Feed
+COA-00882,COR-097,2026-09-22,12:00,16:00,240,Reserved,Division Manual Entry
+COA-00883,COR-069,2026-09-10,11:00,14:00,180,Occupied by Freight,COA System Feed
+COA-00884,COR-079,2026-09-24,03:00,06:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00885,COR-063,2026-09-23,05:00,08:00,180,Available,Division Manual Entry
+COA-00886,COR-099,2026-09-14,12:00,15:00,180,Occupied by Freight,Division Manual Entry
+COA-00887,COR-096,2026-09-15,19:00,23:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00888,COR-009,2026-09-25,05:00,07:00,120,Available,Division Manual Entry
+COA-00889,COR-026,2026-09-14,04:00,06:00,120,Reserved,Division Manual Entry
+COA-00890,COR-068,2026-09-21,04:00,06:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00891,COR-077,2026-09-16,04:00,08:00,240,Occupied by Freight,COA System Feed
+COA-00892,COR-059,2026-09-09,04:00,08:00,240,Reserved,Division Manual Entry
+COA-00893,COR-037,2026-09-12,05:00,08:00,180,Available,Division Manual Entry
+COA-00894,COR-096,2026-09-23,17:00,20:00,180,Occupied by Freight,AI Predicted Margin
+COA-00895,COR-037,2026-09-12,11:00,15:00,240,Occupied by Freight,COA System Feed
+COA-00896,COR-062,2026-09-16,07:00,11:00,240,Reserved,Division Manual Entry
+COA-00897,COR-075,2026-09-11,01:00,05:00,240,Reserved,AI Predicted Margin
+COA-00898,COR-060,2026-09-24,04:00,08:00,240,Reserved,AI Predicted Margin
+COA-00899,COR-018,2026-09-14,13:00,16:00,180,Occupied by Freight,AI Predicted Margin
+COA-00900,COR-037,2026-09-18,18:00,22:00,240,Occupied by Freight,Division Manual Entry
+COA-00901,COR-033,2026-09-12,08:00,11:00,180,Blocked for Track Machine,COA System Feed
+COA-00902,COR-081,2026-09-15,15:00,17:00,120,Available,COA System Feed
+COA-00903,COR-001,2026-09-16,03:00,05:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00904,COR-063,2026-09-29,12:00,16:00,240,Reserved,COA System Feed
+COA-00905,COR-074,2026-09-16,01:00,03:00,120,Available,Division Manual Entry
+COA-00906,COR-072,2026-09-16,18:00,21:00,180,Reserved,COA System Feed
+COA-00907,COR-093,2026-09-15,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00908,COR-094,2026-09-24,10:00,13:00,180,Reserved,COA System Feed
+COA-00909,COR-016,2026-09-15,12:00,15:00,180,Occupied by Freight,Division Manual Entry
+COA-00910,COR-068,2026-09-26,03:00,06:00,180,Occupied by Freight,COA System Feed
+COA-00911,COR-041,2026-09-22,19:00,23:00,240,Occupied by Freight,AI Predicted Margin
+COA-00912,COR-017,2026-09-13,08:00,10:00,120,Available,COA System Feed
+COA-00913,COR-019,2026-09-18,02:00,04:00,120,Available,AI Predicted Margin
+COA-00914,COR-045,2026-09-17,00:00,03:00,180,Available,COA System Feed
+COA-00915,COR-048,2026-09-12,04:00,07:00,180,Occupied by Freight,AI Predicted Margin
+COA-00916,COR-074,2026-09-11,09:00,11:00,120,Reserved,COA System Feed
+COA-00917,COR-093,2026-09-23,11:00,15:00,240,Available,AI Predicted Margin
+COA-00918,COR-081,2026-09-21,19:00,22:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00919,COR-078,2026-09-29,16:00,20:00,240,Available,AI Predicted Margin
+COA-00920,COR-047,2026-09-24,01:00,03:00,120,Occupied by Freight,COA System Feed
+COA-00921,COR-098,2026-09-26,11:00,15:00,240,Available,Division Manual Entry
+COA-00922,COR-028,2026-09-13,08:00,12:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00923,COR-074,2026-09-10,02:00,05:00,180,Available,COA System Feed
+COA-00924,COR-081,2026-09-23,12:00,16:00,240,Occupied by Freight,AI Predicted Margin
+COA-00925,COR-002,2026-09-14,00:00,04:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00926,COR-015,2026-09-21,04:00,08:00,240,Reserved,COA System Feed
+COA-00927,COR-097,2026-09-19,12:00,14:00,120,Reserved,AI Predicted Margin
+COA-00928,COR-001,2026-09-11,04:00,08:00,240,Blocked for Track Machine,COA System Feed
+COA-00929,COR-035,2026-09-15,11:00,15:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00930,COR-008,2026-09-22,14:00,17:00,180,Available,Division Manual Entry
+COA-00931,COR-039,2026-09-25,14:00,16:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00932,COR-013,2026-09-10,11:00,15:00,240,Reserved,AI Predicted Margin
+COA-00933,COR-045,2026-09-13,04:00,06:00,120,Available,Division Manual Entry
+COA-00934,COR-022,2026-09-19,01:00,03:00,120,Reserved,Division Manual Entry
+COA-00935,COR-031,2026-09-29,12:00,15:00,180,Occupied by Freight,COA System Feed
+COA-00936,COR-014,2026-09-14,05:00,09:00,240,Available,COA System Feed
+COA-00937,COR-047,2026-09-09,17:00,19:00,120,Blocked for Track Machine,COA System Feed
+COA-00938,COR-099,2026-09-15,13:00,16:00,180,Blocked for Track Machine,COA System Feed
+COA-00939,COR-089,2026-09-28,05:00,09:00,240,Available,COA System Feed
+COA-00940,COR-001,2026-09-09,17:00,19:00,120,Blocked for Track Machine,COA System Feed
+COA-00941,COR-075,2026-09-28,02:00,05:00,180,Reserved,COA System Feed
+COA-00942,COR-067,2026-09-26,13:00,17:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00943,COR-057,2026-09-09,05:00,09:00,240,Reserved,AI Predicted Margin
+COA-00944,COR-090,2026-09-09,04:00,07:00,180,Reserved,AI Predicted Margin
+COA-00945,COR-005,2026-09-16,00:00,02:00,120,Occupied by Freight,Division Manual Entry
+COA-00946,COR-017,2026-09-19,19:00,23:00,240,Available,Division Manual Entry
+COA-00947,COR-035,2026-09-25,16:00,19:00,180,Blocked for Track Machine,COA System Feed
+COA-00948,COR-017,2026-09-18,10:00,12:00,120,Occupied by Freight,AI Predicted Margin
+COA-00949,COR-068,2026-09-21,14:00,17:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00950,COR-027,2026-09-19,19:00,22:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00951,COR-053,2026-09-14,09:00,12:00,180,Reserved,COA System Feed
+COA-00952,COR-064,2026-09-13,15:00,17:00,120,Reserved,Division Manual Entry
+COA-00953,COR-014,2026-09-29,13:00,17:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00954,COR-032,2026-09-10,19:00,22:00,180,Blocked for Track Machine,COA System Feed
+COA-00955,COR-042,2026-09-24,12:00,16:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00956,COR-016,2026-09-11,17:00,21:00,240,Occupied by Freight,COA System Feed
+COA-00957,COR-078,2026-09-13,13:00,15:00,120,Available,Division Manual Entry
+COA-00958,COR-086,2026-09-27,07:00,09:00,120,Reserved,AI Predicted Margin
+COA-00959,COR-012,2026-09-11,16:00,19:00,180,Occupied by Freight,COA System Feed
+COA-00960,COR-010,2026-09-25,03:00,06:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00961,COR-044,2026-09-24,11:00,15:00,240,Available,COA System Feed
+COA-00962,COR-014,2026-09-12,18:00,20:00,120,Occupied by Freight,Division Manual Entry
+COA-00963,COR-003,2026-09-24,16:00,20:00,240,Occupied by Freight,COA System Feed
+COA-00964,COR-030,2026-09-29,05:00,09:00,240,Reserved,Division Manual Entry
+COA-00965,COR-049,2026-09-26,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00966,COR-024,2026-09-18,19:00,22:00,180,Reserved,AI Predicted Margin
+COA-00967,COR-054,2026-09-27,07:00,09:00,120,Available,AI Predicted Margin
+COA-00968,COR-043,2026-09-22,02:00,06:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00969,COR-076,2026-09-29,19:00,23:00,240,Blocked for Track Machine,Division Manual Entry
+COA-00970,COR-048,2026-09-26,05:00,08:00,180,Available,AI Predicted Margin
+COA-00971,COR-080,2026-09-24,01:00,03:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-00972,COR-035,2026-09-09,04:00,06:00,120,Available,Division Manual Entry
+COA-00973,COR-016,2026-09-24,09:00,11:00,120,Blocked for Track Machine,COA System Feed
+COA-00974,COR-013,2026-09-20,17:00,21:00,240,Available,COA System Feed
+COA-00975,COR-041,2026-09-19,15:00,17:00,120,Available,AI Predicted Margin
+COA-00976,COR-094,2026-09-13,02:00,05:00,180,Reserved,Division Manual Entry
+COA-00977,COR-085,2026-09-18,08:00,12:00,240,Available,COA System Feed
+COA-00978,COR-093,2026-09-10,08:00,12:00,240,Reserved,AI Predicted Margin
+COA-00979,COR-012,2026-09-14,11:00,13:00,120,Blocked for Track Machine,COA System Feed
+COA-00980,COR-058,2026-09-14,04:00,06:00,120,Blocked for Track Machine,Division Manual Entry
+COA-00981,COR-100,2026-09-20,05:00,09:00,240,Available,COA System Feed
+COA-00982,COR-023,2026-09-19,18:00,20:00,120,Occupied by Freight,COA System Feed
+COA-00983,COR-090,2026-09-28,00:00,02:00,120,Available,AI Predicted Margin
+COA-00984,COR-037,2026-09-12,11:00,15:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-00985,COR-018,2026-09-14,18:00,20:00,120,Available,AI Predicted Margin
+COA-00986,COR-034,2026-09-19,09:00,13:00,240,Blocked for Track Machine,COA System Feed
+COA-00987,COR-045,2026-09-09,01:00,04:00,180,Available,Division Manual Entry
+COA-00988,COR-008,2026-09-11,19:00,23:00,240,Available,COA System Feed
+COA-00989,COR-069,2026-09-26,16:00,20:00,240,Reserved,AI Predicted Margin
+COA-00990,COR-093,2026-09-16,09:00,11:00,120,Occupied by Freight,COA System Feed
+COA-00991,COR-050,2026-09-11,00:00,02:00,120,Occupied by Freight,Division Manual Entry
+COA-00992,COR-024,2026-09-10,13:00,16:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-00993,COR-065,2026-09-18,07:00,11:00,240,Occupied by Freight,AI Predicted Margin
+COA-00994,COR-062,2026-09-16,07:00,10:00,180,Blocked for Track Machine,COA System Feed
+COA-00995,COR-055,2026-09-23,08:00,10:00,120,Available,COA System Feed
+COA-00996,COR-007,2026-09-20,01:00,04:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00997,COR-081,2026-09-29,04:00,07:00,180,Available,Division Manual Entry
+COA-00998,COR-022,2026-09-13,12:00,15:00,180,Blocked for Track Machine,Division Manual Entry
+COA-00999,COR-064,2026-09-25,11:00,13:00,120,Reserved,COA System Feed
+COA-01000,COR-029,2026-09-28,00:00,04:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01001,COR-011,2026-09-21,03:00,05:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01002,COR-020,2026-09-23,13:00,17:00,240,Reserved,AI Predicted Margin
+COA-01003,COR-031,2026-09-24,12:00,16:00,240,Available,COA System Feed
+COA-01004,COR-010,2026-09-18,00:00,03:00,180,Occupied by Freight,AI Predicted Margin
+COA-01005,COR-019,2026-09-25,17:00,19:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01006,COR-027,2026-09-10,16:00,20:00,240,Occupied by Freight,AI Predicted Margin
+COA-01007,COR-052,2026-09-14,18:00,20:00,120,Blocked for Track Machine,COA System Feed
+COA-01008,COR-006,2026-09-26,10:00,13:00,180,Reserved,AI Predicted Margin
+COA-01009,COR-048,2026-09-13,18:00,21:00,180,Available,Division Manual Entry
+COA-01010,COR-058,2026-09-19,11:00,15:00,240,Available,Division Manual Entry
+COA-01011,COR-005,2026-09-11,18:00,22:00,240,Occupied by Freight,COA System Feed
+COA-01012,COR-044,2026-09-13,16:00,20:00,240,Occupied by Freight,COA System Feed
+COA-01013,COR-030,2026-09-13,19:00,21:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01014,COR-083,2026-09-27,17:00,20:00,180,Available,Division Manual Entry
+COA-01015,COR-070,2026-09-10,15:00,17:00,120,Reserved,Division Manual Entry
+COA-01016,COR-053,2026-09-18,04:00,08:00,240,Occupied by Freight,COA System Feed
+COA-01017,COR-027,2026-09-14,08:00,10:00,120,Reserved,COA System Feed
+COA-01018,COR-065,2026-09-23,14:00,17:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01019,COR-080,2026-09-29,12:00,14:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01020,COR-082,2026-09-17,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-01021,COR-073,2026-09-13,02:00,05:00,180,Available,COA System Feed
+COA-01022,COR-019,2026-09-17,08:00,10:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01023,COR-034,2026-09-10,06:00,09:00,180,Reserved,COA System Feed
+COA-01024,COR-044,2026-09-24,03:00,05:00,120,Occupied by Freight,COA System Feed
+COA-01025,COR-028,2026-09-19,03:00,05:00,120,Occupied by Freight,Division Manual Entry
+COA-01026,COR-085,2026-09-24,20:00,22:00,120,Reserved,AI Predicted Margin
+COA-01027,COR-030,2026-09-26,06:00,10:00,240,Occupied by Freight,Division Manual Entry
+COA-01028,COR-099,2026-09-20,03:00,06:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01029,COR-077,2026-09-19,02:00,05:00,180,Reserved,AI Predicted Margin
+COA-01030,COR-048,2026-09-18,03:00,06:00,180,Reserved,AI Predicted Margin
+COA-01031,COR-012,2026-09-17,05:00,08:00,180,Available,Division Manual Entry
+COA-01032,COR-034,2026-09-11,08:00,12:00,240,Available,AI Predicted Margin
+COA-01033,COR-082,2026-09-26,05:00,09:00,240,Occupied by Freight,COA System Feed
+COA-01034,COR-015,2026-09-12,10:00,14:00,240,Reserved,AI Predicted Margin
+COA-01035,COR-056,2026-09-21,05:00,09:00,240,Occupied by Freight,COA System Feed
+COA-01036,COR-060,2026-09-25,01:00,04:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01037,COR-053,2026-09-18,07:00,09:00,120,Reserved,Division Manual Entry
+COA-01038,COR-095,2026-09-23,16:00,19:00,180,Available,AI Predicted Margin
+COA-01039,COR-077,2026-09-13,12:00,16:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01040,COR-031,2026-09-26,16:00,20:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01041,COR-042,2026-09-17,01:00,03:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01042,COR-077,2026-09-21,09:00,11:00,120,Available,COA System Feed
+COA-01043,COR-046,2026-09-15,00:00,02:00,120,Reserved,Division Manual Entry
+COA-01044,COR-074,2026-09-19,15:00,18:00,180,Occupied by Freight,COA System Feed
+COA-01045,COR-100,2026-09-21,09:00,13:00,240,Occupied by Freight,COA System Feed
+COA-01046,COR-097,2026-09-26,18:00,20:00,120,Available,Division Manual Entry
+COA-01047,COR-094,2026-09-28,14:00,18:00,240,Occupied by Freight,Division Manual Entry
+COA-01048,COR-070,2026-09-27,08:00,11:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01049,COR-085,2026-09-23,17:00,19:00,120,Available,AI Predicted Margin
+COA-01050,COR-028,2026-09-09,00:00,03:00,180,Reserved,AI Predicted Margin
+COA-01051,COR-072,2026-09-12,00:00,02:00,120,Occupied by Freight,COA System Feed
+COA-01052,COR-065,2026-09-12,11:00,13:00,120,Reserved,AI Predicted Margin
+COA-01053,COR-054,2026-09-28,05:00,09:00,240,Available,Division Manual Entry
+COA-01054,COR-099,2026-09-17,09:00,12:00,180,Available,AI Predicted Margin
+COA-01055,COR-039,2026-09-27,00:00,03:00,180,Occupied by Freight,AI Predicted Margin
+COA-01056,COR-096,2026-09-17,09:00,13:00,240,Available,AI Predicted Margin
+COA-01057,COR-032,2026-09-23,02:00,05:00,180,Available,COA System Feed
+COA-01058,COR-096,2026-09-23,03:00,06:00,180,Available,Division Manual Entry
+COA-01059,COR-011,2026-09-19,05:00,07:00,120,Reserved,Division Manual Entry
+COA-01060,COR-087,2026-09-17,04:00,07:00,180,Reserved,Division Manual Entry
+COA-01061,COR-046,2026-09-19,17:00,20:00,180,Blocked for Track Machine,COA System Feed
+COA-01062,COR-010,2026-09-27,16:00,18:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01063,COR-083,2026-09-29,07:00,10:00,180,Available,COA System Feed
+COA-01064,COR-021,2026-09-14,04:00,08:00,240,Reserved,COA System Feed
+COA-01065,COR-019,2026-09-26,00:00,02:00,120,Occupied by Freight,AI Predicted Margin
+COA-01066,COR-045,2026-09-22,08:00,12:00,240,Blocked for Track Machine,COA System Feed
+COA-01067,COR-071,2026-09-13,11:00,15:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01068,COR-071,2026-09-15,04:00,07:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01069,COR-022,2026-09-13,14:00,17:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01070,COR-009,2026-09-17,03:00,05:00,120,Available,COA System Feed
+COA-01071,COR-025,2026-09-19,02:00,04:00,120,Available,COA System Feed
+COA-01072,COR-007,2026-09-17,03:00,05:00,120,Available,AI Predicted Margin
+COA-01073,COR-084,2026-09-11,00:00,03:00,180,Occupied by Freight,COA System Feed
+COA-01074,COR-053,2026-09-10,09:00,13:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01075,COR-003,2026-09-12,00:00,02:00,120,Available,Division Manual Entry
+COA-01076,COR-004,2026-09-15,05:00,07:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01077,COR-028,2026-09-14,16:00,18:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01078,COR-020,2026-09-25,08:00,10:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01079,COR-087,2026-09-25,19:00,22:00,180,Occupied by Freight,AI Predicted Margin
+COA-01080,COR-071,2026-09-22,07:00,09:00,120,Blocked for Track Machine,COA System Feed
+COA-01081,COR-036,2026-09-10,15:00,18:00,180,Reserved,Division Manual Entry
+COA-01082,COR-031,2026-09-26,08:00,12:00,240,Occupied by Freight,COA System Feed
+COA-01083,COR-083,2026-09-25,13:00,17:00,240,Occupied by Freight,Division Manual Entry
+COA-01084,COR-091,2026-09-18,07:00,11:00,240,Available,Division Manual Entry
+COA-01085,COR-057,2026-09-18,02:00,04:00,120,Blocked for Track Machine,COA System Feed
+COA-01086,COR-040,2026-09-16,12:00,16:00,240,Blocked for Track Machine,COA System Feed
+COA-01087,COR-028,2026-09-21,05:00,08:00,180,Occupied by Freight,Division Manual Entry
+COA-01088,COR-011,2026-09-10,16:00,18:00,120,Available,COA System Feed
+COA-01089,COR-026,2026-09-23,06:00,08:00,120,Reserved,COA System Feed
+COA-01090,COR-004,2026-09-17,05:00,08:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01091,COR-013,2026-09-12,18:00,21:00,180,Occupied by Freight,AI Predicted Margin
+COA-01092,COR-049,2026-09-26,13:00,16:00,180,Available,COA System Feed
+COA-01093,COR-049,2026-09-14,12:00,14:00,120,Reserved,COA System Feed
+COA-01094,COR-100,2026-09-27,07:00,10:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01095,COR-056,2026-09-28,11:00,14:00,180,Reserved,Division Manual Entry
+COA-01096,COR-054,2026-09-23,12:00,15:00,180,Blocked for Track Machine,COA System Feed
+COA-01097,COR-081,2026-09-14,01:00,05:00,240,Blocked for Track Machine,COA System Feed
+COA-01098,COR-014,2026-09-17,07:00,11:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01099,COR-089,2026-09-15,12:00,14:00,120,Available,AI Predicted Margin
+COA-01100,COR-021,2026-09-26,09:00,12:00,180,Reserved,AI Predicted Margin
+COA-01101,COR-087,2026-09-21,15:00,19:00,240,Available,AI Predicted Margin
+COA-01102,COR-019,2026-09-15,10:00,13:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01103,COR-043,2026-09-19,17:00,20:00,180,Available,AI Predicted Margin
+COA-01104,COR-087,2026-09-19,10:00,13:00,180,Reserved,AI Predicted Margin
+COA-01105,COR-041,2026-09-19,05:00,07:00,120,Reserved,Division Manual Entry
+COA-01106,COR-024,2026-09-17,19:00,23:00,240,Available,AI Predicted Margin
+COA-01107,COR-100,2026-09-10,07:00,10:00,180,Available,COA System Feed
+COA-01108,COR-063,2026-09-10,12:00,16:00,240,Blocked for Track Machine,COA System Feed
+COA-01109,COR-042,2026-09-12,01:00,03:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01110,COR-065,2026-09-15,13:00,16:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01111,COR-038,2026-09-16,01:00,03:00,120,Reserved,Division Manual Entry
+COA-01112,COR-099,2026-09-11,10:00,12:00,120,Blocked for Track Machine,COA System Feed
+COA-01113,COR-038,2026-09-25,03:00,07:00,240,Occupied by Freight,AI Predicted Margin
+COA-01114,COR-073,2026-09-16,15:00,18:00,180,Occupied by Freight,Division Manual Entry
+COA-01115,COR-012,2026-09-15,08:00,11:00,180,Available,AI Predicted Margin
+COA-01116,COR-089,2026-09-13,03:00,05:00,120,Blocked for Track Machine,COA System Feed
+COA-01117,COR-015,2026-09-19,02:00,06:00,240,Reserved,Division Manual Entry
+COA-01118,COR-082,2026-09-27,04:00,07:00,180,Occupied by Freight,Division Manual Entry
+COA-01119,COR-069,2026-09-20,18:00,20:00,120,Occupied by Freight,COA System Feed
+COA-01120,COR-051,2026-09-13,03:00,07:00,240,Available,Division Manual Entry
+COA-01121,COR-044,2026-09-24,12:00,16:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01122,COR-065,2026-09-15,00:00,04:00,240,Available,Division Manual Entry
+COA-01123,COR-033,2026-09-27,14:00,17:00,180,Reserved,COA System Feed
+COA-01124,COR-074,2026-09-27,03:00,07:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01125,COR-012,2026-09-23,16:00,19:00,180,Available,COA System Feed
+COA-01126,COR-078,2026-09-26,19:00,23:00,240,Occupied by Freight,COA System Feed
+COA-01127,COR-097,2026-09-15,19:00,22:00,180,Available,AI Predicted Margin
+COA-01128,COR-084,2026-09-10,14:00,17:00,180,Reserved,AI Predicted Margin
+COA-01129,COR-014,2026-09-21,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-01130,COR-097,2026-09-11,16:00,20:00,240,Occupied by Freight,AI Predicted Margin
+COA-01131,COR-062,2026-09-16,15:00,18:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01132,COR-027,2026-09-28,16:00,18:00,120,Available,COA System Feed
+COA-01133,COR-020,2026-09-15,04:00,06:00,120,Reserved,COA System Feed
+COA-01134,COR-022,2026-09-24,18:00,20:00,120,Available,Division Manual Entry
+COA-01135,COR-011,2026-09-09,10:00,13:00,180,Occupied by Freight,COA System Feed
+COA-01136,COR-085,2026-09-26,04:00,08:00,240,Occupied by Freight,COA System Feed
+COA-01137,COR-026,2026-09-14,07:00,09:00,120,Available,COA System Feed
+COA-01138,COR-076,2026-09-17,04:00,07:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01139,COR-015,2026-09-10,13:00,15:00,120,Reserved,AI Predicted Margin
+COA-01140,COR-041,2026-09-26,20:00,22:00,120,Available,AI Predicted Margin
+COA-01141,COR-030,2026-09-18,13:00,16:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01142,COR-015,2026-09-17,05:00,07:00,120,Occupied by Freight,AI Predicted Margin
+COA-01143,COR-041,2026-09-21,06:00,08:00,120,Reserved,COA System Feed
+COA-01144,COR-064,2026-09-15,17:00,21:00,240,Reserved,COA System Feed
+COA-01145,COR-070,2026-09-17,14:00,17:00,180,Available,Division Manual Entry
+COA-01146,COR-070,2026-09-28,11:00,14:00,180,Occupied by Freight,Division Manual Entry
+COA-01147,COR-009,2026-09-19,18:00,21:00,180,Occupied by Freight,COA System Feed
+COA-01148,COR-031,2026-09-12,05:00,07:00,120,Occupied by Freight,COA System Feed
+COA-01149,COR-023,2026-09-19,08:00,10:00,120,Occupied by Freight,COA System Feed
+COA-01150,COR-033,2026-09-12,15:00,17:00,120,Occupied by Freight,Division Manual Entry
+COA-01151,COR-024,2026-09-17,00:00,02:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01152,COR-040,2026-09-11,18:00,20:00,120,Occupied by Freight,Division Manual Entry
+COA-01153,COR-085,2026-09-20,17:00,20:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01154,COR-097,2026-09-23,03:00,06:00,180,Reserved,AI Predicted Margin
+COA-01155,COR-024,2026-09-10,14:00,16:00,120,Reserved,Division Manual Entry
+COA-01156,COR-056,2026-09-09,11:00,15:00,240,Occupied by Freight,Division Manual Entry
+COA-01157,COR-001,2026-09-15,04:00,08:00,240,Occupied by Freight,Division Manual Entry
+COA-01158,COR-013,2026-09-27,14:00,17:00,180,Occupied by Freight,AI Predicted Margin
+COA-01159,COR-092,2026-09-27,05:00,08:00,180,Available,AI Predicted Margin
+COA-01160,COR-034,2026-09-27,06:00,08:00,120,Available,Division Manual Entry
+COA-01161,COR-077,2026-09-21,02:00,04:00,120,Reserved,AI Predicted Margin
+COA-01162,COR-077,2026-09-20,17:00,21:00,240,Occupied by Freight,Division Manual Entry
+COA-01163,COR-081,2026-09-27,16:00,19:00,180,Occupied by Freight,AI Predicted Margin
+COA-01164,COR-033,2026-09-18,13:00,16:00,180,Occupied by Freight,AI Predicted Margin
+COA-01165,COR-068,2026-09-26,15:00,19:00,240,Reserved,COA System Feed
+COA-01166,COR-050,2026-09-13,19:00,22:00,180,Occupied by Freight,COA System Feed
+COA-01167,COR-010,2026-09-23,00:00,04:00,240,Available,Division Manual Entry
+COA-01168,COR-080,2026-09-16,11:00,15:00,240,Blocked for Track Machine,COA System Feed
+COA-01169,COR-046,2026-09-17,06:00,08:00,120,Occupied by Freight,Division Manual Entry
+COA-01170,COR-020,2026-09-17,14:00,17:00,180,Occupied by Freight,Division Manual Entry
+COA-01171,COR-051,2026-09-27,01:00,05:00,240,Available,Division Manual Entry
+COA-01172,COR-029,2026-09-13,13:00,17:00,240,Available,Division Manual Entry
+COA-01173,COR-057,2026-09-11,06:00,10:00,240,Occupied by Freight,AI Predicted Margin
+COA-01174,COR-052,2026-09-10,05:00,07:00,120,Blocked for Track Machine,COA System Feed
+COA-01175,COR-002,2026-09-15,14:00,17:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01176,COR-077,2026-09-15,06:00,08:00,120,Reserved,COA System Feed
+COA-01177,COR-072,2026-09-23,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01178,COR-092,2026-09-29,12:00,15:00,180,Occupied by Freight,AI Predicted Margin
+COA-01179,COR-009,2026-09-09,03:00,06:00,180,Occupied by Freight,Division Manual Entry
+COA-01180,COR-069,2026-09-15,03:00,05:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01181,COR-049,2026-09-24,08:00,10:00,120,Available,COA System Feed
+COA-01182,COR-063,2026-09-20,13:00,16:00,180,Reserved,Division Manual Entry
+COA-01183,COR-089,2026-09-29,12:00,16:00,240,Occupied by Freight,Division Manual Entry
+COA-01184,COR-068,2026-09-27,05:00,08:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01185,COR-090,2026-09-23,13:00,15:00,120,Available,AI Predicted Margin
+COA-01186,COR-006,2026-09-13,02:00,06:00,240,Available,COA System Feed
+COA-01187,COR-026,2026-09-29,19:00,23:00,240,Available,COA System Feed
+COA-01188,COR-081,2026-09-26,14:00,16:00,120,Occupied by Freight,Division Manual Entry
+COA-01189,COR-088,2026-09-14,13:00,16:00,180,Available,COA System Feed
+COA-01190,COR-065,2026-09-09,12:00,14:00,120,Blocked for Track Machine,COA System Feed
+COA-01191,COR-008,2026-09-27,16:00,19:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01192,COR-034,2026-09-24,12:00,15:00,180,Reserved,AI Predicted Margin
+COA-01193,COR-080,2026-09-18,08:00,12:00,240,Reserved,AI Predicted Margin
+COA-01194,COR-057,2026-09-26,17:00,19:00,120,Occupied by Freight,COA System Feed
+COA-01195,COR-045,2026-09-16,01:00,05:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01196,COR-014,2026-09-22,17:00,19:00,120,Blocked for Track Machine,COA System Feed
+COA-01197,COR-049,2026-09-28,02:00,05:00,180,Blocked for Track Machine,COA System Feed
+COA-01198,COR-006,2026-09-24,11:00,13:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01199,COR-067,2026-09-25,08:00,11:00,180,Occupied by Freight,Division Manual Entry
+COA-01200,COR-066,2026-09-18,08:00,11:00,180,Available,COA System Feed
+COA-01201,COR-091,2026-09-16,13:00,17:00,240,Occupied by Freight,Division Manual Entry
+COA-01202,COR-097,2026-09-15,11:00,14:00,180,Available,AI Predicted Margin
+COA-01203,COR-010,2026-09-26,00:00,03:00,180,Blocked for Track Machine,COA System Feed
+COA-01204,COR-086,2026-09-16,03:00,06:00,180,Reserved,Division Manual Entry
+COA-01205,COR-076,2026-09-28,19:00,23:00,240,Occupied by Freight,AI Predicted Margin
+COA-01206,COR-018,2026-09-17,19:00,23:00,240,Available,AI Predicted Margin
+COA-01207,COR-062,2026-09-09,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-01208,COR-079,2026-09-25,02:00,04:00,120,Reserved,COA System Feed
+COA-01209,COR-052,2026-09-11,03:00,06:00,180,Available,Division Manual Entry
+COA-01210,COR-047,2026-09-27,10:00,13:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01211,COR-093,2026-09-22,06:00,10:00,240,Available,Division Manual Entry
+COA-01212,COR-063,2026-09-29,00:00,03:00,180,Available,COA System Feed
+COA-01213,COR-054,2026-09-18,02:00,05:00,180,Blocked for Track Machine,COA System Feed
+COA-01214,COR-068,2026-09-25,03:00,05:00,120,Reserved,AI Predicted Margin
+COA-01215,COR-047,2026-09-28,00:00,02:00,120,Blocked for Track Machine,COA System Feed
+COA-01216,COR-064,2026-09-22,20:00,23:00,180,Available,AI Predicted Margin
+COA-01217,COR-084,2026-09-23,15:00,18:00,180,Available,AI Predicted Margin
+COA-01218,COR-045,2026-09-24,19:00,21:00,120,Reserved,Division Manual Entry
+COA-01219,COR-009,2026-09-15,15:00,18:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01220,COR-070,2026-09-21,07:00,10:00,180,Occupied by Freight,AI Predicted Margin
+COA-01221,COR-031,2026-09-29,08:00,10:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01222,COR-023,2026-09-12,16:00,20:00,240,Reserved,AI Predicted Margin
+COA-01223,COR-002,2026-09-22,00:00,03:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01224,COR-024,2026-09-21,04:00,07:00,180,Blocked for Track Machine,COA System Feed
+COA-01225,COR-019,2026-09-24,07:00,11:00,240,Reserved,AI Predicted Margin
+COA-01226,COR-032,2026-09-23,05:00,07:00,120,Available,Division Manual Entry
+COA-01227,COR-063,2026-09-12,13:00,16:00,180,Occupied by Freight,COA System Feed
+COA-01228,COR-077,2026-09-23,18:00,20:00,120,Reserved,AI Predicted Margin
+COA-01229,COR-008,2026-09-24,15:00,17:00,120,Reserved,COA System Feed
+COA-01230,COR-079,2026-09-23,01:00,05:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01231,COR-036,2026-09-19,11:00,15:00,240,Reserved,COA System Feed
+COA-01232,COR-059,2026-09-26,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01233,COR-035,2026-09-19,00:00,03:00,180,Occupied by Freight,COA System Feed
+COA-01234,COR-086,2026-09-18,05:00,09:00,240,Available,COA System Feed
+COA-01235,COR-032,2026-09-19,13:00,17:00,240,Available,Division Manual Entry
+COA-01236,COR-051,2026-09-10,07:00,09:00,120,Reserved,COA System Feed
+COA-01237,COR-074,2026-09-10,07:00,09:00,120,Occupied by Freight,AI Predicted Margin
+COA-01238,COR-012,2026-09-22,09:00,11:00,120,Available,Division Manual Entry
+COA-01239,COR-096,2026-09-26,04:00,07:00,180,Occupied by Freight,Division Manual Entry
+COA-01240,COR-056,2026-09-23,17:00,20:00,180,Occupied by Freight,Division Manual Entry
+COA-01241,COR-062,2026-09-14,09:00,13:00,240,Reserved,Division Manual Entry
+COA-01242,COR-074,2026-09-23,18:00,21:00,180,Reserved,AI Predicted Margin
+COA-01243,COR-062,2026-09-20,20:00,23:00,180,Available,Division Manual Entry
+COA-01244,COR-057,2026-09-28,00:00,04:00,240,Blocked for Track Machine,COA System Feed
+COA-01245,COR-100,2026-09-24,05:00,07:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01246,COR-076,2026-09-24,12:00,14:00,120,Available,AI Predicted Margin
+COA-01247,COR-064,2026-09-09,08:00,10:00,120,Reserved,AI Predicted Margin
+COA-01248,COR-009,2026-09-15,18:00,22:00,240,Occupied by Freight,Division Manual Entry
+COA-01249,COR-030,2026-09-29,06:00,08:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01250,COR-079,2026-09-14,16:00,20:00,240,Occupied by Freight,COA System Feed
+COA-01251,COR-060,2026-09-18,17:00,21:00,240,Occupied by Freight,COA System Feed
+COA-01252,COR-049,2026-09-09,01:00,05:00,240,Occupied by Freight,AI Predicted Margin
+COA-01253,COR-069,2026-09-19,10:00,12:00,120,Reserved,AI Predicted Margin
+COA-01254,COR-059,2026-09-29,14:00,18:00,240,Available,COA System Feed
+COA-01255,COR-066,2026-09-11,16:00,18:00,120,Available,AI Predicted Margin
+COA-01256,COR-030,2026-09-26,07:00,10:00,180,Occupied by Freight,COA System Feed
+COA-01257,COR-019,2026-09-13,19:00,22:00,180,Reserved,AI Predicted Margin
+COA-01258,COR-018,2026-09-15,16:00,19:00,180,Occupied by Freight,AI Predicted Margin
+COA-01259,COR-085,2026-09-14,05:00,08:00,180,Reserved,AI Predicted Margin
+COA-01260,COR-075,2026-09-14,03:00,05:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01261,COR-014,2026-09-12,11:00,15:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01262,COR-083,2026-09-18,00:00,02:00,120,Occupied by Freight,COA System Feed
+COA-01263,COR-047,2026-09-27,16:00,18:00,120,Reserved,AI Predicted Margin
+COA-01264,COR-044,2026-09-10,10:00,12:00,120,Occupied by Freight,Division Manual Entry
+COA-01265,COR-045,2026-09-11,12:00,15:00,180,Reserved,COA System Feed
+COA-01266,COR-015,2026-09-29,18:00,21:00,180,Available,AI Predicted Margin
+COA-01267,COR-029,2026-09-17,12:00,14:00,120,Occupied by Freight,COA System Feed
+COA-01268,COR-014,2026-09-15,18:00,22:00,240,Occupied by Freight,COA System Feed
+COA-01269,COR-052,2026-09-15,14:00,17:00,180,Reserved,COA System Feed
+COA-01270,COR-020,2026-09-27,08:00,10:00,120,Available,COA System Feed
+COA-01271,COR-004,2026-09-29,12:00,14:00,120,Reserved,COA System Feed
+COA-01272,COR-004,2026-09-23,17:00,21:00,240,Reserved,Division Manual Entry
+COA-01273,COR-099,2026-09-29,10:00,14:00,240,Available,Division Manual Entry
+COA-01274,COR-017,2026-09-12,01:00,03:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01275,COR-029,2026-09-26,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01276,COR-020,2026-09-27,03:00,07:00,240,Occupied by Freight,Division Manual Entry
+COA-01277,COR-018,2026-09-16,02:00,04:00,120,Occupied by Freight,COA System Feed
+COA-01278,COR-002,2026-09-20,15:00,18:00,180,Reserved,Division Manual Entry
+COA-01279,COR-006,2026-09-29,15:00,18:00,180,Occupied by Freight,AI Predicted Margin
+COA-01280,COR-018,2026-09-09,16:00,20:00,240,Blocked for Track Machine,COA System Feed
+COA-01281,COR-067,2026-09-24,13:00,17:00,240,Available,COA System Feed
+COA-01282,COR-057,2026-09-10,05:00,09:00,240,Occupied by Freight,COA System Feed
+COA-01283,COR-047,2026-09-12,17:00,21:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01284,COR-094,2026-09-15,20:00,22:00,120,Occupied by Freight,Division Manual Entry
+COA-01285,COR-036,2026-09-15,00:00,02:00,120,Occupied by Freight,COA System Feed
+COA-01286,COR-036,2026-09-19,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01287,COR-082,2026-09-10,07:00,11:00,240,Available,COA System Feed
+COA-01288,COR-054,2026-09-13,06:00,10:00,240,Reserved,COA System Feed
+COA-01289,COR-067,2026-09-28,09:00,12:00,180,Available,Division Manual Entry
+COA-01290,COR-015,2026-09-17,09:00,12:00,180,Reserved,Division Manual Entry
+COA-01291,COR-091,2026-09-21,03:00,05:00,120,Occupied by Freight,AI Predicted Margin
+COA-01292,COR-023,2026-09-12,05:00,09:00,240,Blocked for Track Machine,COA System Feed
+COA-01293,COR-097,2026-09-17,12:00,15:00,180,Reserved,COA System Feed
+COA-01294,COR-089,2026-09-16,16:00,18:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01295,COR-085,2026-09-28,10:00,13:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01296,COR-083,2026-09-12,15:00,18:00,180,Occupied by Freight,Division Manual Entry
+COA-01297,COR-023,2026-09-14,12:00,14:00,120,Occupied by Freight,Division Manual Entry
+COA-01298,COR-014,2026-09-16,13:00,16:00,180,Reserved,Division Manual Entry
+COA-01299,COR-067,2026-09-20,17:00,21:00,240,Occupied by Freight,COA System Feed
+COA-01300,COR-071,2026-09-20,14:00,17:00,180,Occupied by Freight,COA System Feed
+COA-01301,COR-002,2026-09-23,02:00,05:00,180,Reserved,Division Manual Entry
+COA-01302,COR-003,2026-09-17,16:00,19:00,180,Reserved,Division Manual Entry
+COA-01303,COR-007,2026-09-14,06:00,09:00,180,Occupied by Freight,Division Manual Entry
+COA-01304,COR-012,2026-09-12,12:00,14:00,120,Occupied by Freight,Division Manual Entry
+COA-01305,COR-029,2026-09-27,20:00,23:00,180,Reserved,COA System Feed
+COA-01306,COR-077,2026-09-12,10:00,14:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01307,COR-005,2026-09-29,12:00,14:00,120,Occupied by Freight,COA System Feed
+COA-01308,COR-090,2026-09-13,18:00,20:00,120,Occupied by Freight,AI Predicted Margin
+COA-01309,COR-065,2026-09-25,06:00,08:00,120,Blocked for Track Machine,COA System Feed
+COA-01310,COR-097,2026-09-14,11:00,14:00,180,Occupied by Freight,Division Manual Entry
+COA-01311,COR-083,2026-09-24,08:00,12:00,240,Available,Division Manual Entry
+COA-01312,COR-069,2026-09-27,07:00,10:00,180,Available,Division Manual Entry
+COA-01313,COR-040,2026-09-27,20:00,22:00,120,Occupied by Freight,Division Manual Entry
+COA-01314,COR-003,2026-09-11,10:00,13:00,180,Occupied by Freight,AI Predicted Margin
+COA-01315,COR-088,2026-09-11,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-01316,COR-025,2026-09-18,08:00,10:00,120,Available,Division Manual Entry
+COA-01317,COR-069,2026-09-29,19:00,23:00,240,Reserved,COA System Feed
+COA-01318,COR-024,2026-09-14,11:00,13:00,120,Available,Division Manual Entry
+COA-01319,COR-062,2026-09-17,07:00,10:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01320,COR-040,2026-09-18,08:00,12:00,240,Available,AI Predicted Margin
+COA-01321,COR-003,2026-09-23,09:00,13:00,240,Occupied by Freight,Division Manual Entry
+COA-01322,COR-065,2026-09-15,16:00,19:00,180,Available,COA System Feed
+COA-01323,COR-096,2026-09-14,08:00,11:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01324,COR-019,2026-09-25,00:00,04:00,240,Blocked for Track Machine,COA System Feed
+COA-01325,COR-041,2026-09-18,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-01326,COR-098,2026-09-26,01:00,03:00,120,Occupied by Freight,COA System Feed
+COA-01327,COR-004,2026-09-25,00:00,03:00,180,Available,COA System Feed
+COA-01328,COR-043,2026-09-21,15:00,18:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01329,COR-079,2026-09-15,00:00,02:00,120,Occupied by Freight,AI Predicted Margin
+COA-01330,COR-006,2026-09-13,14:00,17:00,180,Blocked for Track Machine,COA System Feed
+COA-01331,COR-025,2026-09-23,07:00,11:00,240,Available,AI Predicted Margin
+COA-01332,COR-005,2026-09-29,03:00,06:00,180,Occupied by Freight,COA System Feed
+COA-01333,COR-027,2026-09-09,03:00,06:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01334,COR-092,2026-09-22,07:00,09:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01335,COR-097,2026-09-25,08:00,11:00,180,Blocked for Track Machine,COA System Feed
+COA-01336,COR-020,2026-09-27,10:00,14:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01337,COR-055,2026-09-29,17:00,19:00,120,Reserved,Division Manual Entry
+COA-01338,COR-074,2026-09-20,18:00,20:00,120,Reserved,COA System Feed
+COA-01339,COR-081,2026-09-18,14:00,17:00,180,Available,COA System Feed
+COA-01340,COR-007,2026-09-11,06:00,09:00,180,Reserved,AI Predicted Margin
+COA-01341,COR-028,2026-09-12,07:00,09:00,120,Occupied by Freight,COA System Feed
+COA-01342,COR-025,2026-09-25,16:00,18:00,120,Blocked for Track Machine,COA System Feed
+COA-01343,COR-092,2026-09-28,14:00,16:00,120,Occupied by Freight,COA System Feed
+COA-01344,COR-001,2026-09-21,15:00,18:00,180,Occupied by Freight,AI Predicted Margin
+COA-01345,COR-013,2026-09-26,12:00,16:00,240,Reserved,Division Manual Entry
+COA-01346,COR-014,2026-09-13,14:00,18:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01347,COR-064,2026-09-21,17:00,19:00,120,Reserved,AI Predicted Margin
+COA-01348,COR-004,2026-09-20,00:00,03:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01349,COR-025,2026-09-18,16:00,18:00,120,Blocked for Track Machine,COA System Feed
+COA-01350,COR-021,2026-09-29,01:00,05:00,240,Occupied by Freight,COA System Feed
+COA-01351,COR-022,2026-09-11,20:00,22:00,120,Reserved,Division Manual Entry
+COA-01352,COR-060,2026-09-10,05:00,08:00,180,Available,COA System Feed
+COA-01353,COR-011,2026-09-14,08:00,10:00,120,Blocked for Track Machine,COA System Feed
+COA-01354,COR-051,2026-09-26,11:00,15:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01355,COR-087,2026-09-27,01:00,05:00,240,Available,COA System Feed
+COA-01356,COR-058,2026-09-18,15:00,19:00,240,Reserved,AI Predicted Margin
+COA-01357,COR-073,2026-09-09,00:00,03:00,180,Available,AI Predicted Margin
+COA-01358,COR-071,2026-09-26,05:00,08:00,180,Reserved,Division Manual Entry
+COA-01359,COR-027,2026-09-28,12:00,15:00,180,Available,AI Predicted Margin
+COA-01360,COR-009,2026-09-12,11:00,14:00,180,Available,AI Predicted Margin
+COA-01361,COR-082,2026-09-13,05:00,09:00,240,Available,COA System Feed
+COA-01362,COR-039,2026-09-18,00:00,04:00,240,Occupied by Freight,Division Manual Entry
+COA-01363,COR-082,2026-09-13,18:00,22:00,240,Occupied by Freight,AI Predicted Margin
+COA-01364,COR-048,2026-09-11,05:00,09:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01365,COR-083,2026-09-16,13:00,15:00,120,Reserved,COA System Feed
+COA-01366,COR-051,2026-09-24,00:00,04:00,240,Occupied by Freight,COA System Feed
+COA-01367,COR-076,2026-09-13,10:00,13:00,180,Occupied by Freight,Division Manual Entry
+COA-01368,COR-031,2026-09-20,13:00,16:00,180,Available,Division Manual Entry
+COA-01369,COR-035,2026-09-26,06:00,08:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01370,COR-006,2026-09-19,18:00,21:00,180,Blocked for Track Machine,COA System Feed
+COA-01371,COR-010,2026-09-18,19:00,23:00,240,Available,AI Predicted Margin
+COA-01372,COR-079,2026-09-21,01:00,04:00,180,Blocked for Track Machine,COA System Feed
+COA-01373,COR-014,2026-09-21,03:00,06:00,180,Reserved,Division Manual Entry
+COA-01374,COR-054,2026-09-21,01:00,05:00,240,Occupied by Freight,COA System Feed
+COA-01375,COR-079,2026-09-29,17:00,21:00,240,Reserved,Division Manual Entry
+COA-01376,COR-017,2026-09-22,05:00,08:00,180,Reserved,COA System Feed
+COA-01377,COR-074,2026-09-10,07:00,10:00,180,Blocked for Track Machine,COA System Feed
+COA-01378,COR-080,2026-09-26,16:00,18:00,120,Reserved,Division Manual Entry
+COA-01379,COR-041,2026-09-15,02:00,05:00,180,Occupied by Freight,Division Manual Entry
+COA-01380,COR-086,2026-09-26,06:00,09:00,180,Blocked for Track Machine,COA System Feed
+COA-01381,COR-086,2026-09-28,19:00,23:00,240,Available,COA System Feed
+COA-01382,COR-055,2026-09-20,15:00,19:00,240,Reserved,COA System Feed
+COA-01383,COR-038,2026-09-15,07:00,11:00,240,Available,Division Manual Entry
+COA-01384,COR-097,2026-09-14,11:00,15:00,240,Reserved,AI Predicted Margin
+COA-01385,COR-042,2026-09-09,05:00,09:00,240,Available,Division Manual Entry
+COA-01386,COR-090,2026-09-20,11:00,13:00,120,Reserved,COA System Feed
+COA-01387,COR-008,2026-09-21,11:00,15:00,240,Available,AI Predicted Margin
+COA-01388,COR-076,2026-09-10,05:00,07:00,120,Occupied by Freight,Division Manual Entry
+COA-01389,COR-029,2026-09-16,12:00,15:00,180,Reserved,COA System Feed
+COA-01390,COR-090,2026-09-10,17:00,21:00,240,Occupied by Freight,Division Manual Entry
+COA-01391,COR-011,2026-09-09,09:00,13:00,240,Reserved,Division Manual Entry
+COA-01392,COR-069,2026-09-17,12:00,15:00,180,Occupied by Freight,COA System Feed
+COA-01393,COR-014,2026-09-28,03:00,07:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01394,COR-065,2026-09-21,08:00,12:00,240,Occupied by Freight,AI Predicted Margin
+COA-01395,COR-081,2026-09-10,00:00,04:00,240,Reserved,AI Predicted Margin
+COA-01396,COR-032,2026-09-28,14:00,16:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01397,COR-078,2026-09-20,16:00,19:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01398,COR-054,2026-09-25,13:00,16:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01399,COR-005,2026-09-15,13:00,15:00,120,Reserved,COA System Feed
+COA-01400,COR-084,2026-09-09,07:00,10:00,180,Occupied by Freight,COA System Feed
+COA-01401,COR-098,2026-09-20,20:00,23:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01402,COR-064,2026-09-10,13:00,16:00,180,Occupied by Freight,COA System Feed
+COA-01403,COR-057,2026-09-19,07:00,11:00,240,Reserved,AI Predicted Margin
+COA-01404,COR-011,2026-09-22,09:00,12:00,180,Available,Division Manual Entry
+COA-01405,COR-009,2026-09-13,15:00,19:00,240,Occupied by Freight,COA System Feed
+COA-01406,COR-018,2026-09-26,11:00,13:00,120,Available,COA System Feed
+COA-01407,COR-029,2026-09-12,09:00,12:00,180,Reserved,AI Predicted Margin
+COA-01408,COR-088,2026-09-12,13:00,16:00,180,Reserved,Division Manual Entry
+COA-01409,COR-068,2026-09-12,17:00,20:00,180,Reserved,Division Manual Entry
+COA-01410,COR-013,2026-09-14,19:00,23:00,240,Reserved,Division Manual Entry
+COA-01411,COR-018,2026-09-24,09:00,13:00,240,Occupied by Freight,Division Manual Entry
+COA-01412,COR-087,2026-09-18,08:00,12:00,240,Reserved,Division Manual Entry
+COA-01413,COR-074,2026-09-19,14:00,16:00,120,Occupied by Freight,AI Predicted Margin
+COA-01414,COR-071,2026-09-16,09:00,13:00,240,Blocked for Track Machine,Division Manual Entry
+COA-01415,COR-026,2026-09-14,03:00,06:00,180,Reserved,COA System Feed
+COA-01416,COR-069,2026-09-19,12:00,14:00,120,Reserved,Division Manual Entry
+COA-01417,COR-039,2026-09-10,12:00,15:00,180,Occupied by Freight,COA System Feed
+COA-01418,COR-078,2026-09-29,03:00,05:00,120,Reserved,Division Manual Entry
+COA-01419,COR-092,2026-09-24,09:00,11:00,120,Occupied by Freight,Division Manual Entry
+COA-01420,COR-028,2026-09-14,00:00,03:00,180,Reserved,AI Predicted Margin
+COA-01421,COR-028,2026-09-19,09:00,13:00,240,Available,AI Predicted Margin
+COA-01422,COR-035,2026-09-29,10:00,14:00,240,Reserved,AI Predicted Margin
+COA-01423,COR-021,2026-09-27,12:00,14:00,120,Occupied by Freight,COA System Feed
+COA-01424,COR-072,2026-09-13,07:00,11:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01425,COR-042,2026-09-15,13:00,15:00,120,Reserved,AI Predicted Margin
+COA-01426,COR-030,2026-09-21,05:00,07:00,120,Available,Division Manual Entry
+COA-01427,COR-028,2026-09-28,04:00,06:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01428,COR-091,2026-09-21,08:00,11:00,180,Reserved,AI Predicted Margin
+COA-01429,COR-007,2026-09-20,04:00,06:00,120,Occupied by Freight,COA System Feed
+COA-01430,COR-005,2026-09-14,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01431,COR-005,2026-09-14,05:00,09:00,240,Reserved,AI Predicted Margin
+COA-01432,COR-087,2026-09-28,00:00,04:00,240,Available,Division Manual Entry
+COA-01433,COR-037,2026-09-29,18:00,20:00,120,Available,AI Predicted Margin
+COA-01434,COR-035,2026-09-13,15:00,19:00,240,Available,AI Predicted Margin
+COA-01435,COR-016,2026-09-15,17:00,20:00,180,Available,AI Predicted Margin
+COA-01436,COR-005,2026-09-19,01:00,05:00,240,Blocked for Track Machine,COA System Feed
+COA-01437,COR-051,2026-09-21,00:00,02:00,120,Occupied by Freight,Division Manual Entry
+COA-01438,COR-017,2026-09-10,01:00,03:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01439,COR-030,2026-09-15,19:00,22:00,180,Reserved,Division Manual Entry
+COA-01440,COR-084,2026-09-26,20:00,23:00,180,Reserved,AI Predicted Margin
+COA-01441,COR-088,2026-09-27,08:00,11:00,180,Blocked for Track Machine,Division Manual Entry
+COA-01442,COR-014,2026-09-17,10:00,13:00,180,Occupied by Freight,COA System Feed
+COA-01443,COR-034,2026-09-10,01:00,05:00,240,Reserved,COA System Feed
+COA-01444,COR-022,2026-09-16,11:00,15:00,240,Reserved,Division Manual Entry
+COA-01445,COR-033,2026-09-09,16:00,18:00,120,Occupied by Freight,Division Manual Entry
+COA-01446,COR-021,2026-09-18,03:00,07:00,240,Occupied by Freight,AI Predicted Margin
+COA-01447,COR-054,2026-09-26,11:00,15:00,240,Reserved,COA System Feed
+COA-01448,COR-063,2026-09-20,10:00,14:00,240,Blocked for Track Machine,COA System Feed
+COA-01449,COR-018,2026-09-29,16:00,19:00,180,Available,Division Manual Entry
+COA-01450,COR-011,2026-09-25,00:00,02:00,120,Available,Division Manual Entry
+COA-01451,COR-029,2026-09-10,10:00,12:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01452,COR-038,2026-09-19,00:00,03:00,180,Available,AI Predicted Margin
+COA-01453,COR-010,2026-09-26,19:00,23:00,240,Reserved,Division Manual Entry
+COA-01454,COR-046,2026-09-13,16:00,18:00,120,Available,AI Predicted Margin
+COA-01455,COR-026,2026-09-29,09:00,11:00,120,Available,AI Predicted Margin
+COA-01456,COR-001,2026-09-22,09:00,11:00,120,Reserved,AI Predicted Margin
+COA-01457,COR-037,2026-09-29,18:00,22:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01458,COR-018,2026-09-23,04:00,08:00,240,Reserved,AI Predicted Margin
+COA-01459,COR-024,2026-09-14,05:00,09:00,240,Available,Division Manual Entry
+COA-01460,COR-078,2026-09-25,02:00,06:00,240,Available,AI Predicted Margin
+COA-01461,COR-096,2026-09-21,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-01462,COR-063,2026-09-10,00:00,04:00,240,Reserved,Division Manual Entry
+COA-01463,COR-094,2026-09-16,10:00,13:00,180,Available,AI Predicted Margin
+COA-01464,COR-016,2026-09-26,01:00,04:00,180,Reserved,AI Predicted Margin
+COA-01465,COR-089,2026-09-26,07:00,09:00,120,Blocked for Track Machine,COA System Feed
+COA-01466,COR-086,2026-09-10,01:00,04:00,180,Available,AI Predicted Margin
+COA-01467,COR-076,2026-09-16,01:00,05:00,240,Occupied by Freight,COA System Feed
+COA-01468,COR-011,2026-09-18,16:00,19:00,180,Available,COA System Feed
+COA-01469,COR-049,2026-09-13,16:00,19:00,180,Reserved,AI Predicted Margin
+COA-01470,COR-039,2026-09-20,15:00,19:00,240,Reserved,COA System Feed
+COA-01471,COR-076,2026-09-13,18:00,20:00,120,Reserved,COA System Feed
+COA-01472,COR-093,2026-09-15,07:00,10:00,180,Available,COA System Feed
+COA-01473,COR-005,2026-09-27,13:00,16:00,180,Occupied by Freight,AI Predicted Margin
+COA-01474,COR-098,2026-09-17,09:00,12:00,180,Available,COA System Feed
+COA-01475,COR-082,2026-09-18,20:00,23:00,180,Occupied by Freight,AI Predicted Margin
+COA-01476,COR-022,2026-09-25,02:00,04:00,120,Blocked for Track Machine,AI Predicted Margin
+COA-01477,COR-044,2026-09-29,18:00,20:00,120,Blocked for Track Machine,Division Manual Entry
+COA-01478,COR-039,2026-09-17,14:00,18:00,240,Available,COA System Feed
+COA-01479,COR-036,2026-09-16,15:00,17:00,120,Available,COA System Feed
+COA-01480,COR-042,2026-09-12,18:00,22:00,240,Available,AI Predicted Margin
+COA-01481,COR-001,2026-09-25,11:00,15:00,240,Available,COA System Feed
+COA-01482,COR-071,2026-09-25,09:00,13:00,240,Reserved,Division Manual Entry
+COA-01483,COR-064,2026-09-12,13:00,17:00,240,Available,Division Manual Entry
+COA-01484,COR-062,2026-09-19,05:00,09:00,240,Reserved,COA System Feed
+COA-01485,COR-072,2026-09-26,07:00,09:00,120,Occupied by Freight,Division Manual Entry
+COA-01486,COR-080,2026-09-10,14:00,17:00,180,Reserved,COA System Feed
+COA-01487,COR-069,2026-09-11,03:00,05:00,120,Reserved,AI Predicted Margin
+COA-01488,COR-002,2026-09-18,08:00,11:00,180,Available,AI Predicted Margin
+COA-01489,COR-006,2026-09-12,05:00,08:00,180,Blocked for Track Machine,AI Predicted Margin
+COA-01490,COR-076,2026-09-11,05:00,09:00,240,Blocked for Track Machine,AI Predicted Margin
+COA-01491,COR-099,2026-09-23,20:00,22:00,120,Occupied by Freight,Division Manual Entry
+COA-01492,COR-045,2026-09-25,05:00,09:00,240,Reserved,COA System Feed
+COA-01493,COR-093,2026-09-28,00:00,04:00,240,Reserved,AI Predicted Margin
+COA-01494,COR-033,2026-09-15,01:00,05:00,240,Available,AI Predicted Margin
+COA-01495,COR-057,2026-09-17,06:00,08:00,120,Available,AI Predicted Margin
+COA-01496,COR-081,2026-09-29,01:00,03:00,120,Occupied by Freight,COA System Feed
+COA-01497,COR-053,2026-09-13,19:00,23:00,240,Reserved,AI Predicted Margin
+COA-01498,COR-079,2026-09-09,06:00,09:00,180,Occupied by Freight,COA System Feed
+COA-01499,COR-010,2026-09-18,08:00,12:00,240,Blocked for Track Machine,COA System Feed
+COA-01500,COR-053,2026-09-15,19:00,23:00,240,Occupied by Freight,Division Manual Entry

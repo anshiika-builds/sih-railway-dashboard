@@ -1,0 +1,101 @@
+corridor_id,corridor_name,zone,division,start_station_code,start_station_name,end_station_code,end_station_name,distance_km,track_type,electrified,traffic_density,corridor_criticality,maximum_speed_kmph,operational_status
+COR-001,New Delhi - Kanpur Central Main Section (1),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,316.6,Double Line,Yes,Very High,High,110,Operational
+COR-002,Howrah - Kharagpur Main Section (2),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,330.4,Single Line High Density,Yes,Extreme,Critical,110,Operational
+COR-003,Mumbai CSMT - Pune Jn Main Section (3),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,160.9,Single Line High Density,Yes,Very High,Low,110,Speed Restriction
+COR-004,Chennai Central - Vijayawada Main Section (4),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,298.0,Double Line,Yes,Extreme,Medium,130,Heavy Traffic
+COR-005,Bengaluru City - Mysuru Jn Main Section (5),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,159.7,Multiple Lines (3+),Yes,High,Low,110,Maintenance Block Active
+COR-006,Secunderabad - Kazipet Jn Main Section (6),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,393.6,Single Line High Density,Yes,High,Low,160,Operational
+COR-007,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (7),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,440.1,Multiple Lines (3+),Yes,Medium,Medium,160,Heavy Traffic
+COR-008,Lucknow Charbagh - Bareilly Jn Main Section (8),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,340.7,Double Line,Yes,Medium,Critical,110,Operational
+COR-009,Ahmedabad Jn - Vadodara Jn Main Section (9),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,220.6,Multiple Lines (3+),Yes,Very High,Medium,130,Heavy Traffic
+COR-010,Nagpur Jn - Balharshah Main Section (10),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,328.0,Single Line High Density,Yes,Very High,High,110,Speed Restriction
+COR-011,New Delhi - Kanpur Central Main Section (11),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,220.4,Single Line High Density,Yes,Medium,Critical,110,Operational
+COR-012,Howrah - Kharagpur Main Section (12),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,377.9,Multiple Lines (3+),Yes,High,High,160,Maintenance Block Active
+COR-013,Mumbai CSMT - Pune Jn Main Section (13),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,158.7,Multiple Lines (3+),No,Extreme,High,130,Heavy Traffic
+COR-014,Chennai Central - Vijayawada Main Section (14),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,171.3,Single Line High Density,Yes,Extreme,Low,130,Heavy Traffic
+COR-015,Bengaluru City - Mysuru Jn Main Section (15),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,449.0,Double Line,No,High,Critical,110,Heavy Traffic
+COR-016,Secunderabad - Kazipet Jn Main Section (16),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,312.2,Single Line High Density,No,High,Low,130,Speed Restriction
+COR-017,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (17),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,275.8,Single Line High Density,Yes,High,Medium,160,Maintenance Block Active
+COR-018,Lucknow Charbagh - Bareilly Jn Main Section (18),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,121.3,Multiple Lines (3+),Yes,Extreme,Critical,160,Maintenance Block Active
+COR-019,Ahmedabad Jn - Vadodara Jn Main Section (19),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,439.6,Double Line,Yes,Medium,High,110,Maintenance Block Active
+COR-020,Nagpur Jn - Balharshah Main Section (20),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,362.1,Single Line High Density,Yes,Medium,Low,110,Operational
+COR-021,New Delhi - Kanpur Central Main Section (21),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,423.8,Multiple Lines (3+),Yes,High,High,160,Operational
+COR-022,Howrah - Kharagpur Main Section (22),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,111.7,Multiple Lines (3+),Yes,Very High,High,160,Speed Restriction
+COR-023,Mumbai CSMT - Pune Jn Main Section (23),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,430.3,Double Line,Yes,Extreme,High,160,Heavy Traffic
+COR-024,Chennai Central - Vijayawada Main Section (24),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,343.8,Multiple Lines (3+),Yes,Extreme,Low,110,Heavy Traffic
+COR-025,Bengaluru City - Mysuru Jn Main Section (25),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,163.1,Multiple Lines (3+),Yes,Very High,High,110,Operational
+COR-026,Secunderabad - Kazipet Jn Main Section (26),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,341.9,Double Line,Yes,High,Critical,130,Operational
+COR-027,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (27),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,270.2,Multiple Lines (3+),No,Very High,High,160,Speed Restriction
+COR-028,Lucknow Charbagh - Bareilly Jn Main Section (28),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,169.9,Multiple Lines (3+),No,Very High,Critical,110,Speed Restriction
+COR-029,Ahmedabad Jn - Vadodara Jn Main Section (29),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,211.1,Multiple Lines (3+),No,High,Critical,110,Speed Restriction
+COR-030,Nagpur Jn - Balharshah Main Section (30),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,349.4,Double Line,Yes,Very High,High,160,Speed Restriction
+COR-031,New Delhi - Kanpur Central Main Section (31),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,131.9,Double Line,Yes,Extreme,High,110,Speed Restriction
+COR-032,Howrah - Kharagpur Main Section (32),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,379.0,Single Line High Density,Yes,High,Critical,110,Heavy Traffic
+COR-033,Mumbai CSMT - Pune Jn Main Section (33),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,141.5,Multiple Lines (3+),No,Very High,Low,110,Heavy Traffic
+COR-034,Chennai Central - Vijayawada Main Section (34),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,220.2,Multiple Lines (3+),Yes,Extreme,Medium,130,Speed Restriction
+COR-035,Bengaluru City - Mysuru Jn Main Section (35),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,137.3,Multiple Lines (3+),Yes,High,Critical,160,Maintenance Block Active
+COR-036,Secunderabad - Kazipet Jn Main Section (36),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,101.2,Single Line High Density,No,Very High,Critical,160,Operational
+COR-037,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (37),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,395.0,Double Line,Yes,Very High,Low,110,Heavy Traffic
+COR-038,Lucknow Charbagh - Bareilly Jn Main Section (38),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,294.2,Double Line,Yes,Extreme,Medium,130,Heavy Traffic
+COR-039,Ahmedabad Jn - Vadodara Jn Main Section (39),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,327.8,Multiple Lines (3+),Yes,Medium,Low,110,Maintenance Block Active
+COR-040,Nagpur Jn - Balharshah Main Section (40),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,249.2,Double Line,Yes,Extreme,Critical,110,Heavy Traffic
+COR-041,New Delhi - Kanpur Central Main Section (41),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,267.2,Double Line,Yes,High,High,130,Maintenance Block Active
+COR-042,Howrah - Kharagpur Main Section (42),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,138.4,Single Line High Density,Yes,High,Medium,160,Operational
+COR-043,Mumbai CSMT - Pune Jn Main Section (43),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,427.4,Double Line,Yes,High,Critical,160,Heavy Traffic
+COR-044,Chennai Central - Vijayawada Main Section (44),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,180.8,Single Line High Density,Yes,Medium,High,160,Maintenance Block Active
+COR-045,Bengaluru City - Mysuru Jn Main Section (45),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,267.0,Multiple Lines (3+),Yes,High,Low,130,Operational
+COR-046,Secunderabad - Kazipet Jn Main Section (46),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,81.3,Double Line,Yes,Very High,Low,160,Speed Restriction
+COR-047,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (47),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,287.5,Double Line,Yes,Very High,Critical,130,Heavy Traffic
+COR-048,Lucknow Charbagh - Bareilly Jn Main Section (48),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,239.0,Double Line,Yes,Medium,Critical,130,Heavy Traffic
+COR-049,Ahmedabad Jn - Vadodara Jn Main Section (49),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,332.4,Single Line High Density,Yes,Medium,Low,160,Heavy Traffic
+COR-050,Nagpur Jn - Balharshah Main Section (50),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,422.5,Double Line,Yes,Very High,Low,110,Heavy Traffic
+COR-051,New Delhi - Kanpur Central Main Section (51),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,352.5,Multiple Lines (3+),No,Very High,Medium,110,Operational
+COR-052,Howrah - Kharagpur Main Section (52),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,221.5,Double Line,No,Very High,High,130,Maintenance Block Active
+COR-053,Mumbai CSMT - Pune Jn Main Section (53),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,192.9,Double Line,Yes,High,High,130,Maintenance Block Active
+COR-054,Chennai Central - Vijayawada Main Section (54),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,183.1,Double Line,Yes,Medium,Low,160,Maintenance Block Active
+COR-055,Bengaluru City - Mysuru Jn Main Section (55),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,427.5,Double Line,Yes,Very High,Medium,110,Operational
+COR-056,Secunderabad - Kazipet Jn Main Section (56),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,300.7,Multiple Lines (3+),Yes,Extreme,Critical,130,Heavy Traffic
+COR-057,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (57),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,174.2,Single Line High Density,No,High,High,130,Speed Restriction
+COR-058,Lucknow Charbagh - Bareilly Jn Main Section (58),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,105.9,Single Line High Density,Yes,Medium,Critical,160,Maintenance Block Active
+COR-059,Ahmedabad Jn - Vadodara Jn Main Section (59),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,267.6,Single Line High Density,No,Medium,Low,160,Maintenance Block Active
+COR-060,Nagpur Jn - Balharshah Main Section (60),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,285.1,Double Line,No,Extreme,High,160,Maintenance Block Active
+COR-061,New Delhi - Kanpur Central Main Section (61),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,230.2,Double Line,Yes,Medium,High,130,Maintenance Block Active
+COR-062,Howrah - Kharagpur Main Section (62),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,252.0,Multiple Lines (3+),Yes,Extreme,High,160,Operational
+COR-063,Mumbai CSMT - Pune Jn Main Section (63),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,185.0,Single Line High Density,Yes,High,High,160,Maintenance Block Active
+COR-064,Chennai Central - Vijayawada Main Section (64),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,163.1,Double Line,Yes,High,Critical,110,Speed Restriction
+COR-065,Bengaluru City - Mysuru Jn Main Section (65),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,306.2,Double Line,No,Extreme,High,160,Speed Restriction
+COR-066,Secunderabad - Kazipet Jn Main Section (66),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,262.9,Double Line,Yes,High,Critical,130,Heavy Traffic
+COR-067,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (67),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,145.1,Single Line High Density,No,High,High,110,Speed Restriction
+COR-068,Lucknow Charbagh - Bareilly Jn Main Section (68),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,129.3,Multiple Lines (3+),Yes,Extreme,Low,160,Speed Restriction
+COR-069,Ahmedabad Jn - Vadodara Jn Main Section (69),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,412.0,Single Line High Density,No,Extreme,Medium,110,Maintenance Block Active
+COR-070,Nagpur Jn - Balharshah Main Section (70),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,363.4,Single Line High Density,No,Very High,Medium,130,Operational
+COR-071,New Delhi - Kanpur Central Main Section (71),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,344.0,Double Line,Yes,Medium,Medium,160,Operational
+COR-072,Howrah - Kharagpur Main Section (72),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,131.2,Double Line,No,Very High,High,110,Speed Restriction
+COR-073,Mumbai CSMT - Pune Jn Main Section (73),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,230.8,Single Line High Density,No,Extreme,Critical,110,Speed Restriction
+COR-074,Chennai Central - Vijayawada Main Section (74),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,224.1,Single Line High Density,Yes,Extreme,Low,110,Maintenance Block Active
+COR-075,Bengaluru City - Mysuru Jn Main Section (75),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,190.5,Multiple Lines (3+),No,Very High,Low,110,Maintenance Block Active
+COR-076,Secunderabad - Kazipet Jn Main Section (76),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,241.3,Double Line,No,Medium,Low,160,Heavy Traffic
+COR-077,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (77),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,391.0,Double Line,Yes,Extreme,Critical,110,Speed Restriction
+COR-078,Lucknow Charbagh - Bareilly Jn Main Section (78),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,130.2,Multiple Lines (3+),Yes,High,Medium,130,Maintenance Block Active
+COR-079,Ahmedabad Jn - Vadodara Jn Main Section (79),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,158.3,Multiple Lines (3+),Yes,Extreme,Medium,130,Maintenance Block Active
+COR-080,Nagpur Jn - Balharshah Main Section (80),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,388.9,Multiple Lines (3+),Yes,High,Medium,110,Operational
+COR-081,New Delhi - Kanpur Central Main Section (81),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,369.1,Single Line High Density,Yes,High,High,110,Operational
+COR-082,Howrah - Kharagpur Main Section (82),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,309.9,Double Line,Yes,Extreme,Critical,160,Heavy Traffic
+COR-083,Mumbai CSMT - Pune Jn Main Section (83),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,252.1,Multiple Lines (3+),Yes,Very High,Critical,110,Maintenance Block Active
+COR-084,Chennai Central - Vijayawada Main Section (84),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,120.0,Double Line,Yes,Extreme,Low,160,Heavy Traffic
+COR-085,Bengaluru City - Mysuru Jn Main Section (85),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,108.1,Single Line High Density,Yes,High,Medium,160,Operational
+COR-086,Secunderabad - Kazipet Jn Main Section (86),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,374.6,Single Line High Density,Yes,Medium,Low,160,Maintenance Block Active
+COR-087,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (87),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,105.5,Single Line High Density,Yes,High,Low,130,Operational
+COR-088,Lucknow Charbagh - Bareilly Jn Main Section (88),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,240.4,Multiple Lines (3+),No,Very High,Low,110,Maintenance Block Active
+COR-089,Ahmedabad Jn - Vadodara Jn Main Section (89),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,307.9,Single Line High Density,No,Extreme,Low,160,Maintenance Block Active
+COR-090,Nagpur Jn - Balharshah Main Section (90),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,199.3,Double Line,Yes,Medium,Low,110,Speed Restriction
+COR-091,New Delhi - Kanpur Central Main Section (91),Northern Railway,Delhi,NDLS,New Delhi,CNB,Kanpur Central,290.8,Single Line High Density,No,Medium,Critical,130,Maintenance Block Active
+COR-092,Howrah - Kharagpur Main Section (92),Eastern Railway,Howrah,HWH,Howrah,KGP,Kharagpur,147.3,Double Line,Yes,Medium,Medium,130,Maintenance Block Active
+COR-093,Mumbai CSMT - Pune Jn Main Section (93),Central Railway,Mumbai,CSMT,Mumbai CSMT,PUNE,Pune Jn,285.6,Single Line High Density,Yes,High,High,160,Speed Restriction
+COR-094,Chennai Central - Vijayawada Main Section (94),Southern Railway,Chennai,MAS,Chennai Central,BZA,Vijayawada,260.8,Double Line,No,Extreme,Low,110,Operational
+COR-095,Bengaluru City - Mysuru Jn Main Section (95),South Western Railway,Bengaluru,SBC,Bengaluru City,MYS,Mysuru Jn,188.9,Multiple Lines (3+),Yes,Medium,Medium,130,Maintenance Block Active
+COR-096,Secunderabad - Kazipet Jn Main Section (96),South Central Railway,Secunderabad,SC,Secunderabad,KZJ,Kazipet Jn,237.4,Single Line High Density,Yes,Medium,Low,130,Maintenance Block Active
+COR-097,Prayagraj Jn - Pt. DD Upadhyaya Jn Main Section (97),North Central Railway,Prayagraj,PRYJ,Prayagraj Jn,DDU,Pt. DD Upadhyaya Jn,173.0,Double Line,Yes,Medium,Critical,160,Heavy Traffic
+COR-098,Lucknow Charbagh - Bareilly Jn Main Section (98),Northern Railway,Lucknow,LKO,Lucknow Charbagh,BE,Bareilly Jn,150.9,Single Line High Density,No,Medium,Medium,110,Heavy Traffic
+COR-099,Ahmedabad Jn - Vadodara Jn Main Section (99),Western Railway,Vadodara,ADI,Ahmedabad Jn,BRC,Vadodara Jn,189.6,Multiple Lines (3+),Yes,Medium,Critical,160,Heavy Traffic
+COR-100,Nagpur Jn - Balharshah Main Section (100),Central Railway,Nagpur,NGP,Nagpur Jn,BPQ,Balharshah,181.5,Double Line,Yes,Very High,Low,110,Operational

@@ -1,0 +1,214 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Vintage Indian Railway Control Room x AI Operations Center Aesthetics */
+
+@layer base {
+  body {
+    background-color: #070F1A;
+    color: #F3ECD9;
+    background-image: 
+      radial-gradient(#1B4D3E 0.75px, transparent 0.75px), 
+      radial-gradient(#7A1F2B 0.75px, #070F1A 0.75px);
+    background-size: 30px 30px;
+    background-position: 0 0, 15px 15px;
+  }
+
+  :focus-visible {
+    outline: 3px solid #D4AF37 !important;
+    outline-offset: 2px !important;
+  }
+}
+
+/* Loop Animation for Indian Railways Locomotive along the Track */
+@keyframes train-move {
+  0% {
+    transform: translateY(-50%) translateX(-220px);
+  }
+  100% {
+    transform: translateY(-50%) translateX(1100px);
+  }
+}
+
+.animate-train-loop {
+  animation: train-move 14s linear infinite;
+}
+
+/* AI Dispatch Control Scanline Animation */
+@keyframes scanline {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(1000%);
+  }
+}
+
+.animate-scanline {
+  animation: scanline 4s linear infinite;
+}
+
+/* Jaali / Indian Railway Lattice Pattern Overlay */
+.jaali-pattern {
+  background-color: #0B1F3A;
+  background-image: repeating-linear-gradient(45deg, #1B4D3E 0, #1B4D3E 1px, transparent 0, transparent 50%),
+                    repeating-linear-gradient(-45deg, #1B4D3E 0, #1B4D3E 1px, transparent 0, transparent 50%);
+  background-size: 16px 16px;
+}
+
+/* Ticket Stub Cutout Edges */
+.ticket-stub {
+  position: relative;
+  background-color: #EFE8D3;
+  color: #070F1A;
+  border: 2px solid #D4AF37;
+  box-shadow: 4px 4px 0px #070F1A;
+}
+
+.ticket-stub::before,
+.ticket-stub::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 16px;
+  height: 16px;
+  background-color: #070F1A;
+  border: 2px solid #D4AF37;
+  border-radius: 50%;
+  transform: translateY(-50%);
+}
+
+.ticket-stub::before {
+  left: -9px;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.ticket-stub::after {
+  right: -9px;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+/* Stamp Badge Animations & Seals */
+.stamp-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 12px;
+  font-family: 'Rozha One', 'Alfa Slab One', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border: 2.5px double currentColor;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px currentColor;
+  transform: rotate(-3deg);
+  transition: transform 0.2s ease, scale 0.2s ease;
+}
+
+.stamp-badge:hover {
+  transform: rotate(0deg) scale(1.05);
+}
+
+/* Single deliberate stamp punch moment on load */
+@keyframes stamp-punch {
+  0% {
+    transform: scale(2.2) rotate(12deg);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(0.9) rotate(-4deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(-3deg);
+  }
+}
+
+.stamp-punch-anim {
+  animation: stamp-punch 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* Enamel Signage */
+.enamel-sign {
+  position: relative;
+  background-color: #7A1F2B;
+  color: #F3ECD9;
+  border: 3px solid #D4AF37;
+  box-shadow: 5px 5px 0px #070F1A;
+  border-radius: 4px;
+}
+
+.brass-rivet {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: radial-gradient(circle at 30% 30%, #F59E0B, #B45309);
+  border: 1px solid #78350F;
+  border-radius: 50%;
+}
+
+.brass-rivet.tl { top: 6px; left: 6px; }
+.brass-rivet.tr { top: 6px; right: 6px; }
+.brass-rivet.bl { bottom: 6px; left: 6px; }
+.brass-rivet.br { bottom: 6px; right: 6px; }
+
+/* Reservation Chart Grid */
+.reservation-chart-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border: 2px solid #D4AF37;
+  box-shadow: 4px 4px 0px #070F1A;
+}
+
+.reservation-chart-table th {
+  background-color: #070F1A;
+  color: #F3ECD9;
+  font-family: 'Rozha One', serif;
+  letter-spacing: 0.05em;
+  padding: 8px 12px;
+  border-bottom: 2px solid #7A1F2B;
+  text-align: left;
+}
+
+.reservation-chart-table tr:nth-child(even) {
+  background-color: #EFE8D3;
+  color: #070F1A;
+}
+
+.reservation-chart-table tr:nth-child(odd) {
+  background-color: #F8F4E6;
+  color: #070F1A;
+}
+
+.reservation-chart-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(11, 31, 58, 0.15);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #070F1A;
+  border: 1px solid #D4AF37;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7A1F2B;
+  border: 1px solid #D4AF37;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}
