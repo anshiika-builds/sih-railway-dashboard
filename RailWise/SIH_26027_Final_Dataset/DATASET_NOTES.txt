@@ -1,0 +1,12 @@
+SIH 2026 Problem Statement 26027 - AI-Powered Automatic Block Planning
+
+Dataset provenance:
+- Tonic Fabricate Railway Block Planning export: synthetic operational data.
+- Five previously empty operational tables were generated locally for the prototype:
+  train_movement_windows, coa_block_availability, goods_train_forecast,
+  block_requests, historical_block_plans.
+- Your Train_details timetable should be integrated during the preprocessing stage.
+
+IMPORTANT:
+Tonic data and locally generated operational tables are synthetic prototype data.
+Do not present them as Indian Railways internal operational records.

@@ -1,0 +1,101 @@
+corridor_id,corridor_name,zone,division,start_station_code,start_station_name,end_station_code,end_station_name,distance_km,track_type,electrified,traffic_density,corridor_criticality,maximum_speed_kmph,operational_status
+C00001,NDLS-CNB Section,Northern,Delhi,NDLS,New Delhi,CNB,Kanpur Central,440.5,Multiple Line,Yes,Medium,4,142,Active
+C00002,UMB-LDH Section,Northern,Ambala,UMB,Ambala Cantt,LDH,Ludhiana Junction,113.8,Double Line,Yes,Low,2,112,Active
+C00003,MB-BE Section,Northern,Moradabad,MB,Moradabad,BE,Bareilly Junction,90.2,Double Line,Yes,Medium,4,116,Active
+C00004,LKO-SLN Section,Northern,Lucknow,LKO,Lucknow Charbagh,SLN,Sultanpur Junction,139.4,Single Line,Yes,Medium,3,104,Active
+C00005,FZR-ASR Section,Northern,Firozpur,FZR,Firozpur Cantt,ASR,Amritsar Junction,124.6,Single Line,Yes,High,3,86,Active
+C00006,DLI-GZB Section,Northern,Delhi,DLI,Old Delhi,GZB,Ghaziabad Junction,20.3,Multiple Line,Yes,High,4,128,Restricted
+C00007,CNB-PRYJ Section,North Central,Prayagraj,CNB,Kanpur Central,PRYJ,Prayagraj Junction,194.5,Double Line,No,Medium,3,112,Active
+C00008,AGC-ETW Section,North Central,Agra,AGC,Agra Cantt,ETW,Etawah Junction,136.2,Double Line,Yes,Medium,2,115,Active
+C00009,JHS-GWL Section,North Central,Jhansi,JHS,Virangana Lakshmibai Jhansi,GWL,Gwalior Junction,97.8,Multiple Line,No,Medium,3,149,Active
+C00010,PRYJ-MZP Section,North Central,Prayagraj,PRYJ,Prayagraj Junction,MZP,Mirzapur,89.4,Double Line,No,Medium,3,113,Active
+C00011,ALJN-CNB Section,North Central,Prayagraj,ALJN,Aligarh Junction,CNB,Kanpur Central,309.1,Multiple Line,Yes,Medium,5,118,Active
+C00012,BNDA-MKP Section,North Central,Jhansi,BNDA,Banda Junction,MKP,Manikpur Junction,122.6,Single Line,Yes,High,2,96,Active
+C00013,JP-AII Section,North Western,Jaipur,JP,Jaipur Junction,AII,Ajmer Junction,135.4,Double Line,Yes,Medium,2,102,Active
+C00014,JU-MTD Section,North Western,Jodhpur,JU,Jodhpur Junction,MTD,Merta Road Junction,103.1,Single Line,Yes,Medium,3,93,Active
+C00015,BKN-SOG Section,North Western,Bikaner,BKN,Bikaner Junction,SOG,Suratgarh Junction,182.5,Single Line,Yes,High,4,94,Active
+C00016,RE-AWR Section,North Western,Jaipur,RE,Rewari Junction,AWR,Alwar Junction,74.2,Double Line,Yes,High,4,120,Active
+C00017,UDZ-RPZ Section,North Western,Ajmer,UDZ,Udaipur City,RPZ,Ranapratapnagar,4.6,Single Line,Yes,Medium,3,109,Active
+C00018,ABR-FA Section,North Western,Ajmer,ABR,Abu Road,FA,Falna,98.9,Double Line,No,High,3,118,Active
+C00019,GKP-GD Section,North Eastern,Varanasi,GKP,Gorakhpur Junction,GD,Gonda Junction,152.4,Double Line,No,High,4,104,Under Maintenance
+C00020,LJN-STP Section,North Eastern,Lucknow,LJN,Lucknow Junction,STP,Sitapur Junction,88.6,Single Line,No,Medium,3,100,Active
+C00021,BSB-BUI Section,North Eastern,Varanasi,BSB,Varanasi Junction,BUI,Ballia,138.2,Double Line,Yes,High,2,104,Active
+C00022,IZN-KSJ Section,North Eastern,Izzatnagar,IZN,Izzatnagar,KSJ,Kasganj Junction,204.5,Single Line,Yes,Medium,2,108,Active
+C00023,GKP-CPJ Section,North Eastern,Varanasi,GKP,Gorakhpur Junction,CPJ,Kaptanganj Junction,38.7,Double Line,Yes,Medium,4,112,Under Maintenance
+C00024,MLN-LMP Section,North Eastern,Lucknow,MLN,Mailani Junction,LMP,Lakhimpur,96.1,Single Line,Yes,Medium,3,93,Active
+C00025,GHY-DBRG Section,Northeast Frontier,Lumding,GHY,Guwahati,DBRG,Dibrugarh,405.5,Double Line,No,Medium,3,101,Active
+C00026,NJP-GHY Section,Northeast Frontier,Katihar,NJP,New Jalpaiguri,GHY,Guwahati,407.2,Double Line,No,Medium,4,111,Under Maintenance
+C00027,APDJ-NBQ Section,Northeast Frontier,Alipurduar,APDJ,Alipur Duar Junction,NBQ,New Bongaigaon,159.0,Single Line,No,Medium,3,102,Active
+C00028,LMG-BPB Section,Northeast Frontier,Lumding,LMG,Lumding Junction,BPB,Badarpur Junction,140.8,Single Line,Yes,Very High,2,93,Active
+C00029,KIR-NJP Section,Northeast Frontier,Katihar,KIR,Katihar Junction,NJP,New Jalpaiguri,103.4,Multiple Line,Yes,High,4,135,Active
+C00030,RPAN-RNY Section,Northeast Frontier,Rangiya,RPAN,Rangapara North,RNY,Rangiya Junction,123.6,Single Line,Yes,Low,2,92,Active
+C00031,HWH-BWN Section,Eastern,Howrah,HWH,Howrah Junction,BWN,Barddhaman Junction,93.5,Multiple Line,Yes,Very High,2,125,Active
+C00032,SDAH-KBGB Section,Eastern,Sealdah,SDAH,Sealdah,KBGB,Komagata Maru Budge Budge,24.2,Double Line,Yes,Low,4,122,Active
+C00033,ASN-JSME Section,Eastern,Asansol,ASN,Asansol Junction,JSME,Jasidih Junction,110.8,Double Line,Yes,High,3,121,Active
+C00034,MLDT-NFK Section,Eastern,Malda,MLDT,Malda Town,NFK,New Farakka Junction,35.6,Single Line,Yes,Very High,2,89,Active
+C00035,HWH-KGP Section,Eastern,Howrah,HWH,Howrah Junction,KGP,Kharagpur Junction,115.3,Multiple Line,Yes,Medium,3,135,Active
+C00036,ASN-DHN Section,Eastern,Asansol,ASN,Asansol Junction,DHN,Dhanbad Junction,58.9,Multiple Line,No,High,3,131,Active
+C00037,DNR-MKA Section,East Central,Danapur,DNR,Danapur,MKA,Mokama,89.5,Double Line,Yes,High,4,112,Under Maintenance
+C00038,DDU-GAYA Section,East Central,Pt. Deen Dayal Upadhyaya,DDU,Pt. Deen Dayal Upadhyaya Junction,GAYA,Gaya Junction,205.2,Multiple Line,No,High,3,126,Active
+C00039,DHN-KTH Section,East Central,Dhanbad,DHN,Dhanbad Junction,KTH,Katrasgarh,32.7,Single Line,No,Medium,4,85,Active
+C00040,SEE-BJU Section,East Central,Sonpur,SEE,Sonpur Junction,BJU,Barauni Junction,106.4,Double Line,No,Very High,3,124,Active
+C00041,SPJ-DBG Section,East Central,Samastipur,SPJ,Samastipur Junction,DBG,Darbhanga Junction,37.1,Single Line,No,Very High,3,88,Active
+C00042,GAYA-KQR Section,East Central,Gaya,GAYA,Gaya Junction,KQR,Koderma Junction,77.8,Double Line,Yes,Medium,1,114,Active
+C00043,BBS-KUR Section,East Coast,Khurda Road,BBS,Bhubaneswar,KUR,Khurda Road Junction,19.5,Double Line,Yes,Medium,3,126,Active
+C00044,WAT-VZM Section,East Coast,Waltair,WAT,Visakhapatnam Junction,VZM,Vizianagaram Junction,61.2,Multiple Line,Yes,Medium,3,125,Active
+C00045,SBP-TIG Section,East Coast,Sambalpur,SBP,Sambalpur Junction,TIG,Titlagarh Junction,182.4,Single Line,No,Medium,3,91,Active
+C00046,BBS-CTC Section,East Coast,Khurda Road,BBS,Bhubaneswar,CTC,Cuttack Junction,27.8,Double Line,Yes,High,4,103,Active
+C00047,PURI-BBS Section,East Coast,Khurda Road,PURI,Puri,BBS,Bhubaneswar,63.1,Double Line,Yes,High,2,124,Active
+C00048,RGDA-VZM Section,East Coast,Waltair,RGDA,Rayagada,VZM,Vizianagaram Junction,125.6,Single Line,Yes,Medium,3,88,Active
+C00049,HWH-KGP Section,South Eastern,Kharagpur,HWH,Howrah Junction,KGP,Kharagpur Junction,115.4,Multiple Line,No,Low,4,130,Active
+C00050,TATA-CKP Section,South Eastern,Chakradharpur,TATA,Tatanagar Junction,CKP,Chakradharpur,62.1,Double Line,Yes,Medium,3,122,Active
+C00051,RNC-MURI Section,South Eastern,Ranchi,RNC,Ranchi Junction,MURI,Muri Junction,60.8,Single Line,Yes,High,3,91,Active
+C00052,BSP-ROU Section,South Eastern,Chakradharpur,BSP,Bilaspur Junction,ROU,Rourkela Junction,208.5,Double Line,Yes,Medium,3,115,Active
+C00053,SHM-KGP Section,South Eastern,Kharagpur,SHM,Shalimar,KGP,Kharagpur Junction,128.2,Double Line,Yes,High,3,119,Active
+C00054,ADRA-BKSC Section,South Eastern,Adra,ADRA,Adra Junction,BKSC,Bokaro Steel City,42.6,Single Line,Yes,Medium,2,81,Active
+C00055,BSP-R Section,South East Central,Bilaspur,BSP,Bilaspur Junction,R,Raipur Junction,111.5,Double Line,Yes,Low,3,124,Active
+C00056,R-DURG Section,South East Central,Raipur,R,Raipur Junction,DURG,Durg Junction,37.2,Multiple Line,Yes,High,1,160,Active
+C00057,NGP-G Section,South East Central,Nagpur,NGP,Nagpur Junction,G,Gondia Junction,129.8,Double Line,Yes,Medium,2,113,Active
+C00058,RIG-JSG Section,South East Central,Bilaspur,RIG,Raigarh,JSG,Jharsuguda Junction,71.4,Double Line,Yes,Low,4,112,Restricted
+C00059,MIB-NIR Section,South East Central,Nagpur,MIB,Manmad In Yard,NIR,Nawapur,245.6,Single Line,No,Medium,2,93,Active
+C00060,CPH-KHS Section,South East Central,Bilaspur,CPH,Champa Junction,KHS,Kharsia,45.3,Double Line,Yes,High,3,101,Active
+C00061,MAS-AJJ Section,Southern,Chennai,MAS,MGR Chennai Central,AJJ,Arakkonam Junction,68.5,Multiple Line,Yes,Medium,2,130,Active
+C00062,CBE-PGT Section,Southern,Palakkad,CBE,Coimbatore Junction,PGT,Palakkad Junction,56.2,Double Line,Yes,Very High,3,124,Active
+C00063,MDU-TEN Section,Southern,Madurai,MDU,Madurai Junction,TEN,Tirunelveli Junction,157.0,Single Line,Yes,Low,2,100,Active
+C00064,TPJ-VM Section,Southern,Tiruchchirappalli,TPJ,Tiruchchirappalli Junction,VM,Villupuram Junction,178.4,Double Line,Yes,High,3,130,Active
+C00065,TVC-QLN Section,Southern,Thiruvananthapuram,TVC,Thiruvananthapuram Central,QLN,Kollam Junction,65.1,Double Line,Yes,Medium,3,116,Active
+C00066,SA-ED Section,Southern,Salem,SA,Salem Junction,ED,Erode Junction,59.8,Multiple Line,Yes,Medium,1,141,Active
+C00067,SC-KZJ Section,South Central,Secunderabad,SC,Secunderabad Junction,KZJ,Kazipet Junction,132.5,Double Line,No,Low,3,112,Active
+C00068,BZA-RJY Section,South Central,Vijayawada,BZA,Vijayawada Junction,RJY,Rajahmundry,149.2,Multiple Line,No,Medium,4,140,Active
+C00069,TPTY-GTL Section,South Central,Guntakal,TPTY,Tirupati,GTL,Guntakal Junction,309.8,Single Line,Yes,Medium,3,101,Active
+C00070,NED-PAU Section,South Central,Nanded,NED,Hazur Sahib Nanded,PAU,Purna Junction,30.6,Single Line,Yes,High,2,98,Active
+C00071,GNT-TEL Section,South Central,Guntur,GNT,Guntur Junction,TEL,Tenali Junction,25.4,Double Line,Yes,Medium,3,123,Active
+C00072,BIDR-SC Section,South Central,Secunderabad,BIDR,Bidar,SC,Secunderabad Junction,110.1,Single Line,Yes,Medium,3,88,Active
+C00073,SBC-MYS Section,South Western,Bangalore,SBC,KSR Bengaluru,MYS,Mysuru Junction,138.5,Double Line,Yes,High,3,128,Active
+C00074,UBL-DWR Section,South Western,Hubballi,UBL,SSS Hubballi Junction,DWR,Dharwad,20.4,Double Line,Yes,Medium,1,113,Active
+C00075,MYS-ASK Section,South Western,Mysuru,MYS,Mysuru Junction,ASK,Arsikere Junction,147.2,Single Line,Yes,Medium,1,86,Active
+C00076,UBL-BGM Section,South Western,Hubballi,UBL,SSS Hubballi Junction,BGM,Belagavi,142.0,Single Line,No,High,3,98,Active
+C00077,SBC-TK Section,South Western,Bangalore,SBC,KSR Bengaluru,TK,Tumakuru,69.1,Double Line,Yes,High,4,116,Active
+C00078,UBL-HPT Section,South Western,Hubballi,UBL,SSS Hubballi Junction,HPT,Hosapete Junction,143.6,Single Line,Yes,High,2,95,Under Maintenance
+C00079,CSMT-KYN Section,Central,Mumbai,CSMT,Chhatrapati Shivaji Maharaj Terminus,KYN,Kalyan Junction,54.2,Multiple Line,No,Low,2,115,Active
+C00080,PUNE-DD Section,Central,Pune,PUNE,Pune Junction,DD,Daund Junction,75.5,Double Line,Yes,Medium,2,111,Active
+C00081,NGP-WR Section,Central,Nagpur,NGP,Nagpur Junction,WR,Wardha Junction,78.9,Double Line,Yes,Medium,2,109,Active
+C00082,BSL-AK Section,Central,Bhusawal,BSL,Bhusawal Junction,AK,Akola Junction,139.6,Multiple Line,Yes,High,4,146,Under Maintenance
+C00083,SUR-KWV Section,Central,Solapur,SUR,Solapur,KWV,Kurduwadi Junction,108.4,Single Line,Yes,Medium,3,99,Active
+C00084,ET-BSL Section,Central,Bhusawal,ET,Itarsi Junction,BSL,Bhusawal Junction,306.8,Double Line,Yes,Low,3,113,Active
+C00085,KTT-BTE Section,West Central,Kota,KTT,Kota Junction,BTE,Bharatpur Junction,242.5,Double Line,Yes,Medium,3,118,Active
+C00086,JBP-ET Section,West Central,Jabalpur,JBP,Jabalpur Junction,ET,Itarsi Junction,244.8,Double Line,Yes,Medium,3,111,Active
+C00087,BPL-UJN Section,West Central,Bhopal,BPL,Bhopal Junction,UJN,Ujjain Junction,183.2,Single Line,Yes,Low,2,94,Active
+C00088,KTT-SWM Section,West Central,Kota,KTT,Kota Junction,SWM,Sawai Madhopur Junction,107.6,Double Line,Yes,High,4,122,Active
+C00089,BPL-ET Section,West Central,Bhopal,BPL,Bhopal Junction,ET,Itarsi Junction,92.1,Multiple Line,Yes,High,2,141,Active
+C00090,JBP-KTE Section,West Central,Jabalpur,JBP,Jabalpur Junction,KTE,Katni Junction,91.4,Double Line,No,Very High,3,113,Active
+C00091,BVI-ST Section,Western,Mumbai,BVI,Borivali,ST,Surat,230.5,Double Line,No,Low,4,130,Active
+C00092,ADI-BRC Section,Western,Vadodara,ADI,Ahmedabad Junction,BRC,Vadodara Junction,99.8,Multiple Line,Yes,Medium,4,138,Active
+C00093,RJT-JAM Section,Western,Rajkot,RJT,Rajkot Junction,JAM,Jamnagar,84.2,Single Line,Yes,High,4,96,Active
+C00094,BVC-MHV Section,Western,Bhavnagar,BVC,Bhavnagar Terminus,MHV,Mahuva Junction,191.3,Single Line,No,High,3,86,Active
+C00095,RTM-UJN Section,Western,Ratlam,RTM,Ratlam Junction,UJN,Ujjain Junction,96.4,Double Line,Yes,High,3,128,Active
+C00096,AII-JP Section,Western,Ajmer,AII,Ajmer Junction,JP,Jaipur Junction,134.7,Double Line,Yes,Very High,3,109,Active
+C00097,KAVI-NOAP Section,Metro,Metro Railway Kolkata Division,KAVI,Kavi Subhash,NOAP,Noapara,31.4,Double Line,Yes,High,3,104,Active
+C00098,NOAP-DAWN Section,Metro,Metro Railway Kolkata Division,NOAP,Noapara,DAWN,Dakshineswar,4.1,Double Line,Yes,Very High,3,106,Active
+C00099,JOKA-ESPL Section,Metro,Metro Railway Kolkata Division,JOKA,Joka,ESPL,Esplanade,14.2,Double Line,Yes,High,2,111,Active
+C00100,HWHB-SDSD Section,Metro,Metro Railway Kolkata Division,HWHB,Howrah Maidan,SDSD,Sealdah,9.4,Double Line,Yes,Medium,3,108,Active

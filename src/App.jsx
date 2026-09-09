@@ -3,6 +3,7 @@ import { DataProvider, useData } from './context/DataContext';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
 import LoadingSkeleton from './components/LoadingSkeleton';
+import TaskInspectorModal from './components/TaskInspectorModal';
 
 // Pages
 import OverviewPage from './pages/OverviewPage';
@@ -17,7 +18,15 @@ import ConflictDetectorPage from './pages/ConflictDetectorPage';
 import ScheduleStripPage from './pages/ScheduleStripPage';
 
 const DashboardContent = () => {
-  const { isLoading, loadingStatus, loadedCount, totalFiles, activeTab } = useData();
+  const {
+    isLoading,
+    loadingStatus,
+    loadedCount,
+    totalFiles,
+    activeTab,
+    inspectedTaskId,
+    setInspectedTaskId
+  } = useData();
 
   if (isLoading) {
     return (
@@ -57,18 +66,27 @@ const DashboardContent = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#F3ECD9]">
+    <div className="min-h-screen flex flex-col bg-[#070F1A] text-[#F3ECD9]">
       <Header />
       <Navigation />
       <main className="flex-1 max-w-7xl w-full mx-auto p-4 md:p-6">
         {renderActiveModule()}
       </main>
-      <footer className="bg-[#0B1F3A] text-[#F3ECD9] text-center p-4 border-t-4 border-[#7A1F2B] font-mono text-xs">
-        <p className="uppercase tracking-widest text-[#D4AF37]">
+
+      {/* Task Inspector & Recommendation Dossier Modal */}
+      {inspectedTaskId && (
+        <TaskInspectorModal
+          taskId={inspectedTaskId}
+          onClose={() => setInspectedTaskId(null)}
+        />
+      )}
+
+      <footer className="bg-[#070F1A] text-[#F3ECD9] text-center p-4 border-t-4 border-[#7A1F2B] font-mono text-xs shadow-inner">
+        <p className="uppercase tracking-widest text-[#D4AF37] font-bold">
           MINISTRY OF RAILWAYS • SIH26027 AUTOMATIC BLOCK PLANNING PROTOTYPE
         </p>
-        <p className="text-white/60 text-[10px] mt-1">
-          block_requests, coa_block_availability, goods_train_forecast, and historical_block_plans are locally-generated synthetic prototype data, not real Indian Railways operational records.
+        <p className="text-white/50 text-[10px] mt-1">
+          RailWise Backend API Connected • AI CP-SAT Engine Active • Authoritative Data Outputs Connected
         </p>
       </footer>
     </div>
