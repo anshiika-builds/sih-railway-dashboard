@@ -1,6 +1,7 @@
 // RailWise REST API Client Service
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+export const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || '';
 
 async function fetchJson(endpoint, options = {}) {
   const url = `${API_BASE_URL}${endpoint}`;
@@ -23,8 +24,11 @@ async function fetchJson(endpoint, options = {}) {
 }
 
 export const api = {
+  baseUrl: API_BASE_URL,
   getHealth: () => fetchJson('/api/health'),
   getMetrics: () => fetchJson('/api/metrics'),
+  
+  getCorridors: () => fetchJson('/api/corridors'),
   
   getMaintenance: (params = {}) => {
     const query = new URLSearchParams(params).toString();
@@ -33,6 +37,63 @@ export const api = {
   
   getMaintenanceTask: (taskId) => fetchJson(`/api/maintenance/${encodeURIComponent(taskId)}`),
   
+  getRecommendations: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/recommendations${query ? `?${query}` : ''}`);
+  },
+
+  getRecommendation: (taskId) => fetchJson(`/api/recommendations/${encodeURIComponent(taskId)}`),
+
+  getOptimizedBlocks: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/optimized-blocks${query ? `?${query}` : ''}`);
+  },
+  
+  getConflicts: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/conflicts${query ? `?${query}` : ''}`);
+  },
+  
+  getBaselineComparison: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/baseline-comparison${query ? `?${query}` : ''}`);
+  },
+  
+  getAssets: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/assets${query ? `?${query}` : ''}`);
+  },
+
+  getBlockRequests: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/block-requests${query ? `?${query}` : ''}`);
+  },
+
+  getCoaAvailability: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/coa-availability${query ? `?${query}` : ''}`);
+  },
+
+  getGoodsForecast: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/goods-forecast${query ? `?${query}` : ''}`);
+  },
+
+  getTrainSchedule: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/train-schedule${query ? `?${query}` : ''}`);
+  },
+
+  getMovementWindows: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/movement-windows${query ? `?${query}` : ''}`);
+  },
+
+  getHistoricalPlans: (params = {}) => {
+    const query = new URLSearchParams(params).toString();
+    return fetchJson(`/api/historical-plans${query ? `?${query}` : ''}`);
+  },
+
   getRiskPredictions: (params = {}) => {
     const query = new URLSearchParams(params).toString();
     return fetchJson(`/api/risk${query ? `?${query}` : ''}`);
@@ -43,27 +104,6 @@ export const api = {
     return fetchJson(`/api/candidates${query ? `?${query}` : ''}`);
   },
   
-  getConflicts: (params = {}) => {
-    const query = new URLSearchParams(params).toString();
-    return fetchJson(`/api/conflicts${query ? `?${query}` : ''}`);
-  },
-  
-  getOptimizedBlocks: (params = {}) => {
-    const query = new URLSearchParams(params).toString();
-    return fetchJson(`/api/optimized-blocks${query ? `?${query}` : ''}`);
-  },
-  
-  getRecommendation: (taskId) => fetchJson(`/api/recommendations/${encodeURIComponent(taskId)}`),
-  
-  getBaselineComparison: () => fetchJson('/api/baseline-comparison'),
-  
-  getTrainSchedule: (params = {}) => {
-    const query = new URLSearchParams(params).toString();
-    return fetchJson(`/api/train-schedule${query ? `?${query}` : ''}`);
-  },
-  
-  getCorridors: () => fetchJson('/api/corridors'),
-  
   predictPriority: (payload) => fetchJson('/api/predict-priority', {
     method: 'POST',
     body: JSON.stringify(payload),
@@ -71,3 +111,4 @@ export const api = {
 };
 
 export default api;
+
