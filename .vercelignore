@@ -1,4 +1,9 @@
-
 RailWise/models/
-
 RailWise/SIH_26027_Final_Dataset/Train_details
+node.zip
+*.zip
+*.ipynb
+project_check.txt
+__pycache__/
+*.py[cod]
+.git
