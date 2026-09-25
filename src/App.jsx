@@ -1,5 +1,6 @@
 import React from 'react';
 import { DataProvider, useData } from './context/DataContext';
+import api from './services/api';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
 import LoadingSkeleton from './components/LoadingSkeleton';
@@ -25,7 +26,10 @@ const DashboardContent = () => {
     totalFiles,
     activeTab,
     inspectedTaskId,
-    setInspectedTaskId
+    setInspectedTaskId,
+    backendError,
+    apiConnected,
+    fetchBackendData
   } = useData();
 
   if (isLoading) {
@@ -35,6 +39,43 @@ const DashboardContent = () => {
         loadedCount={loadedCount}
         totalFiles={totalFiles}
       />
+    );
+  }
+
+  if (backendError && !apiConnected) {
+    return (
+      <div className="min-h-screen bg-[#070F1A] flex flex-col items-center justify-center p-6 text-[#F3ECD9]">
+        <div className="w-full max-w-xl bg-[#0B1320] border-4 border-[#7A1F2B] shadow-[0_0_40px_rgba(122,31,43,0.8)] p-8 rounded relative text-center font-mono">
+          <div className="w-16 h-16 bg-[#7A1F2B] text-[#D4AF37] rounded-full mx-auto flex items-center justify-center border-2 border-[#D4AF37] shadow mb-4">
+            <span className="text-2xl font-bold">⚠️</span>
+          </div>
+
+          <h2 className="font-display text-2xl uppercase tracking-wider text-[#FF2E4C] mb-2">
+            FASTAPI BACKEND UNAVAILABLE
+          </h2>
+          <p className="text-xs uppercase tracking-widest text-[#D4AF37] font-bold mb-4">
+            UNABLE TO LOAD LIVE DATA FROM {api.baseUrl}
+          </p>
+
+          <div className="bg-black/60 p-4 rounded border border-white/20 text-left text-xs space-y-2 mb-6 text-white/80">
+            <p className="text-[#FFB800] font-bold">Error Notice:</p>
+            <p className="text-[11px] font-sans text-white/70">{backendError}</p>
+            <div className="pt-2 border-t border-white/10">
+              <span className="text-[10px] text-[#D4AF37] block mb-1">To start the FastAPI backend server, run:</span>
+              <code className="bg-[#070F1A] text-[#00FF66] px-2 py-1 rounded block text-xs border border-[#00FF66]/30">
+                python -m uvicorn backend.app.main:app --reload
+              </code>
+            </div>
+          </div>
+
+          <button
+            onClick={() => fetchBackendData()}
+            className="bg-[#7A1F2B] text-[#F3ECD9] px-6 py-2.5 rounded font-bold uppercase tracking-wider border-2 border-[#D4AF37] hover:bg-[#D4AF37] hover:text-[#070F1A] transition-all shadow"
+          >
+            🔄 RETRY CONNECTION
+          </button>
+        </div>
+      </div>
     );
   }
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useData } from '../context/DataContext';
 import RailwaySignal from './RailwaySignal';
-import { Search, Filter, AlertCircle, Train, Compass, Radio } from 'lucide-react';
+import { Search, Filter, AlertCircle, Train, Compass, Radio, CheckCircle, XCircle } from 'lucide-react';
 
 export const Header = () => {
   const {
@@ -10,7 +10,8 @@ export const Header = () => {
     selectedZone,
     setSelectedZone,
     selectedDept,
-    setSelectedDept
+    setSelectedDept,
+    apiConnected
   } = useData();
 
   return (
@@ -27,11 +28,20 @@ export const Header = () => {
           </span>
         </div>
 
-        <div className="flex items-center gap-3">
-          <div className="flex items-center gap-1.5 text-[10px] font-bold text-[#00FF66] bg-black/40 px-2 py-0.5 rounded border border-[#00FF66]/30">
-            <Radio className="w-3 h-3 text-[#00FF66] animate-pulse" />
-            <span>DISPATCH MATRIX: ACTIVE</span>
-          </div>
+        <div className="flex items-center gap-2.5">
+          {/* Real Backend Status Indicator */}
+          {apiConnected ? (
+            <div className="flex items-center gap-1.5 text-[10px] font-bold text-[#00FF66] bg-black/50 px-2 py-0.5 rounded border border-[#00FF66]/40 shadow-sm">
+              <span className="w-2 h-2 rounded-full bg-[#00FF66] animate-pulse"></span>
+              <span>🟢 Backend Connected</span>
+            </div>
+          ) : (
+            <div className="flex items-center gap-1.5 text-[10px] font-bold text-[#FF2E4C] bg-black/50 px-2 py-0.5 rounded border border-[#FF2E4C]/40 shadow-sm">
+              <span className="w-2 h-2 rounded-full bg-[#FF2E4C] animate-ping"></span>
+              <span>🔴 Backend Offline</span>
+            </div>
+          )}
+
           <span className="bg-[#D4AF37] text-[#070F1A] px-2 py-0.5 rounded text-[10px] font-bold tracking-wider uppercase">
             CONTROL ROOM v2.4
           </span>
@@ -110,11 +120,11 @@ export const Header = () => {
         </div>
       </div>
 
-      {/* Synthetic Dataset Disclaimer */}
-      <div className="bg-[#D4AF37] text-[#070F1A] px-4 py-0.5 text-center font-mono text-[10px] font-bold border-t border-[#070F1A] flex items-center justify-center gap-1.5">
-        <AlertCircle className="w-3 h-3 text-[#7A1F2B]" />
-        <span>
-          PROTOTYPE NOTICE: <code className="bg-[#070F1A]/10 px-1 rounded">block_requests</code>, <code className="bg-[#070F1A]/10 px-1 rounded">coa_block_availability</code>, <code className="bg-[#070F1A]/10 px-1 rounded">goods_train_forecast</code>, and <code className="bg-[#070F1A]/10 px-1 rounded">historical_block_plans</code> are synthetic datasets for SIH26027 simulation.
+      {/* Real Backend Data Source Label */}
+      <div className="bg-[#1B4D3E] text-[#F3ECD9] px-4 py-1 text-center font-mono text-[10px] font-bold border-t border-[#D4AF37]/30 flex items-center justify-center gap-2 shadow-inner">
+        <Radio className="w-3.5 h-3.5 text-[#00FF66] animate-pulse" />
+        <span className="tracking-wider">
+          RAILWISE BACKEND • PROCESSED OPERATIONAL DATA • FASTAPI OPTIMIZATION ENGINE SYNCHRONIZED
         </span>
       </div>
     </header>

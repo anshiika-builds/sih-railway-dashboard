@@ -29,6 +29,9 @@ class DataLoader:
         self.unified_maintenance_df = pd.DataFrame()
         self.block_requests_df = pd.DataFrame()
         self.coa_availability_df = pd.DataFrame()
+        self.goods_forecast_df = pd.DataFrame()
+        self.historical_plans_df = pd.DataFrame()
+        self.movement_windows_df = pd.DataFrame()
 
         # ML Model
         self.model = None
@@ -67,6 +70,9 @@ class DataLoader:
         self.unified_maintenance_df = _read_csv_safe(os.path.join(self.dataset_dir, 'unified_maintenance.csv'))
         self.block_requests_df = _read_csv_safe(os.path.join(self.dataset_dir, 'block_requests.csv'))
         self.coa_availability_df = _read_csv_safe(os.path.join(self.dataset_dir, 'coa_block_availability.csv'))
+        self.goods_forecast_df = _read_csv_safe(os.path.join(self.dataset_dir, 'goods_train_forecast.csv'))
+        self.historical_plans_df = _read_csv_safe(os.path.join(self.dataset_dir, 'historical_block_plans.csv'))
+        self.movement_windows_df = _read_csv_safe(os.path.join(self.dataset_dir, 'train_movement_windows.csv'))
 
         # 3. Load XGBoost Model if present and XGBoost module is available
         model_path = os.path.join(self.models_dir, 'xgboost_maintenance_priority_model.pkl')

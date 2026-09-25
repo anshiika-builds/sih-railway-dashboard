@@ -43,7 +43,7 @@ export const BlockBoardPage = () => {
             <Kanban className="w-7 h-7 text-[#D4AF37]" /> BLOCK REQUEST KANBAN BOARD
           </h2>
           <p className="font-mono text-xs text-[#D4AF37] font-bold uppercase mt-1">
-            WORKFLOW DISPATCH FOR 6,000 POSSESSION REQUESTS • CLICK ANY CARD TO INSPECT BACKEND OPTIMIZATION DOSSIER
+            WORKFLOW DISPATCH FOR {requests.length.toLocaleString()} POSSESSION REQUESTS • CLICK ANY CARD TO INSPECT BACKEND OPTIMIZATION DOSSIER
           </p>
         </div>
       </div>

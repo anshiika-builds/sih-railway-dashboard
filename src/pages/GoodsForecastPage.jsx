@@ -29,7 +29,7 @@ export const GoodsForecastPage = () => {
             <Clock className="w-7 h-7 text-[#7A1F2B]" /> GOODS TRAIN TRAFFIC FORECAST
           </h2>
           <p className="font-mono text-xs text-[#7A1F2B] font-bold uppercase mt-1">
-            FREIGHT RAKE TRAFFIC PREDICTION DIALS & STATION CLOCK WIDGETS (3,000 FORECAST RECORDS)
+            FREIGHT RAKE TRAFFIC PREDICTION DIALS & STATION CLOCK WIDGETS ({forecasts.length.toLocaleString()} FORECAST RECORDS)
           </p>
         </div>
 

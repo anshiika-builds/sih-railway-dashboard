@@ -21,6 +21,8 @@ class MetricsResponse(BaseModel):
     optimized_blocks: int
     deferred_tasks: int
     no_feasible_blocks: int
+    total_maintenance_tasks: Optional[int] = None
+    total_assets: Optional[int] = None
     system_status: str
 
 class MaintenanceTask(BaseModel):

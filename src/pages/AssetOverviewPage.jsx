@@ -67,7 +67,7 @@ export const AssetOverviewPage = () => {
             <Activity className="w-7 h-7 text-[#7A1F2B]" /> ASSET CONDITION & MAINTENANCE DUE TRACKER
           </h2>
           <p className="font-mono text-xs text-[#7A1F2B] font-bold uppercase mt-1">
-            MASTER REGISTRY OF 12,000 INFRASTRUCTURE ASSETS • DAYS UNTIL DUE CALCULATOR
+            MASTER REGISTRY OF {assets.length.toLocaleString()} INFRASTRUCTURE ASSETS • DAYS UNTIL DUE CALCULATOR
           </p>
         </div>
 

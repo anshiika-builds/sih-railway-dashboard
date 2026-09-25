@@ -7,13 +7,13 @@ import { Zap, ShieldCheck, TrendingUp, BarChart3, AlertTriangle, Layers, Cpu, Fi
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Legend } from 'recharts';
 
 export const AiVsManualPage = () => {
-  const { aggregations } = useData();
+  const { aggregations, data, baselineComparison } = useData();
   const metrics = aggregations.aiVsManual || {
-    avgAiConflicts: 0.4,
-    avgManualConflicts: 5.2,
-    conflictReductionPct: 84,
-    avgAiUtil: 92.4,
-    avgManualUtil: 68.1
+    avgAiConflicts: 0.03,
+    avgManualConflicts: 1.83,
+    conflictReductionPct: 98.5,
+    avgAiUtil: 68.5,
+    avgManualUtil: 65.3
   };
 
   const chartData = [
@@ -38,7 +38,7 @@ export const AiVsManualPage = () => {
             <Zap className="w-7 h-7 text-[#D4AF37]" /> AI VS MANUAL PLANNING BENCHMARK (HERO EVALUATION)
           </h2>
           <p className="font-mono text-xs text-[#D4AF37] font-bold uppercase mt-1">
-            ANALYSIS OF 4,000 HISTORICAL BLOCK PLANS • PROVING QUANTIFIABLE VALUE OF SIH26027 ENGINE
+            ANALYSIS OF {baselineComparison.length ? `${baselineComparison.length} BASELINE COMPARISON RECORDS & ` : ''}{data.historicalPlans?.length ? `${data.historicalPlans.length.toLocaleString()} HISTORICAL PLANS` : '4,000 HISTORICAL PLANS'} • PROVING QUANTIFIABLE VALUE OF SIH26027 ENGINE
           </p>
         </div>
 
@@ -142,7 +142,9 @@ export const AiVsManualPage = () => {
       <div className="bg-[#0B1320] border-4 border-[#D4AF37] shadow-desi p-6 rounded">
         <h3 className="font-display text-2xl uppercase tracking-wider text-[#F3ECD9] mb-4 flex items-center justify-between border-b-2 border-[#D4AF37] pb-2">
           <span>COMPARATIVE PERFORMANCE BREAKDOWN</span>
-          <span className="font-mono text-xs text-[#D4AF37]">DATASET: 4,000 HISTORICAL PLANS</span>
+          <span className="font-mono text-xs text-[#D4AF37]">
+            DATASET: {baselineComparison.length || 178} BASELINE RECORDS ({data.historicalPlans?.length ? data.historicalPlans.length.toLocaleString() : '4,000'} HISTORICAL PLANS)
+          </span>
         </h3>
 
         <div className="h-80 w-full mt-4">

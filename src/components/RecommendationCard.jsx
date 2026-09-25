@@ -42,8 +42,13 @@ export const RecommendationCard = ({ recommendation, className = '' }) => {
     } ${className}`}>
 
       {/* Header Banner */}
-      <div className="flex items-center justify-between border-b-2 border-white/20 pb-3 mb-4 font-mono">
-        <div className="flex items-center gap-2.5">
+      <div className="flex flex-wrap items-center justify-between border-b-2 border-white/20 pb-3 mb-4 font-mono gap-2">
+        <div className="flex flex-wrap items-center gap-2">
+          {/* Subtle AI Recommended Badge */}
+          <span className="inline-flex items-center gap-1 bg-[#D4AF37]/20 text-[#D4AF37] border border-[#D4AF37] px-2 py-0.5 rounded text-[10px] font-mono font-bold tracking-wider uppercase shadow-sm">
+            ✦ AI RECOMMENDED
+          </span>
+
           {isFeasible ? (
             <div className="flex items-center gap-1.5 bg-[#00FF66]/10 text-[#00FF66] border border-[#00FF66] px-2.5 py-1 rounded text-xs font-bold uppercase">
               <CheckCircle2 className="w-4 h-4" /> ✓ OPTIMIZED BLOCK

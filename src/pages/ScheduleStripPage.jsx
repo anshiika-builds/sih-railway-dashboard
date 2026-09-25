@@ -29,7 +29,7 @@ export const ScheduleStripPage = () => {
             <Train className="w-7 h-7 text-[#7A1F2B]" /> VINTAGE STATION DEPARTURE BOARD & TICKER
           </h2>
           <p className="font-mono text-xs text-[#7A1F2B] font-bold uppercase mt-1">
-            LIVE TICKER OF 26,736 TRAIN TIMETABLE ENTRIES • SPLIT-FLAP STATION DEPARTURE STYLE
+            LIVE TICKER OF {schedules.length.toLocaleString()} TRAIN TIMETABLE ENTRIES • SPLIT-FLAP STATION DEPARTURE STYLE
           </p>
         </div>
 

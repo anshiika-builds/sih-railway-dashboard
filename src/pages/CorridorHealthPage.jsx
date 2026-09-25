@@ -45,7 +45,7 @@ export const CorridorHealthPage = () => {
             <MapPin className="w-7 h-7 text-[#7A1F2B]" /> CORRIDOR HEALTH & CRITICALITY MAP
           </h2>
           <p className="font-mono text-xs text-[#7A1F2B] font-bold uppercase mt-1">
-            MONITORING 100 HIGH-DENSITY SECTIONS • JOINED LIVE MAINTENANCE & BLOCK REQUEST COUNTS
+            MONITORING {corridors.length.toLocaleString()} HIGH-DENSITY SECTIONS • JOINED LIVE MAINTENANCE & BLOCK REQUEST COUNTS
           </p>
         </div>
 
